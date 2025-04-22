@@ -1,0 +1,325 @@
+{
+    "Annual Crop Land": {
+        "Contrast": [
+            "Annual Crop Land, which exhibits low contrast between crops and the surrounding background.",
+            "Annual Crop Land, which shows high contrast between the vibrant crops and the background."
+        ],
+        "Texture": [
+            "Annual Crop Land, which has a smooth and uniform texture.",
+            "Annual Crop Land, which shows a consistent and even textured landscape.",
+            "Annual Crop Land, which shows a fine and regular texture across the cultivated fields."
+        ],
+        "Orientation": [
+            "Annual Crop Land, which displays horizontal orientation of crops.",
+            "Annual Crop Land, which showcases vertical orientation of crops."
+        ],
+        "Edge": [
+            "Annual Crop Land, which has defined edges between the cultivated areas and surrounding land features.",
+            "Annual Crop Land, which showcases irregular edges where crops meet non-cultivated land.",
+            "Annual Crop Land, which presents smooth edges indicating well-planned crop boundaries.",
+            "Annual Crop Land, which features jagged edges due to a mix of different crops grown close together."
+        ],
+        "Size": [
+            "Annual Crop Land, which shows vast expanses of cultivated fields spreading out as far as the eye can see.",
+            "Annual Crop Land, which shows large-scale agricultural areas extending across the landscape."
+        ],
+        "Color": [
+            "Annual Crop Land, which appears as vibrant green foliage covering the majority of the landscape.",
+            "Annual Crop Land, which exhibits various shades of green indicating different crop varieties.",
+            "Annual Crop Land, which displays patches of brown soil interspersed with rich green crops.",
+            "Annual Crop Land, which features a uniform green coloration across the entire area.",
+            "Annual Crop Land, which showcases a mix of light and dark green hues corresponding to crop stages."
+        ],
+        "Symmetry": [
+            "Annual Crop Land, which lacks symmetry in the arrangement of crops.",
+            "Annual Crop Land, which demonstrates a symmetrical pattern in the layout of crops."
+        ]
+    },
+    "Forest": {
+        "Contrast": [
+            "Forest, which exhibits low contrast between the greenery and the surrounding environment.",
+            "Forest, which shows high contrast between the dark tree trunks and the vibrant foliage."
+        ],
+        "Texture": [
+            "Forest, which has a dense and rough texture with thick tree cover.",
+            "Forest, which shows a dense and coarse texture with abundant foliage.",
+            "Forest, which has a chaotic and tangled texture with a dense canopy of trees."
+        ],
+        "Orientation": [
+            "Forest, which displays vertical orientation of trees.",
+            "Forest, which showcases a mixture of vertical and slanted tree orientations."
+        ],
+        "Edge": [
+            "Forest, which presents irregular and natural edges between the tree canopy and surrounding areas.",
+            "Forest, which may have distinctive clear-cut boundaries delineating different forest regions."
+        ],
+        "Size": [
+            "Forest, which shows a vast expanse of trees stretching out as far as the eye can see.",
+            "Forest, which exhibits a large-scale forested area covering a significant portion of the landscape."
+        ],
+        "Color": [
+            "Forest, which predominantly features various shades of green, ranging from dark emerald to light lime.",
+            "Forest, which may include brown and earthy tones in addition to green hues."
+        ],
+        "Symmetry": [
+            "Forest, which lacks symmetry in the distribution of trees and vegetation.",
+            "Forest, which showcases a symmetrical pattern in the arrangement of trees and foliage."
+        ]
+    },
+    "Herbaceous Vegetation Land": {
+        "Contrast": [
+            "Herbaceous Vegetation Land, which exhibits low contrast between different patches of vegetation and the surrounding background.",
+            "Herbaceous Vegetation Land, which shows high contrast between the vibrant vegetation and the background."
+        ],
+        "Texture": [
+            "Herbaceous Vegetation Land, which has a soft and feathery texture.",
+            "Herbaceous Vegetation Land, which shows a fine and delicate texture across the grassy areas.",
+            "Herbaceous Vegetation Land, which shows a smooth and uniform texture."
+        ],
+        "Orientation": [
+            "Herbaceous Vegetation Land, which displays a horizontal orientation of vegetation.",
+            "Herbaceous Vegetation Land, which showcases a vertical orientation of vegetation."
+        ],
+        "Edge": [
+            "Herbaceous Vegetation Land, which features smooth and continuous edges between different patches of vegetation.",
+            "Herbaceous Vegetation Land, which shows defined boundaries with clear transitions between vegetation types."
+        ],
+        "Size": [
+            "Herbaceous Vegetation Land, which shows expansive and sprawling grasslands.",
+            "Herbaceous Vegetation Land, which shows vast fields of greenery extending to the horizon."
+        ],
+        "Color": [
+            "Herbaceous Vegetation Land, which appears as lush green in color, indicative of healthy vegetation and abundant growth.",
+            "Herbaceous Vegetation Land, which showcases a vibrant green hue, signifying dense and thriving plant life."
+        ],
+        "Symmetry": [
+            "Herbaceous Vegetation Land, which lacks symmetry in the distribution of vegetation.",
+            "Herbaceous Vegetation Land, which demonstrates a symmetrical pattern in the layout of vegetation patches."
+        ]
+    },
+    "Highway or Road": {
+        "Contrast": [
+            "Highway or Road, which exhibits high contrast between the road surface and the surrounding landscape.",
+            "Highway or Road, which shows low contrast between the road and the adjacent areas."
+        ],
+        "Texture": [
+            "Highway or Road, which has a smooth and even texture.",
+            "Highway or Road, which shows a consistent and regular pattern of pavement.",
+            "Highway or Road, which shows a flat and non-textured surface."
+        ],
+        "Orientation": [
+            "Highway or Road, which displays horizontal orientation in most sections.",
+            "Highway or Road, which showcases diagonal orientation in certain areas."
+        ],
+        "Edge": [
+            "Highway or Road, which has defined edges for delineation and safety purposes.",
+            "Highway or Road, which may have soft edges blending into the surrounding terrain."
+        ],
+        "Size": [
+            "Highway or Road, which shows long and wide stretches of road.",
+            "Highway or Road, which shows expansive and extensive road networks extending across the landscape."
+        ],
+        "Color": [
+            "Highway or Road, which is typically dark asphalt grey in color.",
+            "Highway or Road, which may appear light grey depending on the construction materials."
+        ],
+        "Symmetry": [
+            "Highway or Road, which lacks symmetry in terms of lane markings and road signs.",
+            "Highway or Road, which demonstrates a symmetrical pattern in the arrangement of lanes and road dividers."
+        ]
+    },
+    "Industrial Buildings": {
+        "Contrast": [
+            "Industrial Buildings, which have low contrast between the buildings and the surrounding environment due to similar grayscale tones.",
+            "Industrial Buildings, which show high contrast between the dark buildings and the lighter background."
+        ],
+        "Texture": [
+            "Industrial Buildings, which have a smooth and uniform texture.",
+            "Industrial Buildings, which have a rough and textured surface.",
+            "Industrial Buildings, which appear to have a weathered and worn texture."
+        ],
+        "Orientation": [
+            "Industrial Buildings, which display both horizontal and vertical orientations.",
+            "Industrial Buildings, which showcase predominantly vertical orientations in their structure and design."
+        ],
+        "Edge": [
+            "Industrial Buildings, which have sharp, angular edges and defined corners in their structure.",
+            "Industrial Buildings, which show linear edges and straight boundaries outlining the building shape."
+        ],
+        "Size": [
+            "Industrial Buildings, which are large-scale structures that dwarf the surrounding landscape.",
+            "Industrial Buildings, which are massive structures occupying a significant area."
+        ],
+        "Color": [
+            "Industrial Buildings, which appear in various shades of gray and brown, reflecting concrete and metal construction materials.",
+            "Industrial Buildings, which feature a dominant color palette of neutral tones like beige, gray, and white."
+        ],
+        "Symmetry": [
+            "Industrial Buildings, which lack symmetry in their architectural design and layout.",
+            "Industrial Buildings, which demonstrate asymmetrical structures and irregular shapes."
+        ]
+    },
+    "Pasture Land": {
+        "Contrast": [
+            "Pasture Land, which exhibits low contrast between the grass and the surrounding landscape.",
+            "Pasture Land, which shows subtle contrast between the green grass and the brown soil."
+        ],
+        "Texture": [
+            "Pasture Land, which has a smooth and uniform texture.",
+            "Pasture Land, which shows a consistent and even textured landscape.",
+            "Pasture Land, which shows a fine and regular texture across the grassy fields."
+        ],
+        "Orientation": [
+            "Pasture Land, which displays random orientation of the grass.",
+            "Pasture Land, which showcases a natural and organic orientation of the vegetation."
+        ],
+        "Edge": [
+            "Pasture Land, characterized by soft, irregular edges blending into surrounding features.",
+            "Pasture Land, with defined edges separating it from adjacent land cover types."
+        ],
+        "Size": [
+            "Pasture Land, which shows wide open grasslands spreading out as far as the eye can see.",
+            "Pasture Land, which shows vast expanses of grazing areas extending across the landscape."
+        ],
+        "Color": [
+            "Pasture Land, which exhibits various shades of green, ranging from light to dark hues.",
+            "Pasture Land, which showcases a predominantly green color palette with occasional hints of brown or yellow tones."
+        ],
+        "Symmetry": [
+            "Pasture Land, which lacks symmetry in the distribution of grass.",
+            "Pasture Land, which demonstrates an irregular pattern in the arrangement of vegetation."
+        ]
+    },
+    "Permanent Crop Land": {
+        "Contrast": [
+            "Permanent Crop Land, which exhibits low contrast between crops and the surrounding background.",
+            "Permanent Crop Land, which shows high contrast between the vibrant crops and the background."
+        ],
+        "Texture": [
+            "Permanent Crop Land, which has a dense and consistent texture.",
+            "Permanent Crop Land, which shows a uniform texture across the cultivated area.",
+            "Permanent Crop Land, which exhibits a fine and regular texture."
+        ],
+        "Orientation": [
+            "Permanent Crop Land, which displays horizontal orientation of crops.",
+            "Permanent Crop Land, which showcases vertical orientation of crops."
+        ],
+        "Edge": [
+            "Permanent Crop Land, which has well-defined edges outlining individual fields or plantation areas.",
+            "Permanent Crop Land, which may show irregular or blurred edges due to natural boundaries or mixing of different crop types."
+        ],
+        "Size": [
+            "Permanent Crop Land, which shows medium-sized cultivated fields spread across the landscape.",
+            "Permanent Crop Land, which displays a large-scale agricultural area extending as far as the eye can see."
+        ],
+        "Color": [
+            "Permanent Crop Land, which appears predominantly in shades of green, representing various crops at different growth stages.",
+            "Permanent Crop Land, which may feature patches of vibrant yellow or orange among the green, indicating specific types of crops or seasonal changes."
+        ],
+        "Symmetry": [
+            "Permanent Crop Land, which lacks symmetry in the arrangement of crops.",
+            "Permanent Crop Land, which demonstrates a symmetrical pattern in the layout of crops."
+        ]
+    },
+    "Residential Buildings": {
+        "Contrast": [
+            "Residential Buildings, which exhibit low contrast between the buildings and the surrounding environment.",
+            "Residential Buildings, which show high contrast between the buildings and the sky or nearby structures."
+        ],
+        "Texture": [
+            "Residential Buildings, which shows smooth and clean surfaces.",
+            "Residential Buildings, which illustrates buildings with a consistent and uniform texture."
+        ],
+        "Orientation": [
+            "Residential Buildings, which display vertical orientation with tall structures.",
+            "Residential Buildings, which showcase horizontal orientation with wide building structures."
+        ],
+        "Edge": [
+            "Residential Buildings, which have sharp edges and clean lines in their architectural structure.",
+            "Residential Buildings, which feature rounded edges and curved architectural elements.",
+            "Residential Buildings, which present a mix of sharp and rounded edges.",
+            "Residential Buildings, which may have intricate details along the edges such as decorative trims or moldings."
+        ],
+        "Size": [
+            "Residential Buildings, which captures houses of various sizes, ranging from small cottages to large mansions."
+        ],
+        "Color": [
+            "Residential Buildings, which exhibit various colors such as earthy tones like beige and brown.",
+            "Residential Buildings, which can be seen in neutral colors like white and light grey.",
+            "Residential Buildings, which may showcase a mix of vibrant colors like red and blue.",
+            "Residential Buildings, which feature shades of green due to vegetation around the buildings.",
+            "Residential Buildings, which often have roofs in colors like red, grey, or brown."
+        ],
+        "Symmetry": [
+            "Residential Buildings, which lack symmetry in their architectural design.",
+            "Residential Buildings, which demonstrate a symmetrical layout of windows and doors."
+        ]
+    },
+    "River": {
+        "Contrast": [
+            "River, which often has low contrast between the water and the surrounding land or vegetation.",
+            "River, where the water stands out due to its high contrast with the surrounding environment."
+        ],
+        "Texture": [
+            "River, which has a smooth and glistening texture.",
+            "River, which shows a flowing and shimmering texture."
+        ],
+        "Orientation": [
+            "River, which is often horizontal in its overall orientation.",
+            "River, which may have a diagonal or meandering orientation depending on the landscape."
+        ],
+        "Edge": [
+            "River, which borders land or structures, showing a distinct line separating water from the surroundings.",
+            "River, where the edge can be irregular with inlets, curves, or banks along its course."
+        ],
+        "Size": [
+            "River, which shows a wide and meandering water body.",
+            "River, which shows a long and winding stream.",
+            "River, which shows a vast expanse of flowing water."
+        ],
+        "Color": [
+            "River, which appears as various shades of blue ranging from pale blue to deep navy.",
+            "River, which may show reflections of the sky and surrounding vegetation, adding hues of green and white to the water surface."
+        ],
+        "Symmetry": [
+            "River, which lacks symmetry in its shape and contour.",
+            "River, which can exhibit symmetric patterns in certain sections."
+        ]
+    },
+    "Sea or Lake": {
+        "Contrast": [
+            "Sea or Lake, which exhibits low contrast between the water and the sky or land.",
+            "Sea or Lake, which shows high contrast between the deep blue water and the light-colored surroundings."
+        ],
+        "Texture": [
+            "Sea or Lake class, which has a smooth and calm texture.",
+            "Sea or Lake class, which shows a rippled texture on the water surface."
+        ],
+        "Orientation": [
+            "Sea or Lake, which displays horizontal orientation of water bodies.",
+            "Sea or Lake, which showcases vertical orientation of waves or coastal features."
+        ],
+        "Edge": [
+            "Sea or Lake, which may have a defined edge where the water meets the land.",
+            "Sea or Lake, which can show a smooth or jagged coastline depending on the terrain.",
+            "Sea or Lake, where the edge may appear blurred in misty conditions.",
+            "Sea or Lake, which sometimes features a gentle sloping shore.",
+            "Sea or Lake, which could have an abrupt drop-off indicating depth."
+        ],
+        "Size": [
+            "Sea or Lake class, which shows a vast expanse of water stretching as far as the eye can see.",
+            "Sea or Lake class, which displays a large-scale body of water."
+        ],
+        "Color": [
+            "Sea or Lake, which exhibits various shades of blue and turquoise.",
+            "Sea or Lake, which features hues of green and sometimes brown due to sediment.",
+            "Sea or Lake, which can appear deep blue in clear waters.",
+            "Sea or Lake, which may display shades of grey under cloudy skies.",
+            "Sea or Lake, which can have a metallic sheen in certain lighting conditions."
+        ],
+        "Symmetry": [
+            "Sea or Lake, which lacks symmetry in the shape and distribution of water bodies.",
+            "Sea or Lake, which demonstrates a symmetrical pattern in the reflection of clouds or landforms on the water surface."
+        ]
+    }
+}

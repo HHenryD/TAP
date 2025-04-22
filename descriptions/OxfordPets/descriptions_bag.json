@@ -1,0 +1,1097 @@
+{
+    "abyssinian": {
+        "Fur Pattern": [
+            "Abyssinian, which has a ticked coat pattern with bands of color on each hair, giving a blended appearance.",
+            "Abyssinian, which has a ruddy brown coat with ticking.",
+            "Abyssinian, which has a cinnamon Fur Pattern, lighter than ruddy.",
+            "Abyssinian, which has a blue ticked pattern.",
+            "Abyssinian, which has a fawn ticked pattern."
+        ],
+        "Ear Pattern": [
+            "Abyssinian, which has large, alert ears that are wide at the base.",
+            "Abyssinian, which has ears with minimal furnishing on the inside.",
+            "Abyssinian, which has ears taper smoothly to a pointed tip.",
+            "Abyssinian, which has slight tufts at the ear tips."
+        ],
+        "Eye Pattern": [
+            "Abyssinian, which has almond-shaped and green eyes.",
+            "Abyssinian, which has copper-colored eyes.",
+            "Abyssinian, which has gold eyes.",
+            "Abyssinian, which has dark eyeliner appearance with a light area surrounding the eyes."
+        ],
+        "Tail Shape": [
+            "Abyssinian, which has a long, thin tail that tapers to a point.",
+            "Abbyssinian, which has a tail that is thick at the base and narrows along its length."
+        ],
+        "Leg Shape": [
+            "Abyssinian, which has slender, long legs.",
+            "Abyssinian. which has hind legs slightly longer than the front, giving a poised stance."
+        ]
+    },
+    "american bulldog": {
+        "Fur Pattern": [
+            "American Bulldog, which has a short, smooth coat with white and patches of brindle or fawn.",
+            "American Bulldog, which has a solid white coat.",
+            "American Bulldog, which has a predominantly white coat with patches of red or brown.",
+            "American Bulldog, which has a solid brown coat.",
+            "American Bulldog, which has a brindle coat pattern with stripes of color."
+        ],
+        "Ear Pattern": [
+            "American Bulldog, which has medium-sized, drop ears that are set high on the head.",
+            "American Bulldog, which has rose ears that fold back at the tips.",
+            "American Bulldog, which has small, triangular ears that are slightly rounded at the tips.",
+            "American Bulldog, which has ears that are wide at the base and taper to a rounded point."
+        ],
+        "Eye Pattern": [
+            "American Bulldog, which has round and dark eyes that express alertness.",
+            "American Bulldog, which has almond-shaped eyes with a gentle expression.",
+            "American Bulldog, which has eyes that are typically brown or black in color.",
+            "American Bulldog, which has a soft, gentle eye expression."
+        ],
+        "Tail Shape": [
+            "American Bulldog, which has a straight, medium-length tail that tapers to a point.",
+            "American Bulldog, which has a thick, slightly curved tail.",
+            "American Bulldog, which has a low-set tail that hangs down when relaxed."
+        ],
+        "Leg Shape": [
+            "American Bulldog, which has robust, muscular legs suitable for strength and agility.",
+            "American Bulldog, which has slightly longer hind legs than front legs, giving a powerful stance.",
+            "American Bulldog, which has strong, straight front legs with well-defined muscles.",
+            "American Bulldog, which has medium-length legs with solid bone structure."
+        ]
+    },
+    "american pit bull terrier": {
+        "Fur Pattern": [
+            "American Pit Bull Terrier, which has a short, smooth fur coat that lies close to the body for a sleek appearance.",
+            "American Pit Bull Terrier, which has a brindle Fur Pattern with streaks and stripes of color.",
+            "American Pit Bull Terrier, which has a solid coat color without any markings.",
+            "American Pit Bull Terrier, which has a coat with a patchwork pattern of different colors.",
+            "American Pit Bull Terrier, which has a white coat with patches of another color."
+        ],
+        "Ear Pattern": [
+            "American Pit Bull Terrier, which has ears that are medium in size, set high on the head.",
+            "American Pit Bull Terrier, which has ears that are typically cropped to stand erect.",
+            "American Pit Bull Terrier, which has ears that are naturally rose-shaped, folding back.",
+            "American Pit Bull Terrier, which has ears that are smooth and fine in texture."
+        ],
+        "Eye Pattern": [
+            "American Pit Bull Terrier, which has round, dark eyes that convey strength and alertness.",
+            "American Pit Bull Terrier, which has almond-shaped eyes that are expressive and intelligent.",
+            "American Pit Bull Terrier, which has eyes that match the coat color.",
+            "American Pit Bull Terrier, which has eyes with a focused gaze.",
+            "American Pit Bull Terrier, which has eyes that convey a friendly demeanor."
+        ],
+        "Tail Shape": [
+            "American Pit Bull Terrier, which has a medium-length, tapering tail that is thick at the base.",
+            "American Pit Bull Terrier, which has a tail that tapers to a point with a slight curve.",
+            "American Pit Bull Terrier, which has a straight tail that is carried low.",
+            "American Pit Bull Terrier, which has a tail that curls over the back.",
+            "American Pit Bull Terrier, which has a docked tail."
+        ],
+        "Leg Shape": [
+            "American Pit Bull Terrier, which has muscular, well-defined legs that convey power and agility.",
+            "American Pit Bull Terrier, which has straight and sturdy legs that support their athletic build.",
+            "American Pit Bull Terrier, which has hind legs that are slightly longer than the front, giving a strong stance.",
+            "American Pit Bull Terrier, which has legs with well-defined muscle definition.",
+            "American Pit Bull Terrier, which has legs that are set well apart, providing a stable gait."
+        ]
+    },
+    "basset hound": {
+        "Fur Pattern": [
+            "Basset hound, which has a short coat that is dense and smooth.",
+            "Basset hound, which has a tricolor coat with typical colors of white, black, and tan.",
+            "Basset hound, which has a coat pattern with a darker color on the back and ears.",
+            "Basset hound, which has a coat with some ticking or freckling.",
+            "Basset hound, which has a coat with a white muzzle and chest."
+        ],
+        "Ear Pattern": [
+            "Basset hound, which has long, floppy ears that hang close to the head.",
+            "Basset hound, which has ears with rounded tips and velvety texture.",
+            "Basset hound, which has ears that are set low on the head.",
+            "Basset hound, which has ears that frame the face with gentle folds."
+        ],
+        "Eye Pattern": [
+            "Basset hound, which has large, sorrowful eyes with a gentle expression.",
+            "Basset hound, which has eyes that are dark brown and soulful.",
+            "Basset hound, which has eyes with prominent haw showing.",
+            "Basset hound, which has eyes with a pleading look.",
+            "Basset hound, which has droopy eyes with a calm demeanor."
+        ],
+        "Tail Shape": [
+            "Basset hound, which has a long tail that is carried high with a slight curve.",
+            "Basset hound, which has a tail that tapers to a point and is set low.",
+            "Basset hound, which has a tail that is saber-shaped and hangs down.",
+            "Basset hound, which has a tail that is straight and extends beyond the hocks.",
+            "Basset hound, which has a tail that is thick at the base and narrows towards the tip."
+        ],
+        "Leg Shape": [
+            "Basset hound, which has short, sturdy legs that are well-boned.",
+            "Basset hound, which has legs that are slightly bowed and heavy-boned.",
+            "Basset hound, which has legs that are set wide apart with strong muscles.",
+            "Basset hound, which has legs with loose skin folds near the joints."
+        ]
+    },
+    "beagle": {
+        "Fur Pattern": [
+            "Beagle, which has a tri-color coat pattern of black, white, and brown.",
+            "Beagle, which has a sleek, short coat with a blend of colors.",
+            "Beagle, which has a classic saddle pattern across the back.",
+            "Beagle, which has a predominantly white coat with patches of color.",
+            "Beagle, which has a symmetrical combination of colors on the face and body."
+        ],
+        "Ear Pattern": [
+            "Beagle, which has large droopy ears that hang low on the sides of the head.",
+            "Beagle, which has rounded, floppy ears with a soft texture.",
+            "Beagle, which has ears that are proportionate to the head size.",
+            "Beagle, which has ears that slightly frame the face with a gentle droop.",
+            "Beagle, which has ears that hang close to the cheeks with a fold at the base."
+        ],
+        "Eye Pattern": [
+            "Beagle, which has large, expressive brown eyes.",
+            "Beagle, which has a soulful look with dark, round eyes.",
+            "Beagle, which has eyes that convey intelligence and warmth.",
+            "Beagle, which has eyes set slightly apart with a friendly gaze.",
+            "Beagle, which has eyes that show a hint of mischief."
+        ],
+        "Tail Shape": [
+            "Beagle, which has a long, slightly curved tail that is often carried high.",
+            "Beagle, which has a bushy tail that tapers to a point.",
+            "Beagle, which has a tail that is set high and wagging in excitement.",
+            "Beagle, which has a tail that is straight and slightly curved at the tip."
+        ],
+        "Leg Shape": [
+            "Beagle, which has sturdy, medium-length legs that support an active gait.",
+            "Beagle, which has well-muscled hind legs that provide agility and speed.",
+            "Beagle, which has legs that are straight and parallel, contributing to a balanced stance.",
+            "Beagle, which has legs with visible bone structure and strong joints.",
+            "Beagle, which has legs that end in compact, rounded paws for stability."
+        ]
+    },
+    "bengal": {
+        "Fur Pattern": [
+            "Bengal, which has a distinctive leopard-like spotted coat pattern.",
+            "Bengal, which has a marbled Fur Pattern resembling swirls or streaks.",
+            "Bengal, which has a spotted rosette pattern on a lighter background.",
+            "Bengal, which has a brown spotted coat with black spots.",
+            "Bengal, which has a charcoal marble Fur Pattern."
+        ],
+        "Ear Pattern": [
+            "Bengal, which has small-to-medium-sized ears with rounded tips.",
+            "Bengal, which has prominent ear tufts at the tips.",
+            "Bengal, which has ears slightly tilted forward.",
+            "Bengal, which has ears set wide apart on the head."
+        ],
+        "Eye Pattern": [
+            "Bengal, which has large, oval-shaped eyes with a direct and alert gaze.",
+            "Bengal, which has eyes with a distinctive 'glitter' that gives a sparkling appearance in the light.",
+            "Bengal, which has eyes lined with dark markings that enhance the intense look.",
+            "Bengal, which has aqua or blue-green eye color."
+        ],
+        "Tail Shape": [
+            "Bengal, which has a thick, tapering tail with a rounded tip.",
+            "Bengal, which has a long, thick tail with black rings.",
+            "Bengal, which has a tail that is carried low, resembling a wild cat.",
+            "Bengal, which has a tail with a black tip."
+        ],
+        "Leg Shape": [
+            "Bengal, which has sturdy legs with prominent muscles.",
+            "Bengal, which has hind legs slightly longer than the front, giving agility in movement."
+        ]
+    },
+    "birman": {
+        "Fur Pattern": [
+            "Birman, which has a semi-longhaired coat with a silky texture and color pointing on the ears, face, paws, and tail.",
+            "Birman, which has a color point pattern similar to Siamese cats but with a bushier tail.",
+            "Birman, which has a white or cream body with a color point pattern on the face, ears, paws, and tail.",
+            "Birman, which has a distinct color point pattern on the face and ears, contrasting with the lighter body.",
+            "Birman, which has a subtle shading on the body and darker points on the face, ears, and tail."
+        ],
+        "Ear Pattern": [
+            "Birman, which has medium-sized ears that are set wide apart on the head.",
+            "Birman, which has ears that are slightly rounded at the tip and positioned at a slight angle.",
+            "Birman, which has ears that tilt forward slightly with tufted ear tips."
+        ],
+        "Eye Pattern": [
+            "Birman, which has striking blue, round eyes that are expressive and sweet.",
+            "Birman, which has deep sapphire blue eyes that stand out against the coat color.",
+            "Birman, which has large, rounded eyes that are blue in color.",
+            "Birman, which has a gentle, almost hypnotic gaze with deep blue eyes."
+        ],
+        "Tail Shape": [
+            "Birman, which has a bushy tail that tapers to a rounded tip.",
+            "Birman, which has a medium-length tail with a plume of fur at the end.",
+            "Birman, which has a fluffy tail that is in proportion to the body size."
+        ],
+        "Leg Shape": [
+            "Birman, which has medium-length legs with tufted paws.",
+            "Birman, which has hind legs slightly longer than the front, giving a graceful appearance.",
+            "Birman, which has strong, well-proportioned legs with tufted toe tufts for added charm."
+        ]
+    },
+    "bombay": {
+        "Fur Pattern": [
+            "Bombay, which has a sleek, black coat that shimmers in the light.",
+            "Bombay, which has a rich and glossy Fur Pattern with no tabby markings."
+        ],
+        "Ear Pattern": [
+            "Bombay, which has medium-sized, rounded ears that are slightly tilted forward.",
+            "Bombay, which has ears set high on the head with minimal tufting."
+        ],
+        "Eye Pattern": [
+            "Bombay, which has large, round and copper-colored eyes that are expressive and striking.",
+            "Bombay, which has eyes that may have a slight coppery or golden tint in bright light."
+        ],
+        "Tail Shape": [
+            "Bombay, which has a long, graceful tail that tapers to a fine point.",
+            "Bombay, which has a slender tail that complements its overall sleek appearance."
+        ],
+        "Leg Shape": [
+            "Bombay, which has elegant, slender legs that are proportionate to its body size.",
+            "Bombay, which has well-defined, straight legs with a sleek appearance."
+        ]
+    },
+    "boxer": {
+        "Fur Pattern": [
+            "Boxer, which has a short and smooth coat that lies close to the body.",
+            "Boxer, which has a brindle Fur Pattern with distinct tiger-stripe markings.",
+            "Boxer, which has a fawn coat color, often with white markings on the chest and feet."
+        ],
+        "Ear Pattern": [
+            "Boxer, which has medium-sized, high-set ears that fold forward.",
+            "Boxer, which has thin, smooth ears that are set wide apart on the head."
+        ],
+        "Eye Pattern": [
+            "Boxer, which has dark, round eyes that convey a friendly expression.",
+            "Boxer, which has an alert and intelligent gaze with dark brown eyes."
+        ],
+        "Tail Shape": [
+            "Boxer, which has a docked tail that is set high and carried upright.",
+            "Boxer, which has a tail that is naturally long and tapers to a point."
+        ],
+        "Leg Shape": [
+            "Boxer, which has strong and muscular legs with well-defined muscles.",
+            "Boxer, which has legs that are straight and parallel, giving a sturdy stance."
+        ]
+    },
+    "british shorthair": {
+        "Fur Pattern": [
+            "British Shorthair, which has a dense, plush coat in solid blue-gray color.",
+            "British Shorthair, which has short fur with a dense, double coat.",
+            "British Shorthair, which has a coat that is resistant to matting.",
+            "British Shorthair, which has a silver Fur Pattern.",
+            "British Shorthair, which has a coat with subtle tabby markings."
+        ],
+        "Ear Pattern": [
+            "British Shorthair, which has small to medium-sized ears that are rounded at the tips.",
+            "British Shorthair, which has ears set wide apart on the head.",
+            "British Shorthair, which has ears that tilt slightly forward.",
+            "British Shorthair, which has thick ear fluff covering the inside."
+        ],
+        "Eye Pattern": [
+            "British Shorthair, which has large, round eyes in shades of copper or gold.",
+            "British Shorthair, which has vibrant, expressive eyes that offer a gentle expression.",
+            "British Shorthair, which has eyes in a bright orange hue.",
+            "British Shorthair, which has a dense, plush coat in solid blue-gray color."
+        ],
+        "Tail Shape": [
+            "British Shorthair, which has a short, thick tail that tapers to a rounded tip.",
+            "British Shorthair, which has a tail that is straight and proportionate to the body."
+        ],
+        "Leg Shape": [
+            "British Shorthair, which has straight and sturdy legs of medium length.",
+            "British Shorthair, which has legs with well-developed muscles.",
+            "British Shorthair, which has hind legs slightly longer than the front, creating a powerful stance."
+        ]
+    },
+    "chihuahua": {
+        "Fur Pattern": [
+            "Chihuahua, which has a short, smooth coat with a variety of colors like fawn, cream, and chocolate.",
+            "Chihuahua, which has a long-haired coat that can be straight or wavy, often with a fluffy tail.",
+            "Chihuahua, which has a smooth coat with spotted patterns.",
+            "Chihuahua, which has a coat that can be solid-colored or have patches of white.",
+            "Chihuahua, which has a double coat with a fluffy undercoat and sleek outer coat."
+        ],
+        "Ear Pattern": [
+            "Chihuahua, which has large ears that are erect and alert, giving a perky appearance.",
+            "Chihuahua, which has ears that are triangular-shaped and stand upright.",
+            "Chihuahua, which has ears that are slightly rounded at the tips.",
+            "Chihuahua, which has ears that may have a slight fringing along the edges."
+        ],
+        "Eye Pattern": [
+            "Chihuahua, which has large, round, expressive eyes that are dark brown in color.",
+            "Chihuahua, which has prominent, wide-set eyes that convey a lively expression.",
+            "Chihuahua, which has dark, luminous eyes with a gentle and alert gaze.",
+            "Chihuahua, which has bright, sparkling eyes that reflect their playful nature."
+        ],
+        "Tail Shape": [
+            "Chihuahua, which has a long tail that is plumed and curls over the back in a sickle shape.",
+            "Chihuahua, which has a tail that is medium in length and carried high, but not curled over the back."
+        ],
+        "Leg Shape": [
+            "Chihuahua, which has short and slender legs that are well-proportioned to their small size.",
+            "Chihuahua, which has legs that are slightly bowed giving a graceful appearance."
+        ]
+    },
+    "egyptian mau": {
+        "Fur Pattern": [
+            "Egyptian Mau, which has a distinctive spotted tabby coat pattern with random spots and ticking throughout.",
+            "Egyptian Mau, which has a silver coat with black spots.",
+            "Egyptian Mau, which has a bronze coat color with dark spots.",
+            "Egyptian Mau, which has a smoke coat pattern with solid spots.",
+            "Egyptian Mau, which has a black coat with dark spots and ticking."
+        ],
+        "Ear Pattern": [
+            "Egyptian Mau, which has medium-sized ears that are alert and slightly rounded at the tips.",
+            "Egyptian Mau, which has ears that are wide at the base and taper to a pointed tip.",
+            "Egyptian Mau, which has slightly tufted ears with a deep cup shape.",
+            "Egyptian Mau, which has ears set high on the head with minimal interior furnishing."
+        ],
+        "Eye Pattern": [
+            "Egyptian Mau, which has large and almond-shaped eyes that range in color from green to gooseberry.",
+            "Egyptian Mau, which has distinctive mascara marks around the eyes.",
+            "Egyptian Mau, which has expressive eyes with a light-colored area beneath them.",
+            "Egyptian Mau, which has vivid, gooseberry-colored eyes.",
+            "Egyptian Mau, which has eyes that can change color with mood or lighting."
+        ],
+        "Tail Shape": [
+            "Egyptian Mau, which has a medium-length tail that is thick at the base and tapers to a point.",
+            "Egyptian Mau, which has a tail that is carried low and may have a dark tip.",
+            "Egyptian Mau, which has a tail that is thick and expressive, often twitching in excitement."
+        ],
+        "Leg Shape": [
+            "Egyptian Mau, which has slender, medium-length legs that are well-muscled.",
+            "Egyptian Mau, which has hind legs slightly longer than the front, giving an elegant stance.",
+            "Egyptian Mau, which has legs that are proportionate to the body with visible muscle definition."
+        ]
+    },
+    "english cocker spaniel": {
+        "Fur Pattern": [
+            "English Cocker Spaniel, which has a dense, medium-length coat that is silky to the touch.",
+            "English Cocker Spaniel, which has a feathered coat on the ears, chest, belly, and legs, providing an elegant look."
+        ],
+        "Ear Pattern": [
+            "English Cocker Spaniel, which has long, lobular ears that hang close to the cheek.",
+            "English Cocker Spaniel, which has well-feathered ears with silky hair."
+        ],
+        "Eye Pattern": [
+            "English Cocker Spaniel, which has large, round, expressive eyes that exude a gentle and kind expression.",
+            "English Cocker Spaniel, which has dark, round eyes that are set well apart on the face."
+        ],
+        "Tail Shape": [
+            "English Cocker Spaniel, which has a docked tail that is carried level with the back.",
+            "English Cocker Spaniel, which has a natural tail that is set level with the body and carried with a merry wag."
+        ],
+        "Leg Shape": [
+            "English Cocker Spaniel, which has sturdy, medium-length legs that are well-balanced with the body.",
+            "English Cocker Spaniel, which has well-developed hindquarters that provide power for movement."
+        ]
+    },
+    "english setter": {
+        "Fur Pattern": [
+            "English Setter, which has a silky, flat coat with feathering on the ears, chest, legs, and tail.",
+            "English Setter, which has a white coat with distinctive black or liver-colored patches.",
+            "English Setter, which has a speckled coat with roan patterns.",
+            "English Setter, which has a tricolor coat with tan points on a white background."
+        ],
+        "Ear Pattern": [
+            "English Setter, which has long, pendant ears that hang close to the head.",
+            "English Setter, which has ears framing the face with feathering at the tips.",
+            "English Setter, which has ears that are set low on the head with fine hair covering.",
+            "English Setter, which has ears that are mobile and expressive, reflecting the dog's emotions."
+        ],
+        "Eye Pattern": [
+            "English Setter, which has round and expressive dark brown eyes.",
+            "English Setter, which has gentle and kind eyes.",
+            "English Setter, which has a soft, intelligent gaze with a hint of mischief.",
+            "English Setter, which has eyes that convey a sense of loyalty and affection."
+        ],
+        "Tail Shape": [
+            "English Setter, which has a long, feathered tail that tapers towards the tip.",
+            "English Setter, which has a tail carried at or slightly below the back level.",
+            "English Setter, which has a well-feathered tail that wags gracefully.",
+            "English Setter, which has a tail that is an extension of the body's elegant lines."
+        ],
+        "Leg Shape": [
+            "English Setter, which has strong, well-defined forelegs with feathering.",
+            "English Setter, which has hind legs that propel the dog with grace and power.",
+            "English Setter, which has legs that are well-boned and straight when viewed from the front.",
+            "English Setter, which has legs that exhibit elegance in motion and strength in stance."
+        ]
+    },
+    "german shorthaired": {
+        "Fur Pattern": [
+            "German shorthaired, which has a sleek, short coat that is solid liver in color.",
+            "German shorthaired, which has distinct liver and white spotted or ticked coat pattern.",
+            "German shorthaired, which has a liver roan Fur Pattern with a speckled appearance.",
+            "German shorthaired, which has liver and white patched or mosaic coat pattern."
+        ],
+        "Ear Pattern": [
+            "German shorthaired, which has broad, rounded ears with a smooth texture.",
+            "German shorthaired, which has ears set high on the head.",
+            "German shorthaired, which has ears that hang close to the head.",
+            "German shorthaired, which has ears with a slight fold near the base."
+        ],
+        "Eye Pattern": [
+            "German shorthaired, which has rounded and dark brown eyes.",
+            "German shorthaired, which has eyes set moderately apart with an alert expression.",
+            "German shorthaired, which has expressive eyes that reflect intelligence and energy.",
+            "German shorthaired, which has kind, dark brown eyes with a friendly gaze."
+        ],
+        "Tail Shape": [
+            "German shorthaired, which has a long tail that tapers to a point.",
+            "German shorthaired, which has a thick at the base tail that narrows towards the tip."
+        ],
+        "Leg Shape": [
+            "German shorthaired, which has sturdy, medium-length legs.",
+            "German shorthaired, which has straight front legs and well-muscled hind legs for agility."
+        ]
+    },
+    "great pyrenees": {
+        "Fur Pattern": [
+            "Great Pyrenees, which has a thick double coat with a distinct all-white color.",
+            "Great Pyrenees, which has a fluffy Fur Pattern with feathering on the legs and tail.",
+            "Great Pyrenees, which has a weather-resistant coat that sheds dirt easily.",
+            "Great Pyrenees, which has a mane-like ruff around the neck.",
+            "Great Pyrenees, which has a slightly off-white fur with markings near the ears."
+        ],
+        "Ear Pattern": [
+            "Great Pyrenees, which has triangular-shaped ears that hang close to the head.",
+            "Great Pyrenees, which has ears that are medium-sized and rounded at the tips.",
+            "Great Pyrenees, which has ears that are set at eye level and covered with thick fur.",
+            "Great Pyrenees, which has ears that are slightly arched at the base.",
+            "Great Pyrenees, which has ears that may have slight fringes near the tips."
+        ],
+        "Eye Pattern": [
+            "Great Pyrenees, which has round, dark eyes with a gentle expression.",
+            "Great Pyrenees, which has intelligent, almond-shaped eyes that convey a calm demeanor.",
+            "Great Pyrenees, which has dark-rimmed eyes that stand out against the white fur.",
+            "Great Pyrenees, which has expressive eyes with a warm and friendly gaze.",
+            "Great Pyrenees, which has eyes that may appear slightly almond-shaped with a serene expression."
+        ],
+        "Tail Shape": [
+            "Great Pyrenees, which has a bushy tail that curls slightly over the back.",
+            "Great Pyrenees, which has a long tail that reaches to the hocks.",
+            "Great Pyrenees, which has a tail that is carried low and with a slight curve.",
+            "Great Pyrenees, which has a thick tail that tapers towards the end.",
+            "Great Pyrenees, which has a tail that may have a white tip."
+        ],
+        "Leg Shape": [
+            "Great Pyrenees, which has strong, straight legs with substantial bone structure.",
+            "Great Pyrenees, which has well-angulated hind legs for powerful movement.",
+            "Great Pyrenees, which has legs that are medium in length and covered in thick fur.",
+            "Great Pyrenees, which has muscular forelegs that provide stability and strength.",
+            "Great Pyrenees, which has legs that may have slight feathering on the lower parts."
+        ]
+    },
+    "havanese": {
+        "Fur Pattern": [
+            "Havanese, which has a silky, flowing coat that can come in various colors like white, cream, or gold.",
+            "Havanese, which has a double coat with a soft undercoat and longer, wavy outer coat.",
+            "Havanese, which has a sable Fur Pattern with black-tipped hairs.",
+            "Havanese, which has a parti-color pattern with patches of different colors.",
+            "Havanese, which has a unique tricolor pattern with shades of black, tan, and white."
+        ],
+        "Ear Pattern": [
+            "Havanese, which has drop ears that are covered in long hair, hanging close to the head.",
+            "Havanese, which has ears that blend into the coat when hanging naturally.",
+            "Havanese, which has ears that are set high on the head and hang close to the cheeks.",
+            "Havanese, which has ears that are folded over, framing the face."
+        ],
+        "Eye Pattern": [
+            "Havanese, which has large, dark, almond-shaped eyes that give an alert expression.",
+            "Havanese, which has round, expressive eyes that reflect their playful nature.",
+            "Havanese, which has eyes set slightly apart, imparting an intelligent gaze.",
+            "Havanese, which has prominent eye rims that enhance their sweet expression."
+        ],
+        "Tail Shape": [
+            "Havanese, which has a plumed tail that curls over the back in a graceful arc.",
+            "Havanese, which has a tail carried jauntily over the back when moving.",
+            "Havanese, which has a well-feathered tail that waves like a banner when in motion."
+        ],
+        "Leg Shape": [
+            "Havanese, which has short, sturdy legs that support their compact but sturdy build.",
+            "Havanese, which has well-muscled hind legs for agility and speed.",
+            "Havanese, which has straight front legs and strong, muscular hindquarters for power.",
+            "Havanese, which has legs that move gracefully with a slight spring in their step."
+        ]
+    },
+    "japanese chin": {
+        "Fur Pattern": [
+            "Japanese Chin, which has a distinct two-toned coat with a predominantly white base and colored patches.",
+            "Japanese Chin, which has a black and white Fur Pattern with defined markings.",
+            "Japanese Chin, which has a tri-color Fur Pattern with shades of black, white, and tan."
+        ],
+        "Ear Pattern": [
+            "Japanese Chin, which has large, wide-set ears that are feathered with hair.",
+            "Japanese Chin, which has ears that are slightly rounded and stand erect.",
+            "Japanese Chin, which has ears that hang low and are heavily fringed with fur."
+        ],
+        "Eye Pattern": [
+            "Japanese Chin, which has large, dark, wide-set eyes that give a sweet expression.",
+            "Japanese Chin, which has almond-shaped, expressive eyes.",
+            "Japanese Chin, which has eyes that are set slightly obliquely giving a unique look."
+        ],
+        "Tail Shape": [
+            "Japanese Chin, which has a long, feathered tail that curls over the back.",
+            "Japanese Chin, which has a plush, high-set tail that flows over the back gracefully."
+        ],
+        "Leg Shape": [
+            "Japanese Chin, which has short, slim legs.",
+            "Japanese Chin, which has legs that are slightly bowed, giving a delicate appearance."
+        ]
+    },
+    "keeshond": {
+        "Fur Pattern": [
+            "Keeshond, which has a thick double coat with a distinct ruff around the neck and plume of a tail.",
+            "Keeshond, which has a blend of grey, cream, and black fur in a distinctive pattern.",
+            "Keeshond, which has a silver-tipped coat with darker markings around the eyes and ears."
+        ],
+        "Ear Pattern": [
+            "Keeshond, which has small, triangular ears that stand erect on the head.",
+            "Keeshond, which has well-furnished ears with feathering on the inside.",
+            "Keeshond, which has rounded tips on the ears with a slight tilt forward for alertness."
+        ],
+        "Eye Pattern": [
+            "Keeshond, which has expressive almond-shaped eyes with a keen and intelligent gaze.",
+            "Keeshond, which has dark, medium-sized eyes set obliquely in the head.",
+            "Keeshond, which has distinct spectacled appearance around the eyes with dark rims."
+        ],
+        "Tail Shape": [
+            "Keeshond, which has a heavily plumed tail that curls over the back in an elegant arch.",
+            "Keeshond, which has a bushy tail that curves slightly upward.",
+            "Keeshond, which has a tail that is thick at the base and tapers to a point."
+        ],
+        "Leg Shape": [
+            "Keeshond, which has moderately long, straight legs with substantial bone structure.",
+            "Keeshond, which has medium boned legs with well-feathered paws."
+        ]
+    },
+    "leonberger": {
+        "Fur Pattern": [
+            "Leonberger, which has a water-resistant double coat with a thick, weather-resistant outer coat and a soft undercoat.",
+            "Leonberger, which has a lion-like mane around the neck and chest area.",
+            "Leonberger, which has feathering on the legs and tail.",
+            "Leonberger, which has a distinct black mask on the face."
+        ],
+        "Ear Pattern": [
+            "Leonberger, with ears that are medium-sized, pendant and fleshy, hanging close to the head.",
+            "Leonberger, which has ears set slightly above eye level and covered with moderate hair.",
+            "Leonberger, with ears that move when alert, slightly rounded at the tips."
+        ],
+        "Eye Pattern": [
+            "Leonberger, with large, dark brown eyes that convey a gentle expression.",
+            "Leonberger, with eyes that have a friendly, intelligent gaze.",
+            "Leonberger, with eyes that are set relatively wide apart on the face."
+        ],
+        "Tail Shape": [
+            "Leonberger, which has a long, bushy tail that hangs down when relaxed and lifts when alert.",
+            "Leonberger, which has a heavily plumed tail that curves slightly upwards at the end."
+        ],
+        "Leg Shape": [
+            "Leonberger, which has sturdy, well-boned legs with straight front legs and muscular hindquarters.",
+            "Leonberger, which has legs that are well-angulated for efficient movement."
+        ]
+    },
+    "maine coon": {
+        "Fur Pattern": [
+            "Maine Coon, which has a long, flowing coat in various colors and patterns, such as tabby, tortoiseshell, or solid colors.",
+            "Maine Coon, which has a bushy, raccoon-like tail with a full, shaggy coat.",
+            "Maine Coon, which has a tufted ear tips and a thick, water-resistant coat for harsh weather.",
+            "Maine Coon, which has a distinct ruff around the neck and feathering on the legs and stomach.",
+            "Maine Coon, which has a coat that changes with the seasons, thicker in winter and lighter in summer."
+        ],
+        "Ear Pattern": [
+            "Maine Coon, which has large, tufted ears with lynx-like tufts of hair on the tips.",
+            "Maine Coon, which has ears that are wide-set and tufted, enhancing their wild appearance.",
+            "Maine Coon, which has ear furnishings that protect against cold weather and debris.",
+            "Maine Coon, which has ears that are tufted inside, adding to their overall fluffy appearance."
+        ],
+        "Eye Pattern": [
+            "Maine Coon, which has large, expressive eyes that come in a variety of colors, such as green, gold, or copper.",
+            "Maine Coon, which has eyes that are slightly oblique and set at a slight angle.",
+            "Maine Coon, which has eyes that are widely spaced, adding to their alert and friendly expression.",
+            "Maine Coon, which has eyes that are almond-shaped and give a gentle, intelligent look."
+        ],
+        "Tail Shape": [
+            "Maine Coon, which has a long, bushy tail that is well-furred and tapers to a rounded tip.",
+            "Maine Coon, which has a luxurious plumed tail that adds to their majestic appearance.",
+            "Maine Coon, which has a tail that is as long as their body, adding to their impressive size.",
+            "Maine Coon, which has a fluid tail that moves gracefully in sync with their movements."
+        ],
+        "Leg Shape": [
+            "Maine Coon, which has muscular, robust legs that support their large, sturdy body.",
+            "Maine Coon, which has tufted paws that resemble snowshoes, aiding in walking on various terrain.",
+            "Maine Coon, which has hind legs that are slightly longer than the front, giving them a slight tilt in their posture.",
+            "Maine Coon, which has legs that are thick and powerful, ideal for climbing and jumping."
+        ]
+    },
+    "miniature pinscher": {
+        "Fur Pattern": [
+            "Miniature pinscher, which has a short, sleek coat that lies close to the body.",
+            "Miniature pinscher, which has a glossy, black and rust coat coloration."
+        ],
+        "Ear Pattern": [
+            "Miniature pinscher, which has erect ears that are set high on the head.",
+            "Miniature pinscher, which has ears that are v-shaped when alert."
+        ],
+        "Eye Pattern": [
+            "Miniature pinscher, which has bright, intelligent eyes that are oval-shaped.",
+            "Miniature pinscher, which has dark, lively eyes that reflect the breed's alert nature."
+        ],
+        "Tail Shape": [
+            "Miniature pinscher, which has a high-set tail that is docked short in countries where docking is allowed."
+        ],
+        "Leg Shape": [
+            "Miniature pinscher, which has long, straight legs that are well-boned for their size."
+        ]
+    },
+    "newfoundland": {
+        "Fur Pattern": [
+            "Newfoundland, which has a thick double coat with a water-resistant outer layer.",
+            "Newfoundland, which has a black, brown, gray, or Landseer coat color.",
+            "Newfoundland, which has a dense undercoat for insulation against cold weather.",
+            "Newfoundland, which has a flat and coarse outer coat with a softer undercoat."
+        ],
+        "Ear Pattern": [
+            "Newfoundland, which has triangular-shaped drop ears that lie close to the head.",
+            "Newfoundland, which has small, triangular ears set high on the head.",
+            "Newfoundland, which has ears that are covered with short, fine fur.",
+            "Newfoundland, which has ears that are wide at the base and rounded at the tips."
+        ],
+        "Eye Pattern": [
+            "Newfoundland, which has dark, almond-shaped eyes that are set wide apart.",
+            "Newfoundland, which has expressive, kind eyes.",
+            "Newfoundland, which has eyes that exude a gentle and calm expression.",
+            "Newfoundland, which has eyes with a soft and friendly gaze."
+        ],
+        "Tail Shape": [
+            "Newfoundland, which has a thick, strong tail that hangs down when at rest.",
+            "Newfoundland, which has a tail that reaches to the tarsus when extended.",
+            "Newfoundland, which has a broad tail at the base tapering to a fine point.",
+            "Newfoundland, which has a tail that is thick and powerful, aiding in swimming."
+        ],
+        "Leg Shape": [
+            "Newfoundland, which has strong, sturdy legs well-suited for swimming.",
+            "Newfoundland, which has legs that are straight and parallel to each other.",
+            "Newfoundland, which has hind legs slightly longer than the front for powerful propulsion in water.",
+            "Newfoundland, which has legs with strong, well-muscled thighs."
+        ]
+    },
+    "persian": {
+        "Fur Pattern": [
+            "Persian, which has a long, luxurious coat with a solid color.",
+            "Persian, which has a bi-color Fur Pattern with distinct patches of color.",
+            "Persian, which has a tabby Fur Pattern with striped markings.",
+            "Persian, which has a calico Fur Pattern with three distinct colors.",
+            "Persian, which has a tortoiseshell Fur Pattern characterized by a mix of colors."
+        ],
+        "Ear Pattern": [
+            "Persian, which has small, rounded ears set low on the head.",
+            "Persian, which has ears with tufts of fur at the tips.",
+            "Persian, which has ears that tilt slightly forward.",
+            "Persian, which has ears with a gentle outward flare.",
+            "Persian, which has ears that are wide at the base."
+        ],
+        "Eye Pattern": [
+            "Persian, which has large, round eyes with a sweet expression.",
+            "Persian, which has eyes that are typically copper-colored.",
+            "Persian, which has blue eye coloration.",
+            "Persian, which has eyes that may be odd-colored.",
+            "Persian, which has eyes that appear wide-set."
+        ],
+        "Tail Shape": [
+            "Persian, which has a long, bushy tail that tapers to a point.",
+            "Persian, which has a fluffy tail with abundant fur.",
+            "Persian, which has a tail that is carried low.",
+            "Persian, which has a tail with a slight curve at the end.",
+            "Persian, which has a tail that is generally proportional to the body."
+        ],
+        "Leg Shape": [
+            "Persian, which has short, sturdy legs.",
+            "Persian, which has legs that are straight and in proportion to the body.",
+            "Persian, which has hind legs slightly longer than the front legs.",
+            "Persian, which has legs covered in thick, fluffy fur.",
+            "Persian, which has legs that provide a sturdy base for the robust body."
+        ]
+    },
+    "pomeranian": {
+        "Fur Pattern": [
+            "Pomeranian, which has a fluffy double coat with a thick, soft undercoat and a longer, straight outer coat in various colors such as white, black, or orange.",
+            "Pomeranian, which has a plumed tail that curls over the back, forming a distinctive 'fox-like' appearance.",
+            "Pomeranian, which has a small, lively breed with a compact body covered in a profuse coat.",
+            "Pomeranian, which has a distinct ruff of fur around the neck."
+        ],
+        "Ear Pattern": [
+            "Pomeranian, which has small, triangular ears that stand erect and are set high on the head.",
+            "Pomeranian, which has heavily feathered ears with fringe hair.",
+            "Pomeranian, which has ears that are set close together and are slightly tilted forward.",
+            "Pomeranian, which has ears that are expressive and alert, adding to its characteristic appearance."
+        ],
+        "Eye Pattern": [
+            "Pomeranian, which has dark, almond-shaped eyes that exude an intelligent and alert expression.",
+            "Pomeranian, which has eyes that are bright and dark with a spark of intelligence.",
+            "Pomeranian, which has eyes that are medium in size and set well apart.",
+            "Pomeranian, which has eyes that are inquisitive and lively, reflecting the breed's playful nature."
+        ],
+        "Tail Shape": [
+            "Pomeranian, which has a high-set tail that is heavily plumed and carried over the back.",
+            "Pomeranian, which has a tail that is straight and lies flat along the back.",
+            "Pomeranian, which has a tail that is medium in length and profusely covered in fur.",
+            "Pomeranian, which has a tail that is arched and rests gracefully over the body."
+        ],
+        "Leg Shape": [
+            "Pomeranian, which has short, straight legs that are well-boned and proportionate to the body size.",
+            "Pomeranian, which has legs that are slightly bowed and support the breed's lively and active nature.",
+            "Pomeranian, which has legs that are well-feathered with fur, adding to its overall appearance.",
+            "Pomeranian, which has legs that are sturdy and agile, contributing to its nimble movements."
+        ]
+    },
+    "pug": {
+        "Fur Pattern": [
+            "Pug, which has a short, smooth and glossy coat in fawn or black color.",
+            "Pug, which has a double coat with a fine, soft undercoat and a slightly harder outer coat.",
+            "Pug, which has wrinkles and folds on the face along with a soft, shiny coat."
+        ],
+        "Ear Pattern": [
+            "Pug, which has soft, thin ears that are small and hang close to the head.",
+            "Pug, which has ears that are velvety in texture and slightly folded.",
+            "Pug, which has ears that are rose-shaped, folding over and laying close to the head."
+        ],
+        "Eye Pattern": [
+            "Pug, which has large, dark, round eyes with a warm expression.",
+            "Pug, which has protruding, prominent eyes set well apart.",
+            "Pug, which has a keen and lively expression in their prominent, dark eyes."
+        ],
+        "Tail Shape": [
+            "Pug, which has a tightly curled tail that sits over the hip.",
+            "Pug, which has a high set tail that is tightly curled over the back.",
+            "Pug, which has a tail that is thick and slightly curved."
+        ],
+        "Leg Shape": [
+            "Pug, which has short, straight legs with strong, well-developed muscles.",
+            "Pug, which has legs that are set well apart under a strong, compact body."
+        ]
+    },
+    "ragdoll": {
+        "Fur Pattern": [
+            "Ragdoll, which has a semi-long, silky coat that is pointed with darker colors on the ears, face, paws, and tail.",
+            "Ragdoll, which has a colorpoint pattern where the body is lighter than the points.",
+            "Ragdoll, which has a coat with a soft, luxurious feel and color shading on the face and ears.",
+            "Ragdoll, which has a Fur Pattern that may exhibit mitted or bi-color varieties.",
+            "Ragdoll, which has a pointed pattern and striking blue eyes."
+        ],
+        "Ear Pattern": [
+            "Ragdoll, which has medium-sized ears with rounded tips.",
+            "Ragdoll, which has wide-based ears that tilt slightly forward.",
+            "Ragdoll, which has ears adorned with lynx-like tufts.",
+            "Ragdoll, which has lightly furred ears with minimal ear furnishings."
+        ],
+        "Eye Pattern": [
+            "Ragdoll, which has large, expressive blue eyes.",
+            "Ragdoll, which has well-spaced, deep blue eye color.",
+            "Ragdoll, which has oval-shaped blue eyes.",
+            "Ragdoll, which has eyes with a sweet and gentle expression."
+        ],
+        "Tail Shape": [
+            "Ragdoll, which has a bushy tail that tapers to a rounded tip.",
+            "Ragdoll, which has a long, flowing tail that complements its graceful appearance."
+        ],
+        "Leg Shape": [
+            "Ragdoll, which has sturdy, medium-sized legs with tufted paws.",
+            "Ragdoll, which has strong hind legs that support its large frame and contribute to its agile movement."
+        ]
+    },
+    "russian blue": {
+        "Fur Pattern": [
+            "Russian Blue, which has a solid, shimmering blue coat that is smooth and plush.",
+            "Russian Blue, which has a short double coat with a silver-blue hue.",
+            "Russian Blue, which has a dense fur that lies close to the body, giving a sleek appearance.",
+            "Russian Blue, which has coat hairs that have silver tips for a luminous effect."
+        ],
+        "Ear Pattern": [
+            "Russian Blue, which has large, pointed ears that are set high on the head.",
+            "Russian Blue, which has wide-based ears that angle slightly forward.",
+            "Russian Blue, which has ears that are alert and upright with minimal tufting.",
+            "Russian Blue, which has ears that are proportional to the head size and have rounded tips."
+        ],
+        "Eye Pattern": [
+            "Russian Blue, which has vivid, large, almond-shaped green eyes.",
+            "Russian Blue, which has eyes that are a striking emerald green color.",
+            "Russian Blue, which has eyes that convey an alert and intelligent expression.",
+            "Russian Blue, which has eyes that are expressive, reflective of the breed's gentle nature."
+        ],
+        "Tail Shape": [
+            "Russian Blue, which has a long and slender tail that tapers to a fine point.",
+            "Russian Blue, which has a tail with a straight shape and a bushy tip for balance.",
+            "Russian Blue, which has a tail that is in proportion to the body length and maintains a straight appearance."
+        ],
+        "Leg Shape": [
+            "Russian Blue, which has well-proportioned, slender legs with small, dainty paws.",
+            "Russian Blue, which has hind legs that are slightly longer than the front legs, contributing to its elegant stance.",
+            "Russian Blue, which has legs that are straight and graceful, supporting its agile movements."
+        ]
+    },
+    "saint bernard": {
+        "Fur Pattern": [
+            "Saint Bernard, which has a dense, thick coat with distinct color patterns.",
+            "Saint Bernard, which has a white base coat with patches of brown or black.",
+            "Saint Bernard, which has a rough or smooth coat texture.",
+            "Saint Bernard, which has a tri-color coat pattern with a dark mask on the face.",
+            "Saint Bernard, which has a mantle pattern with a white chest and feet."
+        ],
+        "Ear Pattern": [
+            "Saint Bernard, which has large, floppy ears that hang down close to the head.",
+            "Saint Bernard, which has ears that are slightly rounded at the tips.",
+            "Saint Bernard, which has ears set high on the head.",
+            "Saint Bernard, which has ears that have a slight wave to them."
+        ],
+        "Eye Pattern": [
+            "Saint Bernard, which has large, expressive dark eyes that exude warmth.",
+            "Saint Bernard, which has deep-set eyes under a prominent brow.",
+            "Saint Bernard, which has kind, friendly eyes that convey a gentle nature.",
+            "Saint Bernard, which has eyes with a soulful look."
+        ],
+        "Tail Shape": [
+            "Saint Bernard, which has a long, thick tail that hangs down when relaxed and curls up when alert.",
+            "Saint Bernard, which has a tail that is bushy and carried low.",
+            "Saint Bernard, which has a tail that is proportional to the body size.",
+            "Saint Bernard, which has a tail that is strong at the base."
+        ],
+        "Leg Shape": [
+            "Saint Bernard, which has sturdy, strong legs suitable for mountainous terrain.",
+            "Saint Bernard, which has legs that are straight and substantial in size.",
+            "Saint Bernard, which has legs that are well-muscled for power and stability.",
+            "Saint Bernard, which has legs with feathering at the ankles."
+        ]
+    },
+    "samoyed": {
+        "Fur Pattern": [
+            "Samoyed, which has a dense, fluffy double coat that is predominantly white.",
+            "Samoyed, which has a long, thick coat with a fluffy appearance.",
+            "Samoyed, which has a straight and harsh outer coat over a soft undercoat.",
+            "Samoyed, which has fur that is commonly white with some biscuit and cream shading.",
+            "Samoyed, which has a coat that requires regular grooming to prevent matting."
+        ],
+        "Ear Pattern": [
+            "Samoyed, which has small, erect, triangular-shaped ears.",
+            "Samoyed, which has ears that are set well apart and covered with hair.",
+            "Samoyed, which has ears that are slightly rounded at the tip.",
+            "Samoyed, which has ears that have a slight fringing of hair at the edges."
+        ],
+        "Eye Pattern": [
+            "Samoyed, which has dark, almond-shaped eyes that convey a gentle expression.",
+            "Samoyed, which has eyes that are set moderately apart and dark in color.",
+            "Samoyed, which has eyes that are deep and expressive, often outlined in black.",
+            "Samoyed, which has eyes that give a friendly and alert look."
+        ],
+        "Tail Shape": [
+            "Samoyed, which has a long, bushy tail that curls over the back.",
+            "Samoyed, which has a tail that is carried in a gentle curve.",
+            "Samoyed, which has a well-feathered tail that rests on the back or side.",
+            "Samoyed, which has a tail that is expressive and carried in a graceful manner."
+        ],
+        "Leg Shape": [
+            "Samoyed, which has strong, straight legs with good bone substance.",
+            "Samoyed, which has sturdy, well-angulated hind legs for power and agility.",
+            "Samoyed, which has a smooth, effortless gait due to balanced leg structure.",
+            "Samoyed, which has legs that are well-covered with fur for insulation in cold climates."
+        ]
+    },
+    "scottish terrier": {
+        "Fur Pattern": [
+            "Scottish Terrier, which has a wiry, harsh-textured coat that is typically black.",
+            "Scottish Terrier, which has a dense double coat with a soft undercoat and harsh outer coat.",
+            "Scottish Terrier, which has a brindle Fur Pattern with streaks of black and fawn.",
+            "Scottish Terrier, which has a coat that may have a wheat or gray coloring."
+        ],
+        "Ear Pattern": [
+            "Scottish Terrier, which has small, pointed ears that are erect and set high on the head.",
+            "Scottish Terrier, which has triangular-shaped ears that fold forward.",
+            "Scottish Terrier, which has ears that are covered in shorter hair compared to the rest of the body.",
+            "Scottish Terrier, which has ears that are naturally erect with slight folding at the tip."
+        ],
+        "Eye Pattern": [
+            "Scottish Terrier, which has dark, almond-shaped eyes that are set forward on the head.",
+            "Scottish Terrier, which has eyes that are small and piercing.",
+            "Scottish Terrier, which has eyes that may have an alert and intelligent expression.",
+            "Scottish Terrier, which has eyes that are typically brown or dark in color."
+        ],
+        "Tail Shape": [
+            "Scottish Terrier, which has a medium-length tail that is usually carried straight or slightly curved.",
+            "Scottish Terrier, which has a tail that is thicker at the base and tapers towards the tip."
+        ],
+        "Leg Shape": [
+            "Scottish Terrier, which has sturdy, short legs that are well-boned and muscular.",
+            "Scottish Terrier, which has legs that are relatively short in proportion to the body.",
+            "Scottish Terrier, which has legs that are straight and parallel when viewed from the front.",
+            "Scottish Terrier, which has strong hindquarters that provide power for movement."
+        ]
+    },
+    "shiba inu": {
+        "Fur Pattern": [
+            "Shiba Inu, which has a double coat consisting of a straight, outer coat and thick, soft undercoat.",
+            "Shiba Inu, which has a fox-like appearance with a dense, water-resistant coat.",
+            "Shiba Inu, which has a urajiro pattern, lighter coloration on the sides, ventral areas, and tail.",
+            "Shiba Inu, which has a sesame coat with red-tipped hairs on a black background.",
+            "Shiba Inu, which has a cream or red coat with a bushy appearance."
+        ],
+        "Ear Pattern": [
+            "Shiba Inu, which has small, triangular ears that are firm and slightly rounded at the tips.",
+            "Shiba Inu, which has ears that stand erect, tilted slightly forward when alert.",
+            "Shiba Inu, which has ears that are set well apart on the head with slightly rounded edges.",
+            "Shiba Inu, which has ears that are mobile and expressive, enhancing their alert expression."
+        ],
+        "Eye Pattern": [
+            "Shiba Inu, which has small, dark, and deep-set eyes that reflect their spirited nature.",
+            "Shiba Inu, which has slightly triangular-shaped eyes that convey a sense of intelligence.",
+            "Shiba Inu, which has dark pupils with a clear definition against their iris color.",
+            "Shiba Inu, which has eyes that are full and round with a visible inner corner."
+        ],
+        "Tail Shape": [
+            "Shiba Inu, which has a curled, fluffy tail that is set high and carried over the back.",
+            "Shiba Inu, which has a tail that is thick and densely furred, held in a sickle or a double curl.",
+            "Shiba Inu, which has a tail that is proportionate to their body size, creating a balanced appearance."
+        ],
+        "Leg Shape": [
+            "Shiba Inu, which has straight, well-boned forelegs.",
+            "Shiba Inu, which has hind legs that are parallel when viewed from the rear, giving a sturdy stance."
+        ]
+    },
+    "siamese": {
+        "Fur Pattern": [
+            "Siamese, which has a color point Fur Pattern with a lighter body and darker ears, face, paws, and tail.",
+            "Siamese, which has a sleek, short coat with distinct color points on the extremities.",
+            "Siamese, which has a coat pattern that darkens at the extremities due to temperature sensitivity."
+        ],
+        "Ear Pattern": [
+            "Siamese, which has large ears that are proportionate to the head size.",
+            "Siamese, which has ears that are wide at the base and slightly pointed at the tips."
+        ],
+        "Eye Pattern": [
+            "Siamese, which has striking, vibrant blue almond-shaped eyes.",
+            "Siamese, which has eyes that are deep blue in color, enhancing the contrast with the coat color."
+        ],
+        "Tail Shape": [
+            "Siamese, which has a long, slender tail that tapers to a point.",
+            "Siamese, which has a tail that is long and graceful in proportion to the body."
+        ],
+        "Leg Shape": [
+            "Siamese, which has slim, elegant legs that are in proportion to the body size.",
+            "Siamese, which has hind legs slightly longer than the front legs for a graceful stance."
+        ]
+    },
+    "staffordshire bull terrier": {
+        "Fur Pattern": [
+            "Staffordshire bull terrier, which has a short and smooth coat with a glossy appearance.",
+            "Staffordshire bull terrier, which has a coat that comes in various colors like brindle, fawn, or black.",
+            "Staffordshire bull terrier, which has a coat with white markings on the chest and feet.",
+            "Staffordshire bull terrier, which has a solid coat color without any markings."
+        ],
+        "Ear Pattern": [
+            "Staffordshire bull terrier, which has rose-shaped ears that are small to medium in size.",
+            "Staffordshire bull terrier, which has ears that fold over, giving a neat appearance.",
+            "Staffordshire bull terrier, which has ears that are set high on the head and may stand erect.",
+            "Staffordshire bull terrier, which has ears that are smooth and close to the head."
+        ],
+        "Eye Pattern": [
+            "Staffordshire bull terrier, which has round, dark brown eyes that convey a gentle expression.",
+            "Staffordshire bull terrier, which has almond-shaped eyes that are set well apart.",
+            "Staffordshire bull terrier, which has eyes that exhibit an intelligent and alert look.",
+            "Staffordshire bull terrier, which has eyes that are not protruding and are medium in size."
+        ],
+        "Tail Shape": [
+            "Staffordshire bull terrier, which has a short, tapering tail that is carried low.",
+            "Staffordshire bull terrier, which has a tail that is thick at the base and tapers towards the tip."
+        ],
+        "Leg Shape": [
+            "Staffordshire bull terrier, which has sturdy, medium-length legs.",
+            "Staffordshire bull terrier, which has legs that are well-muscled and straight, supporting the athletic build."
+        ]
+    },
+    "wheaten terrier": {
+        "Fur Pattern": [
+            "Wheaten Terrier, which has a soft, silky single coat that is a warm wheaten color.",
+            "Wheaten Terrier, which has a shaggy coat that appears tousled and textured.",
+            "Wheaten Terrier, which has a distinct wheaten-colored coat that can range from pale beige to rich caramel tones.",
+            "Wheaten Terrier, which has a non-shedding fur that forms a gentle wave or slight curl.",
+            "Wheaten Terrier, which has a silky terrier coat texture in a wheaten shade."
+        ],
+        "Ear Pattern": [
+            "Wheaten Terrier, which has small, floppy ears that hang close to the head.",
+            "Wheaten Terrier, which has ears that are covered with longer hair, creating a distinct fringed appearance.",
+            "Wheaten Terrier, which has triangular-shaped ears that frame the face.",
+            "Wheaten Terrier, which has ears that taper to a rounded tip.",
+            "Wheaten Terrier, which has ears set high on the head and fold forward."
+        ],
+        "Eye Pattern": [
+            "Wheaten Terrier, which has large, dark eyes that express warmth and intelligence.",
+            "Wheaten Terrier, which has round, expressive eyes that reflect their playful nature.",
+            "Wheaten Terrier, which has almond-shaped eyes that convey a gentle expression.",
+            "Wheaten Terrier, which has eyes that are well-set and convey a friendly, alert demeanor.",
+            "Wheaten Terrier, which has eyes that are dark and lively with a gentle gaze."
+        ],
+        "Tail Shape": [
+            "Wheaten Terrier, which has a medium-length tail that is carried jauntily.",
+            "Wheaten Terrier, which has a tail that is set high and carried gaily.",
+            "Wheaten Terrier, which has a tail that tapers to a fine point.",
+            "Wheaten Terrier, which has a tail that is docked for a balanced appearance.",
+            "Wheaten Terrier, which has a tail that is held erect in a lively manner."
+        ],
+        "Leg Shape": [
+            "Wheaten Terrier, which has sturdy, straight legs with oval-shaped paws.",
+            "Wheaten Terrier, which has well-muscled legs that support their agile movements.",
+            "Wheaten Terrier, which has legs that are of medium length, giving an athletic appearance.",
+            "Wheaten Terrier, which has legs that are straight and parallel, providing efficient movement.",
+            "Wheaten Terrier, which has legs that are set well apart for stability and balance."
+        ]
+    },
+    "yorkshire terrier": {
+        "Fur Pattern": [
+            "Yorkshire Terrier, which has a long, silky coat that is blue and tan in color.",
+            "Yorkshire Terrier, which has hair that grows long and straight, hanging down on each side of the body."
+        ],
+        "Ear Pattern": [
+            "Yorkshire Terrier, which has small, V-shaped ears that stand erect on top of the head.",
+            "Yorkshire Terrier, which has ears covered in hair that blends with the coat color."
+        ],
+        "Eye Pattern": [
+            "Yorkshire Terrier, which has dark, medium-sized, round eyes that give an alert expression.",
+            "Yorkshire Terrier, which has eyes set well apart and accented by dark rims."
+        ],
+        "Tail Shape": [
+            "Yorkshire Terrier, which has a docked tail that is typically held slightly higher than the level of the back."
+        ],
+        "Leg Shape": [
+            "Yorkshire Terrier, which has straight, medium-length legs that are well-proportioned to the body."
+        ]
+    },
+    "sphynx": {
+        "Fur Pattern": [
+            "Sphynx, which has a smooth, hairless body with wrinkled skin.",
+            "Sphynx, which has a soft, fine down covering the body.",
+            "Sphynx, which has patches of color on the skin.",
+            "Sphynx, which has a velvety appearance.",
+            "Sphynx, which has distinct patterns of spots on the skin."
+        ],
+        "Ear Pattern": [
+            "Sphynx, which has large ears that are wide at the base.",
+            "Sphynx, which has prominent, upright ears.",
+            "Sphynx, which has minimal hair on the ears.",
+            "Sphynx, which has ears with slight tufts at the tips."
+        ],
+        "Eye Pattern": [
+            "Sphynx, which has large, expressive eyes.",
+            "Sphynx, which has round-shaped eyes.",
+            "Sphynx, which has captivating, wide-set eyes.",
+            "Sphynx, which has distinct eye colors."
+        ],
+        "Tail Shape": [
+            "Sphynx, which has a long, slender tail.",
+            "Sphynx, which has a tail that tapers to a fine point."
+        ],
+        "Leg Shape": [
+            "Sphynx, which has slim, elegant legs.",
+            "Sphynx, which has a balanced leg length compared to body proportions."
+        ]
+    }
+}

@@ -1,0 +1,2060 @@
+{
+    "Apply Eye Makeup": {
+        "Action Pose": [
+            "Apply Eye Makeup, which shows a person holding a makeup tool near the eye.",
+            "Apply Eye Makeup, which includes a mirror reflection of the person applying makeup."
+        ],
+        "Number of People": [
+            "Apply Eye Makeup, which includes one person in the frame.",
+            "Apply Eye Makeup, which includes two people, where one may be assisting another."
+        ],
+        "Background Setting": [
+            "Apply Eye Makeup, which is usually indoors.",
+            "Apply Eye Makeup, which often has a bathroom or bedroom setting."
+        ],
+        "Objects Present": [
+            "Apply Eye Makeup, which features makeup products.",
+            "Apply Eye Makeup, which might include personal accessories such as a handbag."
+        ]
+    },
+    "Apply Lipstick": {
+        "Action Pose": [
+            "Apply Lipstick, which shows a person applying lipstick to their own lips.",
+            "Apply Lipstick, which involves a close-up of a person's lips as they apply lipstick.",
+            "Apply Lipstick, which may capture the motion of twisting the lipstick tube.",
+            "Apply Lipstick, which could include a person using a lip liner before applying lipstick."
+        ],
+        "Number of People": [
+            "Apply Lipstick, which includes one person in the frame.",
+            "Apply Lipstick, which has two people, where one may be applying lipstick to the other."
+        ],
+        "Background Setting": [
+            "Apply Lipstick, which is predominantly set in an indoor environment.",
+            "Apply Lipstick, which often happens in front of a vanity or a bathroom mirror."
+        ],
+        "Objects Present": [
+            "Apply Lipstick, which features a lipstick tube or stick.",
+            "Apply Lipstick, which might also have a compact mirror in hand or on the surface."
+        ]
+    },
+    "Archery": {
+        "Action Pose": [
+            "Archery, which shows a person standing sideways with a bow and arrow drawn towards a target.",
+            "Archery, which includes the archer releasing the arrow and following through with their arm.",
+            "Archery, which depicts the archer in a preparatory stance, focusing on the target before shooting.",
+            "Archery, which has the archer retrieving arrows from a target or quiver."
+        ],
+        "Number of People": [
+            "Archery, which includes a single archer in the frame.",
+            "Archery, which may show multiple archers lined up and shooting at targets."
+        ],
+        "Background Setting": [
+            "Archery, which is outdoors, possibly in a field or dedicated archery range.",
+            "Archery, which might be indoors with artificial lighting and designated shooting lanes."
+        ],
+        "Objects Present": [
+            "Archery, which features a bow, either traditional, compound, or recurve.",
+            "Archery, which includes arrows, either in flight towards a target or in an archer\u2019s quiver.",
+            "Archery, which has a target with a clearly marked bullseye and concentric scoring rings.",
+            "Archery, which might include protective gear like armguards and finger tabs."
+        ]
+    },
+    "Baby Crawling": {
+        "Action Pose": [
+            "Baby Crawling, which shows a baby on all fours moving forward.",
+            "Baby Crawling, which includes a baby propelling themselves on their stomach."
+        ],
+        "Number of People": [
+            "Baby Crawling, which includes one baby in the frame.",
+            "Baby Crawling, which might occasionally include a parent or guardian in the background or assisting."
+        ],
+        "Background Setting": [
+            "Baby Crawling, which is commonly indoors on a carpet or soft surface.",
+            "Baby Crawling, which could also be outdoors on grass or a play mat."
+        ],
+        "Objects Present": [
+            "Baby Crawling, which may feature toys scattered around the baby.",
+            "Baby Crawling, which might include furniture like a crib or baby playpen in the vicinity."
+        ]
+    },
+    "Balance Beam": {
+        "Action Pose": [
+            "Balance Beam, which shows a gymnast performing a handstand on the beam.",
+            "Balance Beam, which includes a gymnast doing a split jump."
+        ],
+        "Number of People": [
+            "Balance Beam, which includes one gymnast on the beam.",
+            "Balance Beam, which may show a coach or spotter near the beam."
+        ],
+        "Background Setting": [
+            "Balance Beam, which is set in a gymnastics arena.",
+            "Balance Beam, which often has a mat or padding around the beam."
+        ],
+        "Objects Present": [
+            "Balance Beam, which always features the balance beam itself.",
+            "Balance Beam, which may include gymnastics equipment like chalk or grips."
+        ]
+    },
+    "Band Marching": {
+        "Action Pose": [
+            "Band Marching, which shows individuals marching in unison.",
+            "Band Marching, which includes individuals playing musical instruments while moving.",
+            "Band Marching, which has individuals carrying flags or batons.",
+            "Band Marching, which features a conductor leading the band."
+        ],
+        "Number of People": [
+            "Band Marching, which includes a large group of people.",
+            "Band Marching, which shows a formation that may range from a few individuals to an entire marching band."
+        ],
+        "Background Setting": [
+            "Band Marching, which usually takes place on a sports field.",
+            "Band Marching, which may occur during a parade route in an urban setting."
+        ],
+        "Objects Present": [
+            "Band Marching, which features musical instruments such as trumpets, trombones, and tubas.",
+            "Band Marching, which includes uniforms typically worn by band members.",
+            "Band Marching, which may show flags, banners, or props used in performances.",
+            "Band Marching, which might also have a baton being twirled by a band member."
+        ]
+    },
+    "Baseball Pitch": {
+        "Action Pose": [
+            "Baseball Pitch, which shows a pitcher in the middle of a throwing motion with one arm extended towards home plate.",
+            "Baseball Pitch, which includes a pitcher winding up with both hands together before the throw.",
+            "Baseball Pitch, which captures a pitcher with one leg raised during the initial pitching stance.",
+            "Baseball Pitch, which depicts a pitcher in the follow-through phase with the throwing hand near the ground."
+        ],
+        "Number of People": [
+            "Baseball Pitch, which includes one person (the pitcher) in the frame.",
+            "Baseball Pitch, which includes a catcher squatting behind home plate while the pitcher throws the ball.",
+            "Baseball Pitch, which might show a batter standing at home plate waiting for the pitch.",
+            "Baseball Pitch, which could include an umpire behind the catcher observing the pitch."
+        ],
+        "Background Setting": [
+            "Baseball Pitch, which is outdoors on a baseball field.",
+            "Baseball Pitch, which often has the pitcher's mound as a focal point.",
+            "Baseball Pitch, which may show the infield area of a baseball diamond.",
+            "Baseball Pitch, which can have stadium seating and fans in the background."
+        ],
+        "Objects Present": [
+            "Baseball Pitch, which features a baseball in mid-flight.",
+            "Baseball Pitch, which includes baseball gloves worn by the pitcher and possibly the catcher.",
+            "Baseball Pitch, which may show a batter's helmet if a batter is in the frame.",
+            "Baseball Pitch, which might capture the pitching rubber on the mound as well as the home plate area."
+        ]
+    },
+    "Basketball": {
+        "Action Pose": [
+            "Basketball, which shows a person dribbling the ball on the court.",
+            "Basketball, which includes a player shooting the basketball towards the hoop.",
+            "Basketball, which captures a player jumping to catch or block the ball.",
+            "Basketball, which depicts a player passing the ball to a teammate.",
+            "Basketball, which features a defensive stance by a player.",
+            "Basketball, which illustrates a player celebrating after scoring."
+        ],
+        "Number of People": [
+            "Basketball, which includes only one player practicing shots.",
+            "Basketball, which includes two players, one defending and the other attacking.",
+            "Basketball, which showcases a small group of players during a game or practice.",
+            "Basketball, which features a full team of players on the court during a competitive match."
+        ],
+        "Background Setting": [
+            "Basketball, which is set indoors in a gymnasium with visible basketball court lines.",
+            "Basketball, which takes place outdoors on a public basketball court.",
+            "Basketball, which shows a player in a professional arena filled with spectators.",
+            "Basketball, which is situated in a school or university gym with team banners."
+        ],
+        "Objects Present": [
+            "Basketball, which features a basketball hoop with a net.",
+            "Basketball, which includes visible scoreboards or game clocks.",
+            "Basketball, which has sports equipment like cones or practice gear.",
+            "Basketball, which might have coaching tools like a whiteboard or clipboard.",
+            "Basketball, which showcases player accessories such as headbands, wristbands, or knee pads."
+        ]
+    },
+    "Basketball Dunk": {
+        "Action Pose": [
+            "Basketball Dunk, which shows a player in mid-air approaching the hoop with the ball above the rim.",
+            "Basketball Dunk, which depicts a player stretching out one hand while holding the ball, preparing for the dunk.",
+            "Basketball Dunk, which captures the moment just as a player forcefully pushes the ball down through the hoop.",
+            "Basketball Dunk, which illustrates a player leaping with legs bent and arm cocked back before the dunk."
+        ],
+        "Number of People": [
+            "Basketball Dunk, which includes a single player performing the dunk.",
+            "Basketball Dunk, which includes multiple players, with at least one defending the hoop."
+        ],
+        "Background Setting": [
+            "Basketball Dunk, which is typically on an indoor basketball court.",
+            "Basketball Dunk, which might take place on an outdoor basketball court with visible hoops."
+        ],
+        "Objects Present": [
+            "Basketball Dunk, which features a basketball being maneuvered by the player.",
+            "Basketball Dunk, which has a basketball hoop with a net, which is the target of the dunk."
+        ]
+    },
+    "Bench Press": {
+        "Action Pose": [
+            "Bench Press, which shows a person lying on their back pushing a barbell upwards.",
+            "Bench Press, which illustrates an individual in the process of lowering the barbell towards their chest."
+        ],
+        "Number of People": [
+            "Bench Press, which includes one person performing the exercise.",
+            "Bench Press, which includes two people, with one acting as a spotter."
+        ],
+        "Background Setting": [
+            "Bench Press, which is set in a gym with exercise equipment around.",
+            "Bench Press, which takes place in a home environment with minimal workout gear."
+        ],
+        "Objects Present": [
+            "Bench Press, which features a weightlifting bench.",
+            "Bench Press, which has weight plates and a barbell."
+        ]
+    },
+    "Biking": {
+        "Action Pose": [
+            "Biking, which shows an individual pedaling a bicycle.",
+            "Biking, which includes a person maneuvering a bike through a turn.",
+            "Biking, which captures a cyclist performing a jump.",
+            "Biking, which depicts a rider braking to a stop.",
+            "Biking, which features a racer leaning forward for speed."
+        ],
+        "Number of People": [
+            "Biking, which includes one person on a bike.",
+            "Biking, which includes a group of cyclists riding together.",
+            "Biking, which captures two people on a tandem bicycle.",
+            "Biking, which shows several competitors in a bike race."
+        ],
+        "Background Setting": [
+            "Biking, which is set on a paved road in an urban area.",
+            "Biking, which takes place on a dirt track in a rural setting.",
+            "Biking, which occurs in a park with greenery in the background.",
+            "Biking, which is filmed on a mountain trail with rocky terrain."
+        ],
+        "Objects Present": [
+            "Biking, which features a helmet worn by the cyclist.",
+            "Biking, which includes various types of bicycles, such as mountain or road bikes.",
+            "Biking, which might show a water bottle attached to the bike frame.",
+            "Biking, which can include protective gear like gloves or knee pads."
+        ]
+    },
+    "Billiards": {
+        "Action Pose": [
+            "Billiards, which shows a person leaning over the pool table to take a shot.",
+            "Billiards, which includes players holding cue sticks in various stances."
+        ],
+        "Number of People": [
+            "Billiards, which includes one person playing solo.",
+            "Billiards, which involves two or more people playing a game."
+        ],
+        "Background Setting": [
+            "Billiards, which is set indoors in a room dedicated to pool tables.",
+            "Billiards, which often features a bar or recreational room ambiance."
+        ],
+        "Objects Present": [
+            "Billiards, which has a pool table with balls set in a triangle.",
+            "Billiards, which includes cue sticks, chalk, and a rack."
+        ]
+    },
+    "Blow Dry Hair": {
+        "Action Pose": [
+            "Blow Dry Hair, which shows a person holding a hair dryer near their head.",
+            "Blow Dry Hair, which includes a person brushing their hair while using a hair dryer.",
+            "Blow Dry Hair, which shows a person flipping their hair whilst drying.",
+            "Blow Dry Hair, which captures the motion of hair being tossed or lifted by the force of the dryer."
+        ],
+        "Number of People": [
+            "Blow Dry Hair, which includes one person in the frame performing the action on themselves.",
+            "Blow Dry Hair, which includes two people, where one person is drying another person's hair."
+        ],
+        "Background Setting": [
+            "Blow Dry Hair, which is typically set in a bathroom.",
+            "Blow Dry Hair, which can also occur in a professional hair salon setting."
+        ],
+        "Objects Present": [
+            "Blow Dry Hair, which features a hair dryer as the prominent object.",
+            "Blow Dry Hair, which may include additional hair care products like hairbrushes or styling products.",
+            "Blow Dry Hair, which might have a chair and a mirror in the setting, especially in a salon scene."
+        ]
+    },
+    "Blowing Candles": {
+        "Action Pose": [
+            "Blowing Candles, which shows a person leaning forward towards a cake to blow out candles.",
+            "Blowing Candles, which includes a person making a wish before blowing out the candles."
+        ],
+        "Number of People": [
+            "Blowing Candles, which includes a single person in the frame focusing on the candles.",
+            "Blowing Candles, which includes a group of people gathered around the cake, usually celebrating."
+        ],
+        "Background Setting": [
+            "Blowing Candles, which is typically indoors with a festive decor.",
+            "Blowing Candles, which often has a dining area setting with decorations like balloons or streamers."
+        ],
+        "Objects Present": [
+            "Blowing Candles, which features a cake with candles on it.",
+            "Blowing Candles, which might have party accessories such as hats or noisemakers."
+        ]
+    },
+    "Body Weight Squats": {
+        "Action Pose": [
+            "Body Weight Squats, which shows a person standing with feet shoulder-width apart beginning to lower their body.",
+            "Body Weight Squats, which captures a person at the lowest point of the squat with hips pushed back and knees bent.",
+            "Body Weight Squats, which includes a person rising back up to a standing position.",
+            "Body Weight Squats, which features a person maintaining a straight back during the squatting motion."
+        ],
+        "Number of People": [
+            "Body Weight Squats, which includes one person performing the exercise.",
+            "Body Weight Squats, which shows a group of people simultaneously performing squats."
+        ],
+        "Background Setting": [
+            "Body Weight Squats, which is typically set in a gym environment.",
+            "Body Weight Squats, which might be outdoors on a field or court.",
+            "Body Weight Squats, which can also occur in a home setting with minimal equipment."
+        ],
+        "Objects Present": [
+            "Body Weight Squats, which may include gym equipment like workout mats or weights in the background.",
+            "Body Weight Squats, which might feature mirrors reflecting the person\u2019s form."
+        ]
+    },
+    "Bowling": {
+        "Action Pose": [
+            "Bowling, which shows a person in the motion of swinging their arm to release the bowling ball.",
+            "Bowling, which captures a person taking steps toward the foul line with a ball in hand.",
+            "Bowling, which includes a person bending at the waist and knee during the follow-through.",
+            "Bowling, which might show a person seated or preparing to bowl."
+        ],
+        "Number of People": [
+            "Bowling, which includes one person in the act of throwing the ball down the lane.",
+            "Bowling, which features multiple people, with typically one person bowling while others are seated or waiting their turn."
+        ],
+        "Background Setting": [
+            "Bowling, which is indoors within a bowling alley with visible lanes and pins.",
+            "Bowling, which has a seating area with tables and chairs, often in the background."
+        ],
+        "Objects Present": [
+            "Bowling, which features a bowling ball prominently in the frame.",
+            "Bowling, which shows bowling pins, either standing at the end of the lane or in the process of being knocked down.",
+            "Bowling, which may include bowling shoes worn by the player.",
+            "Bowling, which could show score monitors hung above the lanes."
+        ]
+    },
+    "Boxing Punching Bag": {
+        "Action Pose": [
+            "Boxing Punching Bag, which shows a person in a boxing stance throwing a punch.",
+            "Boxing Punching Bag, which includes a person with gloves on hitting the bag with a hook or uppercut."
+        ],
+        "Number of People": [
+            "Boxing Punching Bag, which includes one person practicing on the bag.",
+            "Boxing Punching Bag, which can occasionally feature two people, where one is holding the punching bag."
+        ],
+        "Background Setting": [
+            "Boxing Punching Bag, which is typically set in a gymnasium.",
+            "Boxing Punching Bag, which may be located in a home garage with gym equipment."
+        ],
+        "Objects Present": [
+            "Boxing Punching Bag, which features a heavy bag hanging from a chain.",
+            "Boxing Punching Bag, which includes boxing gloves worn by the person."
+        ]
+    },
+    "Boxing Speed Bag": {
+        "Action Pose": [
+            "Boxing Speed Bag, which shows a person in a boxing stance hitting a small, teardrop-shaped punching bag.",
+            "Boxing Speed Bag, which includes repetitive and rhythmic punching by an individual training.",
+            "Boxing Speed Bag, which features quick hand and eye coordination as the person engages with the bag."
+        ],
+        "Number of People": [
+            "Boxing Speed Bag, which includes one person practicing alone.",
+            "Boxing Speed Bag, which sometimes includes a trainer present alongside the person training."
+        ],
+        "Background Setting": [
+            "Boxing Speed Bag, which is set in a gym environment with exercise equipment in the vicinity.",
+            "Boxing Speed Bag, which typically occurs indoors within a training facility with a focus on the boxing ring or workout area."
+        ],
+        "Objects Present": [
+            "Boxing Speed Bag, which features the speed bag hanging from a platform.",
+            "Boxing Speed Bag, which often has boxing gloves worn by the participant."
+        ]
+    },
+    "Breast Stroke": {
+        "Action Pose": [
+            "Breast Stroke, which shows a person with arms outstretched and sweeping inwards while in water.",
+            "Breast Stroke, which displays a swimmer with their head rising above the water for a breath concurrently with the arm movement."
+        ],
+        "Number of People": [
+            "Breast Stroke, which includes a single swimmer performing the stroke.",
+            "Breast Stroke, which includes multiple swimmers in adjacent lanes."
+        ],
+        "Background Setting": [
+            "Breast Stroke, which is set in a swimming pool with lane markers.",
+            "Breast Stroke, which takes place in an open water setting such as a lake or sea."
+        ],
+        "Objects Present": [
+            "Breast Stroke, which might show a timing clock or scoreboard visible at the poolside.",
+            "Breast Stroke, which often has swimming goggles and caps on the swimmers."
+        ]
+    },
+    "Brushing Teeth": {
+        "Action Pose": [
+            "Brushing Teeth, which shows a person moving a toothbrush back and forth inside their mouth.",
+            "Brushing Teeth, which includes a person rinsing their mouth with water."
+        ],
+        "Number of People": [
+            "Brushing Teeth, which includes one person in the frame.",
+            "Brushing Teeth, which occasionally includes multiple people, such as a family or a couple."
+        ],
+        "Background Setting": [
+            "Brushing Teeth, which is almost always indoors.",
+            "Brushing Teeth, which typically occurs in a bathroom setting."
+        ],
+        "Objects Present": [
+            "Brushing Teeth, which features a toothbrush as the primary object.",
+            "Brushing Teeth, which might include a tube of toothpaste.",
+            "Brushing Teeth, which often has a sink or a water faucet.",
+            "Brushing Teeth, which might show a cup for rinsing."
+        ]
+    },
+    "Clean And Jerk": {
+        "Action Pose": [
+            "Clean And Jerk, which shows a person lifting a barbell from the floor to their shoulders in one swift motion.",
+            "Clean And Jerk, which includes a person squatting before explosively standing while raising a barbell overhead.",
+            "Clean And Jerk, which involves a person standing with legs split and a barbell held overhead after a clean.",
+            "Clean And Jerk, which shows a person catching the barbell on their chest before jerking it over their head."
+        ],
+        "Number of People": [
+            "Clean And Jerk, which includes one person performing the lift.",
+            "Clean And Jerk, which may show an additional person spotting or judging the lift."
+        ],
+        "Background Setting": [
+            "Clean And Jerk, which is typically indoors at a weightlifting competition or a gym.",
+            "Clean And Jerk, which often has a platform and designated lifting area visible."
+        ],
+        "Objects Present": [
+            "Clean And Jerk, which prominently features a barbell and weight plates.",
+            "Clean And Jerk, which might include weightlifting chalk or belts for supporting the athlete."
+        ]
+    },
+    "Cliff Diving": {
+        "Action Pose": [
+            "Cliff Diving, which shows a person jumping off a high cliff into water.",
+            "Cliff Diving, which captures a person in the mid-air pose before entering the water.",
+            "Cliff Diving, which includes a diver performing acrobatic maneuvers during the dive.",
+            "Cliff Diving, which depicts a diver with arms extended above the head in a streamlined position.",
+            "Cliff Diving, which illustrates a diver just about to break the water surface."
+        ],
+        "Number of People": [
+            "Cliff Diving, which includes a single diver in the frame.",
+            "Cliff Diving, which may show multiple divers taking turns at different intervals."
+        ],
+        "Background Setting": [
+            "Cliff Diving, which is set against a background of open skies and the ocean or a lake.",
+            "Cliff Diving, where the background may include rocky cliff faces, trees, or a remote natural landscape."
+        ],
+        "Objects Present": [
+            "Cliff Diving, which often features protective gear like wetsuits on the diver.",
+            "Cliff Diving, which may include onlookers or a boat in the vicinity of the diving area."
+        ]
+    },
+    "Cricket Bowling": {
+        "Action Pose": [
+            "Cricket Bowling, which shows a player in the act of delivering a cricket ball with an over-arm motion.",
+            "Cricket Bowling, which depicts a player running up to the crease before releasing the cricket ball.",
+            "Cricket Bowling, which captures the follow-through posture of the bowler after the ball is delivered."
+        ],
+        "Number of People": [
+            "Cricket Bowling, which includes only the bowler in the frame during the delivery action.",
+            "Cricket Bowling, which includes a batsman, wicketkeeper, and nearby fielders as well as the bowler."
+        ],
+        "Background Setting": [
+            "Cricket Bowling, which is typically outdoors on a cricket pitch within a stadium or park.",
+            "Cricket Bowling, which might occasionally be indoors within a net practice area."
+        ],
+        "Objects Present": [
+            "Cricket Bowling, which features cricket balls, stumps, and bails.",
+            "Cricket Bowling, which may include cricket protective gear, such as pads and helmets."
+        ]
+    },
+    "Cricket Shot": {
+        "Action Pose": [
+            "Cricket Shot, which shows a batsman playing a stroke with a cricket bat.",
+            "Cricket Shot, which depicts a player in a stance preparing to hit the ball.",
+            "Cricket Shot, which captures the follow-through motion after hitting the ball.",
+            "Cricket Shot, which features a batsman running after striking the ball."
+        ],
+        "Number of People": [
+            "Cricket Shot, which includes one batsman in the frame taking the shot.",
+            "Cricket Shot, which shows one bowler and one batsman involved in the play.",
+            "Cricket Shot, which captures multiple fielders in the background, along with the batsman."
+        ],
+        "Background Setting": [
+            "Cricket Shot, which is set outdoors on a cricket pitch.",
+            "Cricket Shot, which has a stadium filled with spectators in the background.",
+            "Cricket Shot, which might be captured with empty stands or a training field."
+        ],
+        "Objects Present": [
+            "Cricket Shot, which features cricket equipment such as a ball, bat, stumps and protective gear.",
+            "Cricket Shot, which might include additional objects such as helmets, gloves, and umpire equipment."
+        ]
+    },
+    "Cutting In Kitchen": {
+        "Action Pose": [
+            "Cutting In Kitchen, which shows a person using a knife to slice food.",
+            "Cutting In Kitchen, which depicts a person chopping ingredients on a cutting board."
+        ],
+        "Number of People": [
+            "Cutting In Kitchen, which includes one person in the frame preparing food.",
+            "Cutting In Kitchen, which includes two people, where one is cutting and another might be assisting or waiting."
+        ],
+        "Background Setting": [
+            "Cutting In Kitchen, which is set in a residential kitchen with visible appliances.",
+            "Cutting In Kitchen, which occurs in a commercial kitchen environment with stainless steel surfaces."
+        ],
+        "Objects Present": [
+            "Cutting In Kitchen, which features kitchen utensils such as knives and cutting boards.",
+            "Cutting In Kitchen, which might include various food items like vegetables, fruits, or meats on the counter."
+        ]
+    },
+    "Diving": {
+        "Action Pose": [
+            "Diving, which shows a person in mid-air with arms extended over their head.",
+            "Diving, which captures the moment right before water entry with the body in a streamlined position.",
+            "Diving, which includes a person flipping or twisting as they fall towards the water.",
+            "Diving, which may exhibit a person positioning themselves for a feet-first or head-first entry."
+        ],
+        "Number of People": [
+            "Diving, which typically features a single diver in the frame performing the dive.",
+            "Diving, where sometimes two people can be seen, one diving and another observing or coaching."
+        ],
+        "Background Setting": [
+            "Diving, commonly set against the backdrop of a swimming pool.",
+            "Diving, which may occasionally show a natural body of water like a lake or the ocean."
+        ],
+        "Objects Present": [
+            "Diving, which includes a diving board or platform.",
+            "Diving, which may feature water splashes as a result of the diver's impact.",
+            "Diving, where swimming attire such as swim caps and goggles are often present.",
+            "Diving, which might contain judges' scoreboards or spectator stands in competitive settings."
+        ]
+    },
+    "Drumming": {
+        "Action Pose": [
+            "Drumming, which shows a person striking a drum with sticks.",
+            "Drumming, which includes a person using their hands to play bongo drums."
+        ],
+        "Number of People": [
+            "Drumming, which includes one person in the frame playing the drums.",
+            "Drumming, which includes a band setup with multiple people, where one is playing the drums."
+        ],
+        "Background Setting": [
+            "Drumming, which is typically set on a stage with musical equipment.",
+            "Drumming, which is set in a room or studio with soundproofing."
+        ],
+        "Objects Present": [
+            "Drumming, which features a drum set with various components like snare, toms, and cymbals.",
+            "Drumming, which might include other musical instruments like guitars or keyboards in the background."
+        ]
+    },
+    "Fencing": {
+        "Action Pose": [
+            "Fencing, which shows a person lunging with a foil or epee.",
+            "Fencing, which features a person in a defensive stance.",
+            "Fencing, which includes one fencer attempting to score a hit on the opponent.",
+            "Fencing, which captures a fencer parrying an attack."
+        ],
+        "Number of People": [
+            "Fencing, which includes two people engaged in a bout.",
+            "Fencing, which shows a single fencer practicing movements alone."
+        ],
+        "Background Setting": [
+            "Fencing, which is typically indoors on a long narrow strip known as the piste.",
+            "Fencing, which often takes place in a gymnasium or dedicated fencing salle."
+        ],
+        "Objects Present": [
+            "Fencing, which features protective gear such as masks, jackets, and gloves.",
+            "Fencing, which includes sporting equipment like a foil, epee, or sabre."
+        ]
+    },
+    "Field Hockey Penalty": {
+        "Action Pose": [
+            "Field Hockey Penalty, which shows a player swinging the stick to hit the ball.",
+            "Field Hockey Penalty, which features a goalie preparing to defend the goal.",
+            "Field Hockey Penalty, which includes players positioned for rebound around the goal area.",
+            "Field Hockey Penalty, which captures a striker running up to take a shot.",
+            "Field Hockey Penalty, which depicts a goalie diving or lunging to block the shot."
+        ],
+        "Number of People": [
+            "Field Hockey Penalty, which includes one player taking the penalty shot.",
+            "Field Hockey Penalty, which features multiple players including the goalie and defenders in the frame.",
+            "Field Hockey Penalty, which shows a single goalie waiting for the penalty shot."
+        ],
+        "Background Setting": [
+            "Field Hockey Penalty, which is typically outdoors on a grass or turf field.",
+            "Field Hockey Penalty, which has a goalpost and possibly a net in the background."
+        ],
+        "Objects Present": [
+            "Field Hockey Penalty, which features field hockey sticks.",
+            "Field Hockey Penalty, which includes a field hockey ball.",
+            "Field Hockey Penalty, which might show protective gear like gloves and shin guards.",
+            "Field Hockey Penalty, which often shows a goalpost as part of the scene."
+        ]
+    },
+    "Floor Gymnastics": {
+        "Action Pose": [
+            "Floor Gymnastics, which shows an individual performing a cartwheel.",
+            "Floor Gymnastics, which includes a person executing a handstand.",
+            "Floor Gymnastics, which involves a gymnast doing a split.",
+            "Floor Gymnastics, which captures a participant conducting a tumbling pass.",
+            "Floor Gymnastics, which depicts an athlete completing a balance hold.",
+            "Floor Gymnastics, which shows a gymnast performing a backflip."
+        ],
+        "Number of People": [
+            "Floor Gymnastics, which includes a single gymnast in the frame.",
+            "Floor Gymnastics, which shows a duo of gymnasts simultaneously performing."
+        ],
+        "Background Setting": [
+            "Floor Gymnastics, which is typically indoors in a gymnasium.",
+            "Floor Gymnastics, which often has gymnastics apparatus visible like balance beams or uneven bars in the periphery."
+        ],
+        "Objects Present": [
+            "Floor Gymnastics, which features a gymnastics floor mat.",
+            "Floor Gymnastics, which includes chalk or other grip aids.",
+            "Floor Gymnastics, which might have a music source for routine accompaniment.",
+            "Floor Gymnastics, which can include judges' tables and scoring equipment in a competitive setting."
+        ]
+    },
+    "Frisbee Catch": {
+        "Action Pose": [
+            "Frisbee Catch, which shows a person reaching out with an outstretched arm to catch the frisbee.",
+            "Frisbee Catch, which includes a person in a leaping motion attempting to catch the frisbee.",
+            "Frisbee Catch, which captures the moment the frisbee is grasped by a person's hand.",
+            "Frisbee Catch, which shows a person running towards the frisbee to catch it."
+        ],
+        "Number of People": [
+            "Frisbee Catch, which includes one person catching the frisbee.",
+            "Frisbee Catch, which includes multiple people, with one catching and others watching or waiting their turn."
+        ],
+        "Background Setting": [
+            "Frisbee Catch, which is typically outdoors on a grassy field.",
+            "Frisbee Catch, which may occur on a beach with sand and water in the background.",
+            "Frisbee Catch, which can be set in a park surrounded by trees."
+        ],
+        "Objects Present": [
+            "Frisbee Catch, which features a frisbee as the central object.",
+            "Frisbee Catch, which may include sportswear like gloves or caps."
+        ]
+    },
+    "Front Crawl": {
+        "Action Pose": [
+            "Front Crawl, which shows a person with one arm stretched forward and the other arm by their side in the water.",
+            "Front Crawl, which features a swimmer's alternating arm movement above the water surface.",
+            "Front Crawl, which displays a swimmer's face turning to one side for breathing.",
+            "Front Crawl, which captures a swimmer's flutter kicking legs."
+        ],
+        "Number of People": [
+            "Front Crawl, which includes a single swimmer centered in the frame.",
+            "Front Crawl, which features multiple swimmers racing in adjacent lanes."
+        ],
+        "Background Setting": [
+            "Front Crawl, which has a swimming pool as the setting with marked lanes.",
+            "Front Crawl, which might take place in an open water setting like a lake or sea."
+        ],
+        "Objects Present": [
+            "Front Crawl, which involves the presence of lane markers in a pool.",
+            "Front Crawl, which might have swimming caps and goggles on the swimmers."
+        ]
+    },
+    "Golf Swing": {
+        "Action Pose": [
+            "Golf Swing, which shows a person holding a golf club at the beginning of the swing.",
+            "Golf Swing, which captures the person in mid-swing with the club swung back.",
+            "Golf Swing, which depicts the moment of impact where the club hits the golf ball.",
+            "Golf Swing, which illustrates the follow-through phase with the golf club carried over the shoulder."
+        ],
+        "Number of People": [
+            "Golf Swing, which includes a single golfer in the frame preparing to swing the club.",
+            "Golf Swing, which may also capture a golfer along with a caddie standing nearby."
+        ],
+        "Background Setting": [
+            "Golf Swing, which is typically outdoors on a golf course with manicured lawns.",
+            "Golf Swing, which may occur at a driving range with visible distance markers."
+        ],
+        "Objects Present": [
+            "Golf Swing, which features a golf club as the main object.",
+            "Golf Swing, which includes a golf ball positioned on the ground or tee.",
+            "Golf Swing, which might show a golf bag in the vicinity of the golfer.",
+            "Golf Swing, which sometimes has golf course elements like sand bunkers, water hazards, or flags in the background."
+        ]
+    },
+    "Haircut": {
+        "Action Pose": [
+            "Haircut, which shows a person cutting another person's hair.",
+            "Haircut, which includes an individual trimming their own hair.",
+            "Haircut, which shows a person having their hair washed or prepared before cutting.",
+            "Haircut, which includes a barber or hairstylist shaping a customer's hair with styling tools."
+        ],
+        "Number of People": [
+            "Haircut, which includes one person cutting hair with no client shown.",
+            "Haircut, which includes two people, one performing the haircut and the other receiving it.",
+            "Haircut, which includes multiple people, with one central person getting a haircut possibly amidst others waiting."
+        ],
+        "Background Setting": [
+            "Haircut, which is set in a professional salon with chairs and mirrors.",
+            "Haircut, which takes place in a barbershop with a barber's pole visible.",
+            "Haircut, which is set in a home environment indicating an informal haircut.",
+            "Haircut, which could occur in a makeshift salon space such as a room or garage repurposed for cutting hair."
+        ],
+        "Objects Present": [
+            "Haircut, which features hair clippers.",
+            "Haircut, which shows scissors and combs.",
+            "Haircut, which may include a cape draped over the client.",
+            "Haircut, which might have hair care products like bottles of shampoo or styling mousse.",
+            "Haircut, which could display a broom or vacuum for cleaning up hair."
+        ]
+    },
+    "Hammering": {
+        "Action Pose": [
+            "Hammering, which shows a person using a hammer to strike an object.",
+            "Hammering, which depicts a person holding a hammer mid-swing.",
+            "Hammering, which captures the motion of a hammer being raised.",
+            "Hammering, which includes a person's arm extended towards a target with a hammer."
+        ],
+        "Number of People": [
+            "Hammering, which includes one person in the frame performing the task.",
+            "Hammering, which shows two people where one may be observing or waiting to hammer."
+        ],
+        "Background Setting": [
+            "Hammering, which is set in an outdoor construction or renovation site.",
+            "Hammering, which takes place indoors, possibly in a workshop or garage."
+        ],
+        "Objects Present": [
+            "Hammering, which features a hammer as the primary tool in use.",
+            "Hammering, which might include nails or other fasteners.",
+            "Hammering, which can reveal pieces of wood or metal being worked on.",
+            "Hammering, which may contain a workbench or table where activities are performed."
+        ]
+    },
+    "Hammer Throw": {
+        "Action Pose": [
+            "Hammer Throw, which shows an athlete spinning with a hammer.",
+            "Hammer Throw, which depicts an athlete releasing the hammer.",
+            "Hammer Throw, which includes an athlete in a stance preparing to spin.",
+            "Hammer Throw, which captures the athlete in mid-swing of the hammer."
+        ],
+        "Number of People": [
+            "Hammer Throw, which includes one athlete in the frame.",
+            "Hammer Throw, which may have officials or spectators in the background but focuses on a single athlete."
+        ],
+        "Background Setting": [
+            "Hammer Throw, which is outdoors on a field or track.",
+            "Hammer Throw, which typically has a dedicated throwing circle with sector lines."
+        ],
+        "Objects Present": [
+            "Hammer Throw, which features a hammer specifically designed for the event.",
+            "Hammer Throw, which might include athletic gear like gloves or proper shoes.",
+            "Hammer Throw, which often has a protective cage partially surrounding the throwing area."
+        ]
+    },
+    "Handstand Pushups": {
+        "Action Pose": [
+            "Handstand Pushups, which shows a person inverted in a handstand position actively pushing their body up and down.",
+            "Handstand Pushups, which displays a person's body aligned vertically with arms extended or bending at the elbows."
+        ],
+        "Number of People": [
+            "Handstand Pushups, which includes one person performing the exercise.",
+            "Handstand Pushups, which may occasionally include a spotter assisting the person."
+        ],
+        "Background Setting": [
+            "Handstand Pushups, which is often set in a gym environment with workout equipment in view.",
+            "Handstand Pushups, which can also occur in a home or office setting with minimalistic background."
+        ],
+        "Objects Present": [
+            "Handstand Pushups, which features a solid floor surface for the person to perform handstands on.",
+            "Handstand Pushups, which may include gym mats or protective padding on the floor."
+        ]
+    },
+    "Handstand Walking": {
+        "Action Pose": [
+            "Handstand Walking, which shows a person upside down on their hands with feet in the air, in a walking motion.",
+            "Handstand Walking, which includes a person balancing on one hand while the other hand moves as if taking a step."
+        ],
+        "Number of People": [
+            "Handstand Walking, which includes one person performing the action.",
+            "Handstand Walking, which may sometimes include a spotter assisting or observing the person."
+        ],
+        "Background Setting": [
+            "Handstand Walking, which is typically performed in a gymnasium or workout space.",
+            "Handstand Walking, which can also occur outdoors, such as on grass or an athletic track."
+        ],
+        "Objects Present": [
+            "Handstand Walking, which might feature gym mats on the floor.",
+            "Handstand Walking, which could include balance beams or other gymnastics equipment in the vicinity."
+        ]
+    },
+    "Head Massage": {
+        "Action Pose": [
+            "Head Massage, which shows a person using their hands to massage another person\u2019s scalp.",
+            "Head Massage, which includes a person leaning into a chair or reclined with another person standing or leaning over them to perform the massage."
+        ],
+        "Number of People": [
+            "Head Massage, which includes one recipient of the massage.",
+            "Head Massage, which includes two people, one giving the massage and one receiving."
+        ],
+        "Background Setting": [
+            "Head Massage, which is usually set indoors.",
+            "Head Massage, which often takes place in a spa or salon setting."
+        ],
+        "Objects Present": [
+            "Head Massage, which may feature massage oils or lotions.",
+            "Head Massage, which might include a massage chair or pillows for comfort."
+        ]
+    },
+    "High Jump": {
+        "Action Pose": [
+            "High Jump, which shows an athlete in the midst of clearing the high bar with an arched back.",
+            "High Jump, which displays the athlete preparing to jump with a sprinting approach towards the bar.",
+            "High Jump, which captures the moment the athlete lands on the mat after clearing the bar.",
+            "High Jump, which includes the athlete bending to gain momentum before the jump."
+        ],
+        "Number of People": [
+            "High Jump, which includes one athlete in the frame performing the jump.",
+            "High Jump, which may occasionally show judges or spectators in the background."
+        ],
+        "Background Setting": [
+            "High Jump, which is typically set in an outdoor athletics track with a clearly visible high bar and landing mat.",
+            "High Jump, which can also be set in an indoor sports arena with track and field facilities."
+        ],
+        "Objects Present": [
+            "High Jump, which features a high bar set at a measurable height ready for the athlete to clear.",
+            "High Jump, which includes a landing mat for the athlete to fall back on safely after the jump."
+        ]
+    },
+    "Horse Race": {
+        "Action Pose": [
+            "Horse Race, which shows jockeys in racing posture riding their horses.",
+            "Horse Race, which includes horses in mid-gallop with jockeys leaning forward."
+        ],
+        "Number of People": [
+            "Horse Race, which includes multiple jockeys competing in the event.",
+            "Horse Race, which often captures a single jockey in the frame during a close-up."
+        ],
+        "Background Setting": [
+            "Horse Race, which typically has a racetrack setting with spectator stands.",
+            "Horse Race, which may occasionally show a background with distant landscape views."
+        ],
+        "Objects Present": [
+            "Horse Race, which features racing horses with saddles.",
+            "Horse Race, which often includes safety helmets worn by the jockeys.",
+            "Horse Race, which might display hurdles for steeplechase events."
+        ]
+    },
+    "Horse Riding": {
+        "Action Pose": [
+            "Horse Riding, which shows a person mounted on the horse with a straight posture.",
+            "Horse Riding, which displays a person galloping on horseback.",
+            "Horse Riding, which captures a person performing jumps over obstacles.",
+            "Horse Riding, which includes a person trotting in a circular arena."
+        ],
+        "Number of People": [
+            "Horse Riding, which includes one person riding the horse.",
+            "Horse Riding, which features multiple people riding their horses, possibly in a group setting."
+        ],
+        "Background Setting": [
+            "Horse Riding, which is set outdoors in an open field.",
+            "Horse Riding, which occurs in a sandy arena commonly used for equestrian sports.",
+            "Horse Riding, which takes place on a trail surrounded by nature.",
+            "Horse Riding, which is set in a spectator area with seating visible in the background."
+        ],
+        "Objects Present": [
+            "Horse Riding, which features horseback riding gear such as a saddle and reins.",
+            "Horse Riding, which includes obstacles like fences and poles in an equestrian course.",
+            "Horse Riding, which may show a horse wearing protective boots or wraps.",
+            "Horse Riding, which often shows the rider wearing a helmet and boots for safety."
+        ]
+    },
+    "Hula Hoop": {
+        "Action Pose": [
+            "Hula Hoop, which shows a person gyrating their hips to keep the hoop in motion.",
+            "Hula Hoop, which includes a person spinning the hoop with their hands or arms."
+        ],
+        "Number of People": [
+            "Hula Hoop, which includes one individual performing with the hoop.",
+            "Hula Hoop, which features a group of people each using their own hoop."
+        ],
+        "Background Setting": [
+            "Hula Hoop, which is often outdoors on grass or in a park setting.",
+            "Hula Hoop, which can also be indoors in a spacious room or gym."
+        ],
+        "Objects Present": [
+            "Hula Hoop, which always includes at least one brightly colored hoop.",
+            "Hula Hoop, which may show additional hoops lying on the ground nearby."
+        ]
+    },
+    "Ice Dancing": {
+        "Action Pose": [
+            "Ice Dancing, which shows partners performing a lift on the ice.",
+            "Ice Dancing, which includes a couple executing twizzles or spin sequences.",
+            "Ice Dancing, which captures dancers in a synchronized side-by-side step sequence.",
+            "Ice Dancing, which features a pair in a close dance hold or in a creative pose."
+        ],
+        "Number of People": [
+            "Ice Dancing, which includes a pair of skaters in the frame.",
+            "Ice Dancing, which might display additional pairs of skaters in the background during a competition."
+        ],
+        "Background Setting": [
+            "Ice Dancing, which is performed on an ice rink with visible arena seating.",
+            "Ice Dancing, which has a backdrop of competition identifiers and sponsor logos."
+        ],
+        "Objects Present": [
+            "Ice Dancing, which features ice skates as an essential object.",
+            "Ice Dancing, which can have performance attire with sequins, and fringe details."
+        ]
+    },
+    "Javelin Throw": {
+        "Action Pose": [
+            "Javelin Throw, which shows an athlete in the middle of a running approach.",
+            "Javelin Throw, which captures the athlete in a stance preparing to throw the javelin.",
+            "Javelin Throw, which captures the follow-through motion after the javelin is thrown.",
+            "Javelin Throw, which shows the athlete retrieving the javelin post-throw."
+        ],
+        "Number of People": [
+            "Javelin Throw, which typically features a single athlete performing the throw.",
+            "Javelin Throw, which may show officials or spectators in the background."
+        ],
+        "Background Setting": [
+            "Javelin Throw, which is set in an outdoor sports field or stadium.",
+            "Javelin Throw, which may have a running track or other field events in the vicinity."
+        ],
+        "Objects Present": [
+            "Javelin Throw, which includes the javelin as a primary object.",
+            "Javelin Throw, which might feature measurement equipment like tapes or distance markers."
+        ]
+    },
+    "Juggling Balls": {
+        "Action Pose": [
+            "Juggling Balls, which shows a person with arms extended tossing balls in the air.",
+            "Juggling Balls, which includes a person catching balls with hands or other body parts."
+        ],
+        "Number of People": [
+            "Juggling Balls, which includes one person performing the juggling act.",
+            "Juggling Balls, which includes multiple people juggling balls simultaneously."
+        ],
+        "Background Setting": [
+            "Juggling Balls, which is often outdoors in an open space such as a park.",
+            "Juggling Balls, which can also be indoors, possibly in a performance area or stage setting."
+        ],
+        "Objects Present": [
+            "Juggling Balls, which features multiple balls being juggled.",
+            "Juggling Balls, which may include props such as juggling clubs or rings in addition to balls."
+        ]
+    },
+    "Jumping Jack": {
+        "Action Pose": [
+            "Jumping Jack, which shows a person with arms and legs outstretched in mid-air.",
+            "Jumping Jack, which depicts a person with arms and legs coming together while landing."
+        ],
+        "Number of People": [
+            "Jumping Jack, which includes one person performing the exercise.",
+            "Jumping Jack, which includes multiple people simultaneously performing the action."
+        ],
+        "Background Setting": [
+            "Jumping Jack, which is typically performed in a gym or indoor workout space.",
+            "Jumping Jack, which can also take place outdoors, such as on a field or a park."
+        ],
+        "Objects Present": [
+            "Jumping Jack, which might have exercise equipment in the background.",
+            "Jumping Jack, which may show a water bottle or towel nearby."
+        ]
+    },
+    "Jump Rope": {
+        "Action Pose": [
+            "Jump Rope, which shows a person with both feet off the ground as they swing the rope over their head.",
+            "Jump Rope, which includes a person in mid-jump with the rope positioned underneath their feet."
+        ],
+        "Number of People": [
+            "Jump Rope, which includes one person performing the activity alone.",
+            "Jump Rope, which includes multiple people taking turns or jumping in sync."
+        ],
+        "Background Setting": [
+            "Jump Rope, which is typically outdoors on surfaces such as a playground or park.",
+            "Jump Rope, which can also be indoors in a gym or an open space."
+        ],
+        "Objects Present": [
+            "Jump Rope, which features a jump rope either in motion or at rest.",
+            "Jump Rope, which might also have workout-related equipment such as water bottles or gym mats."
+        ]
+    },
+    "Kayaking": {
+        "Action Pose": [
+            "Kayaking, which shows a person seated in a kayak using a double-bladed paddle.",
+            "Kayaking, which depicts a person navigating through water with coordinated paddle strokes.",
+            "Kayaking, which demonstrates a kayaker performing a roll to upright the kayak.",
+            "Kayaking, which includes a kayaker maneuvering around obstacles."
+        ],
+        "Number of People": [
+            "Kayaking, which includes one person in a single kayak.",
+            "Kayaking, which features two people, each in their own kayaks.",
+            "Kayaking, which has a group of people kayaking together.",
+            "Kayaking, which shows a tandem kayak with two people."
+        ],
+        "Background Setting": [
+            "Kayaking, which is set in an outdoor water body like a lake or river.",
+            "Kayaking, which takes place in a calm water environment, possibly a bay or a quiet river stretch.",
+            "Kayaking, which occurs in rapid water presenting a whitewater kayaking scenario.",
+            "Kayaking, which is located in a scenic area, often with natural landscapes such as mountains or forests in the background."
+        ],
+        "Objects Present": [
+            "Kayaking, which features a kayak, either sit-in or sit-on-top type.",
+            "Kayaking, which includes safety gear such as a life jacket and helmet.",
+            "Kayaking, which might show spray skirts attached to the kayak to keep water out.",
+            "Kayaking, which could display additional kayaking equipment like dry bags or navigation gear."
+        ]
+    },
+    "Knitting": {
+        "Action Pose": [
+            "Knitting, which shows a person holding knitting needles with yarn.",
+            "Knitting, which includes movements such as looping yarn on the needles."
+        ],
+        "Number of People": [
+            "Knitting, which includes one person in the frame focused on their task.",
+            "Knitting, which includes multiple people, potentially in a group knitting session."
+        ],
+        "Background Setting": [
+            "Knitting, which is usually indoors, perhaps on a comfortable chair or couch.",
+            "Knitting, which may take place in a public setting like a park or a caf\u00e9."
+        ],
+        "Objects Present": [
+            "Knitting, which features balls of yarn and knitting needles.",
+            "Knitting, which might include finished or semi-finished knitted items like scarves or hats."
+        ]
+    },
+    "Long Jump": {
+        "Action Pose": [
+            "Long Jump, which shows an athlete mid-air horizontally above the sand pit.",
+            "Long Jump, which shows an athlete running up to the takeoff board.",
+            "Long Jump, which captures the moment of takeoff with one foot extended forward.",
+            "Long Jump, which includes the athlete landing into the sand pit."
+        ],
+        "Number of People": [
+            "Long Jump, which includes a single athlete performing the jump.",
+            "Long Jump, which may include officials or spectators in the background."
+        ],
+        "Background Setting": [
+            "Long Jump, which is set in an outdoor track and field stadium.",
+            "Long Jump, which can also occur in an indoor setting with a clearly marked runway and sand pit."
+        ],
+        "Objects Present": [
+            "Long Jump, which features a long stretch of runway.",
+            "Long Jump, which has a takeoff board at the starting point of the sand pit.",
+            "Long Jump, which includes measuring equipment for the jump distance.",
+            "Long Jump, which may show markers denoting personal or world records."
+        ]
+    },
+    "Lunges": {
+        "Action Pose": [
+            "Lunges, which shows a person performing a forward or backward step with knee bend.",
+            "Lunges, where the individual maintains an upright torso while one leg is positioned forward with knee bent and foot flat on the ground.",
+            "Lunges, which captures the transition of a person stepping into a lunge or returning to a standing position.",
+            "Lunges, which may depict a side lunge, with the person stepping out to the side and bending one knee while keeping the other leg straight."
+        ],
+        "Number of People": [
+            "Lunges, which includes one person in the frame performing the exercise.",
+            "Lunges, which can have multiple individuals lunging in sync in a group fitness setting."
+        ],
+        "Background Setting": [
+            "Lunges, often done indoors within a gym or workout studio.",
+            "Lunges, which can also take place outdoors, such as in a park or on a track."
+        ],
+        "Objects Present": [
+            "Lunges, which might show gym equipment like mats, dumbbells, or resistance bands.",
+            "Lunges, which could include a water bottle or towel as part of the workout gear."
+        ]
+    },
+    "Military Parade": {
+        "Action Pose": [
+            "Military Parade, which shows troops marching in a synchronized manner.",
+            "Military Parade, which includes soldiers standing at attention in a formation.",
+            "Military Parade, which features a saluting gesture from uniformed personnel.",
+            "Military Parade, which depicts individuals carrying national flags or military banners."
+        ],
+        "Number of People": [
+            "Military Parade, which includes a large group of soldiers in the frame.",
+            "Military Parade, which features a few key individuals, likely commanders or dignitaries."
+        ],
+        "Background Setting": [
+            "Military Parade, which is outdoors, possibly on a large square or street.",
+            "Military Parade, which has a background with grandstands or spectator areas."
+        ],
+        "Objects Present": [
+            "Military Parade, which features uniformed soldiers with medals and decorations.",
+            "Military Parade, which includes military vehicles such as tanks or armored cars.",
+            "Military Parade, which might have musical instruments like drums or brass for a marching band.",
+            "Military Parade, which could showcase artillery pieces or missile launchers as part of the display."
+        ]
+    },
+    "Mixing": {
+        "Action Pose": [
+            "Mixing, which shows a person stirring contents in a bowl.",
+            "Mixing, which includes a person using a whisk or spoon in a rhythmic motion.",
+            "Mixing, which demonstrates a person combining ingredients thoroughly.",
+            "Mixing, which features a person shaking a liquid container or cocktail shaker."
+        ],
+        "Number of People": [
+            "Mixing, which includes one person performing the action.",
+            "Mixing, which involves two people, possibly one holding the bowl while the other mixes."
+        ],
+        "Background Setting": [
+            "Mixing, which is typically done in a kitchen setting.",
+            "Mixing, which may occur in a commercial kitchen or a home environment."
+        ],
+        "Objects Present": [
+            "Mixing, which involves kitchen items such as bowls, mixing utensils, and ingredients.",
+            "Mixing, which might feature electric mixers or blenders in the scene."
+        ]
+    },
+    "Mopping Floor": {
+        "Action Pose": [
+            "Mopping Floor, which shows a person pushing a mop across the floor.",
+            "Mopping Floor, which includes a person wringing out a mop.",
+            "Mopping Floor, which captures a person bending or reaching with a mop.",
+            "Mopping Floor, which depicts a person refilling a mop bucket."
+        ],
+        "Number of People": [
+            "Mopping Floor, which includes one person in the frame performing the action.",
+            "Mopping Floor, which includes multiple people, where one is mopping and others may be moving or standing aside."
+        ],
+        "Background Setting": [
+            "Mopping Floor, which is usually indoors within a variety of settings such as a kitchen, hallway, or public space.",
+            "Mopping Floor, which often takes place in an area with hard flooring, such as tiled or linoleum surfaces."
+        ],
+        "Objects Present": [
+            "Mopping Floor, which features cleaning equipment like a mop and bucket.",
+            "Mopping Floor, which might include cleaning products or a caution sign indicating a wet floor."
+        ]
+    },
+    "Nunchucks": {
+        "Action Pose": [
+            "Nunchucks, which shows a person swinging the nunchucks in a circular motion.",
+            "Nunchucks, which includes a person performing a figure-eight motion with the nunchucks.",
+            "Nunchucks, which displays a person striking a stationary object or the air.",
+            "Nunchucks, which captures a person doing defensive moves or blocks.",
+            "Nunchucks, which shows a person catching or tossing the nunchucks between hands."
+        ],
+        "Number of People": [
+            "Nunchucks, which includes one person in the frame demonstrating the skill.",
+            "Nunchucks, which might include two people, where one is performing and the other is observing or coaching."
+        ],
+        "Background Setting": [
+            "Nunchucks, which is typically outdoors, possibly in an open field or martial arts practice area.",
+            "Nunchucks, which could be indoors, such as a gym or a dojo with training mats."
+        ],
+        "Objects Present": [
+            "Nunchucks, which clearly features a pair of nunchucks as the main object.",
+            "Nunchucks, which may include martial arts training equipment such as punching bags or pads."
+        ]
+    },
+    "Parallel Bars": {
+        "Action Pose": [
+            "Parallel Bars, which shows an athlete performing a handstand.",
+            "Parallel Bars, which depicts a gymnast swinging between the bars.",
+            "Parallel Bars, which involves an individual executing a dismount.",
+            "Parallel Bars, which includes an athlete doing a pirouette on the bars."
+        ],
+        "Number of People": [
+            "Parallel Bars, which includes one gymnast in the frame performing the routine.",
+            "Parallel Bars, which may occasionally show a coach or a spotter alongside the gymnast."
+        ],
+        "Background Setting": [
+            "Parallel Bars, which is typically set in a gymnastics arena.",
+            "Parallel Bars, which often has gymnasium mats and gymnastics equipment in the background."
+        ],
+        "Objects Present": [
+            "Parallel Bars, which features two parallel bars as the main equipment.",
+            "Parallel Bars, which might include chalk for a better grip on the athlete's hands."
+        ]
+    },
+    "Pizza Tossing": {
+        "Action Pose": [
+            "Pizza Tossing, which shows an individual tossing a pizza dough into the air.",
+            "Pizza Tossing, which includes a person spinning pizza dough with their hands."
+        ],
+        "Number of People": [
+            "Pizza Tossing, which includes one person in the frame performing the action.",
+            "Pizza Tossing, which may include spectators or customers watching the pizza being tossed."
+        ],
+        "Background Setting": [
+            "Pizza Tossing, which is typically set in a kitchen environment.",
+            "Pizza Tossing, which may occur in an outdoor setting such as a food market."
+        ],
+        "Objects Present": [
+            "Pizza Tossing, which features a raw pizza base and a dusting of flour.",
+            "Pizza Tossing, which might include kitchen tools like rolling pins or sauce spoons."
+        ]
+    },
+    "Playing Cello": {
+        "Action Pose": [
+            "Playing Cello, which features a person seated with the cello between their legs.",
+            "Playing Cello, which includes a person standing and leaning slightly towards the cello.",
+            "Playing Cello, which shows a person using a bow to play the cello.",
+            "Playing Cello, which captures a person plucking the strings of the cello."
+        ],
+        "Number of People": [
+            "Playing Cello, which involves a solo performer in the frame.",
+            "Playing Cello, which showcases a duet, with one person playing the cello and another accompanying with a different instrument."
+        ],
+        "Background Setting": [
+            "Playing Cello, which is set in a serene indoor environment, perhaps a music room or concert hall.",
+            "Playing Cello, which may be situated outdoors, for example in a park or garden setting during a performance."
+        ],
+        "Objects Present": [
+            "Playing Cello, which shows a music stand with sheet music in the background.",
+            "Playing Cello, which might include a chair where the cellist is seated."
+        ]
+    },
+    "Playing Daf": {
+        "Action Pose": [
+            "Playing Daf, which shows a person holding and striking the frame drum with their hands.",
+            "Playing Daf, which includes the rhythmic tapping and shaking of the drum."
+        ],
+        "Number of People": [
+            "Playing Daf, which includes one person playing the instrument solo.",
+            "Playing Daf, which may include a group of people, each playing their own Daf."
+        ],
+        "Background Setting": [
+            "Playing Daf, which is often set indoors, possibly in a room with cultural decorations.",
+            "Playing Daf, which can also be outdoor, such as in a street performance setup."
+        ],
+        "Objects Present": [
+            "Playing Daf, which features the Daf instrument itself prominently.",
+            "Playing Daf, which might include traditional attire associated with Daf playing."
+        ]
+    },
+    "Playing Dhol": {
+        "Action Pose": [
+            "Playing Dhol, which shows an individual with a drumstick striking the dhol.",
+            "Playing Dhol, which includes rhythmic movements such as bending and swaying.",
+            "Playing Dhol, which illustrates the performer energetically hitting the drum sides.",
+            "Playing Dhol, which captures the person using both hands to play the dhol."
+        ],
+        "Number of People": [
+            "Playing Dhol, which includes a single person playing the instrument.",
+            "Playing Dhol, which features a group of people, with some playing the dhol while others dance or clap."
+        ],
+        "Background Setting": [
+            "Playing Dhol, which is commonly set outdoors during festive events.",
+            "Playing Dhol, which can also be located indoors in a performance space."
+        ],
+        "Objects Present": [
+            "Playing Dhol, which incorporates the dhol as the central object.",
+            "Playing Dhol, which may have traditional attire specific to the event."
+        ]
+    },
+    "Playing Flute": {
+        "Action Pose": [
+            "Playing Flute, which shows a person holding a flute horizontally to their mouth.",
+            "Playing Flute, which includes the musician using fingers to press the flute's keys."
+        ],
+        "Number of People": [
+            "Playing Flute, which includes a single individual playing the instrument.",
+            "Playing Flute, which may feature an ensemble where one or more individuals are playing flutes."
+        ],
+        "Background Setting": [
+            "Playing Flute, which is often set in a room possibly a practice or music room.",
+            "Playing Flute, which can be outdoors, possibly at a park or a street performance setting."
+        ],
+        "Objects Present": [
+            "Playing Flute, which features a flute as the main object.",
+            "Playing Flute, which may have sheet music or music stands in the vicinity."
+        ]
+    },
+    "Playing Guitar": {
+        "Action Pose": [
+            "Playing Guitar, which shows a person strumming the strings of the guitar.",
+            "Playing Guitar, which includes a person holding the guitar neck and pressing the frets."
+        ],
+        "Number of People": [
+            "Playing Guitar, which includes one person playing the instrument alone.",
+            "Playing Guitar, which includes two or more people, with at least one playing the guitar and others could be singing or playing different instruments."
+        ],
+        "Background Setting": [
+            "Playing Guitar, which is typically set in a room with musical decor.",
+            "Playing Guitar, which may be set on a stage with lighting and amplifiers."
+        ],
+        "Objects Present": [
+            "Playing Guitar, which features an acoustic or electric guitar.",
+            "Playing Guitar, which might show a guitar pick, music stand, or microphone stand."
+        ]
+    },
+    "Playing Piano": {
+        "Action Pose": [
+            "Playing Piano, which shows a person with their fingers positioned over piano keys.",
+            "Playing Piano, which includes a person reading sheet music while playing.",
+            "Playing Piano, which captures a person's hands moving rapidly across the keyboard.",
+            "Playing Piano, which depicts a person using foot pedals."
+        ],
+        "Number of People": [
+            "Playing Piano, which includes one person in the frame focused on the instrument.",
+            "Playing Piano, which includes two people, possibly one playing and another singing or observing."
+        ],
+        "Background Setting": [
+            "Playing Piano, which is usually indoors in a setting like a concert hall.",
+            "Playing Piano, which often occurs in a domestic environment such as a living room."
+        ],
+        "Objects Present": [
+            "Playing Piano, which features a grand or upright piano.",
+            "Playing Piano, which might include sheet music stands or metronomes.",
+            "Playing Piano, which sometimes shows a music book or pages laid out on the piano."
+        ]
+    },
+    "Playing Sitar": {
+        "Action Pose": [
+            "Playing Sitar, which shows a person plucking the strings of the sitar.",
+            "Playing Sitar, which includes a person sitting on the floor with the sitar."
+        ],
+        "Number of People": [
+            "Playing Sitar, which includes one person playing the instrument.",
+            "Playing Sitar, which includes a small group, with one playing the sitar and others watching or accompanying with different instruments."
+        ],
+        "Background Setting": [
+            "Playing Sitar, which is typically set in a room with cultural decor.",
+            "Playing Sitar, which may take place on a stage during a live performance."
+        ],
+        "Objects Present": [
+            "Playing Sitar, which primarily features the sitar as the central object.",
+            "Playing Sitar, which can include other musical instruments or amplifiers in the vicinity."
+        ]
+    },
+    "Playing Tabla": {
+        "Action Pose": [
+            "Playing Tabla, which shows a person using their hands to strike the tabla drums.",
+            "Playing Tabla, which includes a musician sitting cross-legged or on a low seat while playing the instrument."
+        ],
+        "Number of People": [
+            "Playing Tabla, which features a single individual performing solo.",
+            "Playing Tabla, which includes a small group where one is playing the tabla and others may be participating with different instruments or clapping."
+        ],
+        "Background Setting": [
+            "Playing Tabla, which is typically indoors, such as in a room or studio.",
+            "Playing Tabla, which can also be at an outdoor performance setting like a concert or festival."
+        ],
+        "Objects Present": [
+            "Playing Tabla, which presents the tabla drums as the central object.",
+            "Playing Tabla, which might also have musical scores or a metronome visible in the setting."
+        ]
+    },
+    "Playing Violin": {
+        "Action Pose": [
+            "Playing Violin, which shows a person holding a violin under the chin and a bow in the other hand.",
+            "Playing Violin, which includes a person with one hand on the fingerboard and the other bowing the strings.",
+            "Playing Violin, which captures a person in the motion of playing the violin, often with dynamic hand and arm movements.",
+            "Playing Violin, which might show a person reading sheet music while playing the instrument.",
+            "Playing Violin, which can feature a close-up of the hands intricately manipulating the strings and bow."
+        ],
+        "Number of People": [
+            "Playing Violin, which includes one person in the frame, focusing on a solo performance.",
+            "Playing Violin, which includes multiple people, where a group may be playing together or one person is highlighted among an orchestra."
+        ],
+        "Background Setting": [
+            "Playing Violin, which is typically indoors, possibly on a stage or in a practice room.",
+            "Playing Violin, which can be outdoors, such as street performances or open-air concerts.",
+            "Playing Violin, which may have an audience in the background, indicating a performance setting.",
+            "Playing Violin, which could be in a private setting, like a home or studio, with personal belongings in the surroundings."
+        ],
+        "Objects Present": [
+            "Playing Violin, which features a violin and its bow as the central objects.",
+            "Playing Violin, which might include a music stand with sheet music.",
+            "Playing Violin, which could have an accompanist instrument like a piano in the frame.",
+            "Playing Violin, which may show other orchestra instruments if within an ensemble setting."
+        ]
+    },
+    "Pole Vault": {
+        "Action Pose": [
+            "Pole Vault, which shows an athlete in the midst of a vault clearing the bar.",
+            "Pole Vault, which depicts the approach run before the athlete plants the pole.",
+            "Pole Vault, which captures the moment of take-off with the pole bending.",
+            "Pole Vault, which includes the athlete in mid-air over the bar with the pole removed.",
+            "Pole Vault, which displays the landing phase where the athlete falls onto the landing mat."
+        ],
+        "Number of People": [
+            "Pole Vault, which includes one athlete performing the vault.",
+            "Pole Vault, which may show officials or spotters in the background."
+        ],
+        "Background Setting": [
+            "Pole Vault, which is set in an outdoor track and field stadium.",
+            "Pole Vault, which takes place indoors in an arena designed for track and field events."
+        ],
+        "Objects Present": [
+            "Pole Vault, which features a long and flexible pole used by the vaulter.",
+            "Pole Vault, which includes the high bar set between two standards that the athlete must clear.",
+            "Pole Vault, which has a large landing mat for the athlete to fall onto after clearing the bar."
+        ]
+    },
+    "Pommel Horse": {
+        "Action Pose": [
+            "Pommel Horse, which shows an athlete swinging his legs in a circular motion over the horse.",
+            "Pommel Horse, which includes an athlete performing handstands on the apparatus."
+        ],
+        "Number of People": [
+            "Pommel Horse, which includes one athlete performing the routine.",
+            "Pommel Horse, which sometimes has a coach or other athletes in the background awaiting their turn."
+        ],
+        "Background Setting": [
+            "Pommel Horse, which is set indoors, typically in a gymnastics arena.",
+            "Pommel Horse, which often has gym mats and other gymnastic equipment in the vicinity."
+        ],
+        "Objects Present": [
+            "Pommel Horse, which features the pommel horse apparatus itself.",
+            "Pommel Horse, which includes gymnastic attire worn by the athlete."
+        ]
+    },
+    "Pull Ups": {
+        "Action Pose": [
+            "Pull Ups, which shows a person hanging from a horizontal bar with arms extended upward.",
+            "Pull Ups, which depicts a person pulling themselves up towards the bar with their chin reaching above it."
+        ],
+        "Number of People": [
+            "Pull Ups, which includes one person performing the exercise.",
+            "Pull Ups, which features two people, where one might be spotting or assisting the other."
+        ],
+        "Background Setting": [
+            "Pull Ups, which is typically set in a gym environment.",
+            "Pull Ups, which may also be set outdoors with a portable pull-up bar or a sturdy tree branch."
+        ],
+        "Objects Present": [
+            "Pull Ups, which primarily features a pull-up bar.",
+            "Pull Ups, which could also include fitness-related equipment such as gym mats or weight belts."
+        ]
+    },
+    "Punch": {
+        "Action Pose": [
+            "Punch, which shows a person with a clenched fist extended towards a target.",
+            "Punch, which captures the motion of a person's arm swinging in a striking motion.",
+            "Punch, which includes a person in a boxing stance with gloves on hands.",
+            "Punch, which displays a person recoiling their arm after making a strike."
+        ],
+        "Number of People": [
+            "Punch, which includes one person throwing a punch towards an unseen target.",
+            "Punch, which involves two people, one making the punching gesture and the other receiving it."
+        ],
+        "Background Setting": [
+            "Punch, which is set in a gym with workout equipment around.",
+            "Punch, which takes place in a ring or an area designated for fighting sports."
+        ],
+        "Objects Present": [
+            "Punch, which features boxing gloves worn by the puncher.",
+            "Punch, which shows a punching bag being struck.",
+            "Punch, which includes protective gear like a head guard on the recipient of the punch."
+        ]
+    },
+    "Push Ups": {
+        "Action Pose": [
+            "Push Ups, which shows a person in a plank position, bending their elbows to lower and raise their body.",
+            "Push Ups, which includes a person with straight arms supporting their weight as they start or finish the movement."
+        ],
+        "Number of People": [
+            "Push Ups, which includes one person performing the exercise alone.",
+            "Push Ups, which features a group of people doing the exercise simultaneously."
+        ],
+        "Background Setting": [
+            "Push Ups, which is typically indoors, possibly in a gym or home environment.",
+            "Push Ups, which can also be outdoors, like a park or training field."
+        ],
+        "Objects Present": [
+            "Push Ups, which may include exercise mats on the floor.",
+            "Push Ups, which might feature gym equipment in the background such as weights or resistance bands."
+        ]
+    },
+    "Rafting": {
+        "Action Pose": [
+            "Rafting, which shows individuals paddling vigorously through water.",
+            "Rafting, which includes people being splashed by waves while navigating rapids."
+        ],
+        "Number of People": [
+            "Rafting, which includes a group of four to eight people in a raft.",
+            "Rafting, which often shows a single individual guiding the raft."
+        ],
+        "Background Setting": [
+            "Rafting, which takes place in a fast-flowing river.",
+            "Rafting, which has a rocky or forested landscape in the background."
+        ],
+        "Objects Present": [
+            "Rafting, which features an inflatable raft.",
+            "Rafting, which includes life vests and helmets for safety."
+        ]
+    },
+    "Rock Climbing Indoor": {
+        "Action Pose": [
+            "Rock Climbing Indoor, which shows a person gripping holds and pulling themselves upward.",
+            "Rock Climbing Indoor, which includes a person reaching or leaping for a distant hold.",
+            "Rock Climbing Indoor, which displays a climber using their feet to push themselves up the wall.",
+            "Rock Climbing Indoor, which captures a person carefully balancing on small footholds."
+        ],
+        "Number of People": [
+            "Rock Climbing Indoor, which includes one climber in the frame.",
+            "Rock Climbing Indoor, which features a climber and a spotter or belayer."
+        ],
+        "Background Setting": [
+            "Rock Climbing Indoor, which is set against an artificial climbing wall with colorful holds.",
+            "Rock Climbing Indoor, which has a gym or indoor facility environment with safety mats on the floor."
+        ],
+        "Objects Present": [
+            "Rock Climbing Indoor, which features safety equipment like ropes and harnesses.",
+            "Rock Climbing Indoor, which might include climbing shoes worn by the climber."
+        ]
+    },
+    "Rope Climbing": {
+        "Action Pose": [
+            "Rope Climbing, which shows a person grasping and pulling on a rope with both hands while their feet push against a vertical surface.",
+            "Rope Climbing, which includes a person hanging from a rope using only their hands with their legs dangling or positioned for the next move.",
+            "Rope Climbing, which captures a person reaching up to grab a higher part of the rope.",
+            "Rope Climbing, which displays a person in a resting position on the rope, often seen with one leg wrapped around the rope for support."
+        ],
+        "Number of People": [
+            "Rope Climbing, which includes one person in the frame actively climbing the rope.",
+            "Rope Climbing, which might show multiple people, where one is climbing the rope and others are spotting or waiting their turn."
+        ],
+        "Background Setting": [
+            "Rope Climbing, which is typically set in an indoor gym with visible exercise equipment in the background.",
+            "Rope Climbing, which can be outdoors with the rope hanging from a structure with nature scenery or an outdoor training facility."
+        ],
+        "Objects Present": [
+            "Rope Climbing, which features a thick, vertical rope as the main object.",
+            "Rope Climbing, which might include gym mats or safety padding on the floor beneath the climber.",
+            "Rope Climbing, which may show climbing gear such as gloves, chalk bags, or specialized shoes."
+        ]
+    },
+    "Rowing": {
+        "Action Pose": [
+            "Rowing, which shows individuals with oars in both hands extended away from the body.",
+            "Rowing, which includes a person seated with knees bent pulling the oar towards the torso.",
+            "Rowing, which displays a coordinated straight arm and back posture of multiple rowers.",
+            "Rowing, which captures rowers in the catch phase with oars lifted out of the water."
+        ],
+        "Number of People": [
+            "Rowing, which includes a single individual managing the oars of the boat.",
+            "Rowing, which features a pair of athletes working together synchronously.",
+            "Rowing, which contains a team of four people rowing in unison.",
+            "Rowing, which involves a larger crew of eight athletes in a single boat."
+        ],
+        "Background Setting": [
+            "Rowing, which takes place on open waters such as lakes or rivers.",
+            "Rowing, which occurs in a rowing channel marked for competitive racing."
+        ],
+        "Objects Present": [
+            "Rowing, which includes the presence of slim, long boats designed for speed.",
+            "Rowing, which features oars that are typically long with flat ends.",
+            "Rowing, which can show life jackets worn by the participants.",
+            "Rowing, which may include buoys or markers indicating the course or distance."
+        ]
+    },
+    "Salsa Spin": {
+        "Action Pose": [
+            "Salsa Spin, which shows one dancer spinning another around.",
+            "Salsa Spin, which includes dancers performing back-to-back turns.",
+            "Salsa Spin, which features a dancer performing a solo spin with arm styling.",
+            "Salsa Spin, which shows a dancer being led in a multiple spin sequence by their partner."
+        ],
+        "Number of People": [
+            "Salsa Spin, which includes a pair of dancers, typically a leader and follower.",
+            "Salsa Spin, which occasionally includes multiple couples spinning simultaneously on the dance floor."
+        ],
+        "Background Setting": [
+            "Salsa Spin, which is often set in a social dance venue such as a club or ballroom.",
+            "Salsa Spin, which may be set on a staged area with audience seating around."
+        ],
+        "Objects Present": [
+            "Salsa Spin, which might feature a dance floor with reflecting lights.",
+            "Salsa Spin, which can include a sound system for playing salsa music."
+        ]
+    },
+    "Shaving Beard": {
+        "Action Pose": [
+            "Shaving Beard, which shows a person using a razor or electric shaver on their face.",
+            "Shaving Beard, which includes motions like rinsing the razor or adjusting facial hair with one hand."
+        ],
+        "Number of People": [
+            "Shaving Beard, which includes only one person performing the action.",
+            "Shaving Beard, which might occasionally include another person, possibly observing or waiting."
+        ],
+        "Background Setting": [
+            "Shaving Beard, which is typically set in a bathroom.",
+            "Shaving Beard, which can be set in a barber shop with a chair and professional equipment visible."
+        ],
+        "Objects Present": [
+            "Shaving Beard, which features objects like a razor, shaving cream, and a sink.",
+            "Shaving Beard, which might include additional grooming products such as aftershave or a towel."
+        ]
+    },
+    "Shotput": {
+        "Action Pose": [
+            "Shotput, which displays an individual in a stance phase preparing for the throw with one arm behind holding the shot.",
+            "Shotput, which shows the athlete in the act of releasing the shot with a forward thrusting motion of their arm."
+        ],
+        "Number of People": [
+            "Shotput, which typically includes one person in the frame executing the throw.",
+            "Shotput, which might display judges or onlookers in the background, but focuses on the single athlete performing."
+        ],
+        "Background Setting": [
+            "Shotput, which often has an outdoor track and field setting.",
+            "Shotput, which may show an indoor athletic facility or practice space."
+        ],
+        "Objects Present": [
+            "Shotput, which features the spherical shot as the primary object.",
+            "Shotput, which might include athletic gear such as gloves or wristbands."
+        ]
+    },
+    "Skate Boarding": {
+        "Action Pose": [
+            "Skate Boarding, which shows a person performing a trick on a skateboard.",
+            "Skate Boarding, which includes a skater riding and balancing on the skateboard.",
+            "Skate Boarding, which captures a skater executing a jump with the skateboard.",
+            "Skate Boarding, which depicts a person performing a turn or slide on the skateboard."
+        ],
+        "Number of People": [
+            "Skate Boarding, which includes one person on the skateboard.",
+            "Skate Boarding, which features multiple skaters in a skate park."
+        ],
+        "Background Setting": [
+            "Skate Boarding, which is typically outdoors in an urban environment.",
+            "Skate Boarding, which often takes place at a designated skate park.",
+            "Skate Boarding, which can occur in a suburban setting with ramps and rails.",
+            "Skate Boarding, which might be performed on public streets and sidewalks."
+        ],
+        "Objects Present": [
+            "Skate Boarding, which features a skateboard as the main object.",
+            "Skate Boarding, which might include ramps, rails, or stairs commonly used for tricks.",
+            "Skate Boarding, which occasionally has safety gear like helmets and knee pads.",
+            "Skate Boarding, which can show other elements like benches or curbs used for skating."
+        ]
+    },
+    "Skiing": {
+        "Action Pose": [
+            "Skiing, which shows a person in a crouched position with poles held backward as they navigate downhill.",
+            "Skiing, which includes a person with skis parallel in mid-jump over a snowy ramp.",
+            "Skiing, which captures a person executing a sharp turn with a spray of snow.",
+            "Skiing, which involves a person gliding on flat terrain with poles pushing against the snow."
+        ],
+        "Number of People": [
+            "Skiing, which includes a single skier descending a slope.",
+            "Skiing, which shows multiple skiers racing or following each other down a trail."
+        ],
+        "Background Setting": [
+            "Skiing, which is set against a snowy mountain backdrop.",
+            "Skiing, which takes place on a ski slope marked by flags or poles"
+        ],
+        "Objects Present": [
+            "Skiing, which features ski poles being used by the skier.",
+            "Skiing, which includes slalom gates that the skier is maneuvering around.",
+            "Skiing, which has a snow-covered landscape with pine trees on the sides.",
+            "Skiing, which sometimes shows a chairlift or gondola in the background."
+        ]
+    },
+    "Skijet": {
+        "Action Pose": [
+            "Skijet, which shows a person riding a personal watercraft at speed on water.",
+            "Skijet, which includes a person performing tricks or jumps on a personal watercraft."
+        ],
+        "Number of People": [
+            "Skijet, which includes one person controlling the jet ski.",
+            "Skijet, which includes multiple people riding the jet ski, usually with one driver and a passenger."
+        ],
+        "Background Setting": [
+            "Skijet, which often takes place in an open water body such as a lake or sea.",
+            "Skijet, which sometimes shows a competitive racing setting marked by buoys or flags."
+        ],
+        "Objects Present": [
+            "Skijet, which features the jet ski as the main object in the frame.",
+            "Skijet, which might include safety gear such as life vests worn by the riders."
+        ]
+    },
+    "Sky Diving": {
+        "Action Pose": [
+            "Sky Diving, which shows an individual in a freefall position with arms and legs spread out.",
+            "Sky Diving, which includes a person performing aerial maneuvers or stunts.",
+            "Sky Diving, which captures the deployment of a parachute."
+        ],
+        "Number of People": [
+            "Sky Diving, which includes a single skydiver in the frame.",
+            "Sky Diving, which features multiple skydivers jumping in formation."
+        ],
+        "Background Setting": [
+            "Sky Diving, which has a clear sky in the background.",
+            "Sky Diving, which shows a view of the earth below, possibly with clouds or landscapes."
+        ],
+        "Objects Present": [
+            "Sky Diving, which features a parachute, either open or closed.",
+            "Sky Diving, which may show an airplane or helicopter from which divers jump."
+        ]
+    },
+    "Soccer Juggling": {
+        "Action Pose": [
+            "Soccer Juggling, which includes a person doing kick-ups with a soccer ball.",
+            "Soccer Juggling, which might show a person using their head or shoulders to keep the ball aloft.",
+            "Soccer Juggling, which features a person alternating between left and right foot to maintain ball control.",
+            "Soccer Juggling, which captures the motion of a ball being juggled with knee strikes."
+        ],
+        "Number of People": [
+            "Soccer Juggling, which usually has one person in the frame performing the juggling.",
+            "Soccer Juggling, which occasionally includes more than one person, possibly taking turns."
+        ],
+        "Background Setting": [
+            "Soccer Juggling, which is often set in an outdoor grass field.",
+            "Soccer Juggling, which can also occur indoors in a gymnasium or sports hall."
+        ],
+        "Objects Present": [
+            "Soccer Juggling, which features a soccer ball as the primary object.",
+            "Soccer Juggling, which may also have goalposts or cones in the background."
+        ]
+    },
+    "Soccer Penalty": {
+        "Action Pose": [
+            "Soccer Penalty, which shows a player kicking the ball towards the goal.",
+            "Soccer Penalty, which includes the goalkeeper attempting to block the shot.",
+            "Soccer Penalty, which features a player running up to the penalty spot.",
+            "Soccer Penalty, which captures the moment of impact between the ball and the player's foot."
+        ],
+        "Number of People": [
+            "Soccer Penalty, which includes one player taking the shot.",
+            "Soccer Penalty, which features only the kicker and the goalkeeper.",
+            "Soccer Penalty, which may show a referee overseeing the penalty kick.",
+            "Soccer Penalty, which could include a small group of players observing from the edge of the penalty area."
+        ],
+        "Background Setting": [
+            "Soccer Penalty, which is typically outdoors on a soccer field.",
+            "Soccer Penalty, which has a goalpost and the surrounding net in the background.",
+            "Soccer Penalty, which might be set in a stadium filled with spectators.",
+            "Soccer Penalty, which occurs in various weather conditions, from sunny to rainy."
+        ],
+        "Objects Present": [
+            "Soccer Penalty, which features a soccer ball as the central object.",
+            "Soccer Penalty, which includes goalposts as part of the setting.",
+            "Soccer Penalty, which may have boundary lines and markings visible on the grass.",
+            "Soccer Penalty, which might show flags or referee equipment such as a whistle."
+        ]
+    },
+    "Still Rings": {
+        "Action Pose": [
+            "Still Rings, which shows an athlete performing a cross position with arms extended horizontally.",
+            "Still Rings, which displays an athlete executing an iron cross, with legs straight and arms vertically down.",
+            "Still Rings, which captures an athlete in an inverted hang, with body upside down and legs pointing upwards.",
+            "Still Rings, which includes an athlete doing a handstand on the rings with arms straight and body vertical."
+        ],
+        "Number of People": [
+            "Still Rings, which usually includes one athlete in the frame performing the exercise.",
+            "Still Rings, which might show coaches or spotters in the background or the edges of the frame."
+        ],
+        "Background Setting": [
+            "Still Rings, which is typically set in a gymnastics arena with various gymnastics equipment in the vicinity.",
+            "Still Rings, which often has a background of audience seating when in a competitive setting."
+        ],
+        "Objects Present": [
+            "Still Rings, which involves the gymnastic rings suspended from a stable overhead support.",
+            "Still Rings, which may include gymnastic mats or padding on the floor beneath the athlete."
+        ]
+    },
+    "Sumo Wrestling": {
+        "Action Pose": [
+            "Sumo Wrestling, which shows two wrestlers engaged in a grappling match.",
+            "Sumo Wrestling, which depicts wrestlers in the typical shiko stance, lifting one leg high before stomping down.",
+            "Sumo Wrestling, which includes wrestlers attempting to push each other out of the circle.",
+            "Sumo Wrestling, which captures a wrestler performing a ceremonial entrance, known as dohyoiri."
+        ],
+        "Number of People": [
+            "Sumo Wrestling, which includes two wrestlers competing against each other.",
+            "Sumo Wrestling, which may show a referee observing the match."
+        ],
+        "Background Setting": [
+            "Sumo Wrestling, which is typically set in a dohyo, a sumo ring with a clay base and rice-straw bales to mark the boundaries.",
+            "Sumo Wrestling, which often features an audience seated around the dohyo."
+        ],
+        "Objects Present": [
+            "Sumo Wrestling, which features wrestlers wearing mawashi, the traditional sumo belt.",
+            "Sumo Wrestling, which might also show ceremonial fan used by the referee."
+        ]
+    },
+    "Surfing": {
+        "Action Pose": [
+            "Surfing, which shows a person standing on a surfboard riding a wave.",
+            "Surfing, which includes a person paddling on a surfboard to catch a wave.",
+            "Surfing, which captures a person performing tricks or maneuvers on a wave.",
+            "Surfing, which depicts a person wiping out or falling off the surfboard."
+        ],
+        "Number of People": [
+            "Surfing, which includes one person on a surfboard in the frame.",
+            "Surfing, which features multiple people surfing in the same wave or area."
+        ],
+        "Background Setting": [
+            "Surfing, which is set in an outdoor oceanic environment.",
+            "Surfing, which includes the beachfront and horizon in the background."
+        ],
+        "Objects Present": [
+            "Surfing, which shows a surfboard as the primary object.",
+            "Surfing, which might have safety gear like a leash or life vest."
+        ]
+    },
+    "Swing": {
+        "Action Pose": [
+            "Swing, which shows a person standing and pushing another on the swing.",
+            "Swing, which includes a person sitting and moving back and forth on the swing.",
+            "Swing, which captures a person in mid-air while holding onto swing ropes.",
+            "Swing, which displays a person leaning back with legs extended forward on the swing."
+        ],
+        "Number of People": [
+            "Swing, which includes one person swinging alone.",
+            "Swing, which includes two people, where one is swinging and another is pushing or watching."
+        ],
+        "Background Setting": [
+            "Swing, which is set outdoors in a playground.",
+            "Swing, which occurs in a backyard with visible residential structures.",
+            "Swing, which is set in a park with trees and grass in the background.",
+            "Swing, which takes place in an indoor play area with safety mats."
+        ],
+        "Objects Present": [
+            "Swing, which features a swing set with seats and chains.",
+            "Swing, which includes additional playground equipment like slides or monkey bars.",
+            "Swing, which may show a tire or wooden board being used as a swing.",
+            "Swing, which sometimes has surrounding benches or picnic tables."
+        ]
+    },
+    "Table Tennis Shot": {
+        "Action Pose": [
+            "Table Tennis Shot, which shows a player in mid-swing with a racket contacting the ball.",
+            "Table Tennis Shot, which includes a player reaching out to hit a forehand or backhand."
+        ],
+        "Number of People": [
+            "Table Tennis Shot, which includes one person preparing to hit the ball.",
+            "Table Tennis Shot, which includes two people, one hitting the ball and the other awaiting the return."
+        ],
+        "Background Setting": [
+            "Table Tennis Shot, which is typically set indoors with a table tennis table present.",
+            "Table Tennis Shot, which might have a crowd or spectators in the background."
+        ],
+        "Objects Present": [
+            "Table Tennis Shot, which features a table tennis racket and a ball.",
+            "Table Tennis Shot, which includes a table marked with the distinctive white lines for play."
+        ]
+    },
+    "Tai Chi": {
+        "Action Pose": [
+            "Tai Chi, which shows a person performing slow, flowing movements.",
+            "Tai Chi, which includes a person standing with knees slightly bent, arms extended gracefully."
+        ],
+        "Number of People": [
+            "Tai Chi, which includes one person practicing the forms alone.",
+            "Tai Chi, which features a group of people practicing in unison."
+        ],
+        "Background Setting": [
+            "Tai Chi, which is often set outdoors in a tranquil park setting.",
+            "Tai Chi, which can be performed indoors in a spacious, well-lit room."
+        ],
+        "Objects Present": [
+            "Tai Chi, which lacks the presence of any significant objects as it focuses on body movements.",
+            "Tai Chi, which might occasionally have traditional Chinese music instruments visible if the practice is accompanied by music."
+        ]
+    },
+    "Tennis Swing": {
+        "Action Pose": [
+            "Tennis Swing, which shows a player in the midst of a forehand stroke.",
+            "Tennis Swing, which captures a player executing a backhand stroke.",
+            "Tennis Swing, which shows a player serving the ball.",
+            "Tennis Swing, which depicts a player in a ready stance awaiting the ball."
+        ],
+        "Number of People": [
+            "Tennis Swing, which includes one player in the frame performing the stroke.",
+            "Tennis Swing, which includes two players, one hitting the ball and another waiting."
+        ],
+        "Background Setting": [
+            "Tennis Swing, which typically has a tennis court setting with a visible net.",
+            "Tennis Swing, which often features a clay or hard court surface in the background.",
+            "Tennis Swing, which may show a grass court setting in the background.",
+            "Tennis Swing, which might have spectator seating or stands visible in the background."
+        ],
+        "Objects Present": [
+            "Tennis Swing, which features a tennis racket.",
+            "Tennis Swing, which includes one or more tennis balls.",
+            "Tennis Swing, which may show a tennis bag near the court.",
+            "Tennis Swing, which could include additional equipment like water bottles or towels."
+        ]
+    },
+    "Throw Discus": {
+        "Action Pose": [
+            "Throw Discus, which shows an athlete in a spinning or rotating stance preparing to throw the discus.",
+            "Throw Discus, which shows an athlete in a static pose, holding a discus in one hand arm extended backward."
+        ],
+        "Number of People": [
+            "Throw Discus, which includes a single athlete in the frame performing the throw.",
+            "Throw Discus, which includes multiple people, where one is the athlete and others may be officials or spectators."
+        ],
+        "Background Setting": [
+            "Throw Discus, which is usually outdoors on an athletic field.",
+            "Throw Discus, which often has a throwing circle with sector lines marked on the grass."
+        ],
+        "Objects Present": [
+            "Throw Discus, which features a discus, typically a heavy, circular object.",
+            "Throw Discus, which might include athletic equipment like measuring tape or a scoreboard."
+        ]
+    },
+    "Trampoline Jumping": {
+        "Action Pose": [
+            "Trampoline Jumping, which shows a person mid-air with limbs extended.",
+            "Trampoline Jumping, which includes a person tucking knees to the chest during a flip.",
+            "Trampoline Jumping, which captures a person bouncing upward with a straight body.",
+            "Trampoline Jumping, which features a person performing twists or somersaults in the air.",
+            "Trampoline Jumping, which exhibits a person landing on the trampoline in a controlled pose."
+        ],
+        "Number of People": [
+            "Trampoline Jumping, which includes one person on the trampoline.",
+            "Trampoline Jumping, which has multiple people taking turns to jump on the trampoline."
+        ],
+        "Background Setting": [
+            "Trampoline Jumping, which is usually outdoors with a garden or yard in the background.",
+            "Trampoline Jumping, which may be indoors with gymnasium equipment visible."
+        ],
+        "Objects Present": [
+            "Trampoline Jumping, which features the trampoline as the central object.",
+            "Trampoline Jumping, which might include safety nets or padding around the trampoline.",
+            "Trampoline Jumping, which could have nearby outdoor furniture or sports equipment in the vicinity."
+        ]
+    },
+    "Typing": {
+        "Action Pose": [
+            "Typing, which shows a person's hands placed over a keyboard.",
+            "Typing, where one can see fingers pressing down on keys.",
+            "Typing, which includes a person leaning forward towards a computer screen.",
+            "Typing, which captures the rhythmic movement of hands as each key is pressed."
+        ],
+        "Number of People": [
+            "Typing, which includes a single person focused on the task.",
+            "Typing, which features two people, one could be instructing the other."
+        ],
+        "Background Setting": [
+            "Typing, which is typically set in an office environment with desks and chairs.",
+            "Typing, where the background is a home setting, possibly a study room with personal items."
+        ],
+        "Objects Present": [
+            "Typing, which features a computer or a laptop.",
+            "Typing, where there is often a desk with various office supplies like pens, paper, and stationary.",
+            "Typing, which might include peripherals like a mouse or external hard drive.",
+            "Typing, that could show a cup of coffee or snacks beside the workspace."
+        ]
+    },
+    "Uneven Bars": {
+        "Action Pose": [
+            "Uneven Bars, which shows a gymnast performing a release move between the bars.",
+            "Uneven Bars, which captures a gymnast swinging around the bars.",
+            "Uneven Bars, which includes a gymnast executing a handstand on the bars.",
+            "Uneven Bars, which depicts a gymnast in a mid-flight transition between the bars.",
+            "Uneven Bars, which shows a gymnast doing a dismount from the bars."
+        ],
+        "Number of People": [
+            "Uneven Bars, which includes one gymnast in the frame performing the routine.",
+            "Uneven Bars, which may show a coach or spotter beside the apparatus during a routine."
+        ],
+        "Background Setting": [
+            "Uneven Bars, which is usually indoors in a gymnastics arena.",
+            "Uneven Bars, which often has gymnastics equipment in the background such as mats, beams, or vaults."
+        ],
+        "Objects Present": [
+            "Uneven Bars, which features the uneven bars apparatus consisting of two horizontal bars at different heights.",
+            "Uneven Bars, which might include gymnastics chalk for grip enhancement on the bars."
+        ]
+    },
+    "Volleyball Spiking": {
+        "Action Pose": [
+            "Volleyball Spiking, which shows a player jumping with an arm raised to hit the ball.",
+            "Volleyball Spiking, which includes a player approaching the ball for a spike.",
+            "Volleyball Spiking, which captures a player in mid-air about to strike the volleyball.",
+            "Volleyball Spiking, which can show a player landing after making a spike."
+        ],
+        "Number of People": [
+            "Volleyball Spiking, which typically includes at least two people, a spiker and a blocker.",
+            "Volleyball Spiking, which can show multiple players on the court preparing for the incoming ball."
+        ],
+        "Background Setting": [
+            "Volleyball Spiking, which is set on a sandy beach environment.",
+            "Volleyball Spiking, which is set in an indoor court with visible court lines and a net."
+        ],
+        "Objects Present": [
+            "Volleyball Spiking, which features a volleyball either being hit or in flight.",
+            "Volleyball Spiking, which shows the net as a central part of the game.",
+            "Volleyball Spiking, which could include additional sports equipment like knee pads or wristbands."
+        ]
+    },
+    "Walking With Dog": {
+        "Action Pose": [
+            "Walking With Dog, which shows a person walking and holding a dog leash.",
+            "Walking With Dog, which features a person and dog side by side.",
+            "Walking With Dog, which includes the dog leading and the person following.",
+            "Walking With Dog, which may depict the person gesturing or talking to the dog."
+        ],
+        "Number of People": [
+            "Walking With Dog, which includes one person in the frame.",
+            "Walking With Dog, which may at times include multiple people, possibly walking their own dogs or accompanying the person."
+        ],
+        "Background Setting": [
+            "Walking With Dog, which is typically outdoors in an open space.",
+            "Walking With Dog, which can be on various terrains including parks, sidewalks, or trails.",
+            "Walking With Dog, which may occur in an urban setting with buildings in the background.",
+            "Walking With Dog, which might sometimes be set in a suburban area with houses and lawns."
+        ],
+        "Objects Present": [
+            "Walking With Dog, which includes a dog leash.",
+            "Walking With Dog, which may feature dog toys or balls.",
+            "Walking With Dog, which could have surrounding objects like benches, lampposts, or trees.",
+            "Walking With Dog, which might include other walking gear like water bottles, waste bags, or wearables for the dog or person."
+        ]
+    },
+    "Wall Pushups": {
+        "Action Pose": [
+            "Wall Pushups, which shows a person in a leaning position with hands placed against the wall.",
+            "Wall Pushups, which includes a person extending their arms to push their body away from the wall."
+        ],
+        "Number of People": [
+            "Wall Pushups, which includes one person performing the exercise.",
+            "Wall Pushups, which might occasionally include a trainer or another person for support."
+        ],
+        "Background Setting": [
+            "Wall Pushups, which is typically indoors, possibly in a gym or home environment.",
+            "Wall Pushups, which may occasionally occur outdoors, against a sturdy wall."
+        ],
+        "Objects Present": [
+            "Wall Pushups, which may feature exercise equipment like a yoga mat on the floor.",
+            "Wall Pushups, which can include a water bottle or towel nearby."
+        ]
+    },
+    "Writing On Board": {
+        "Action Pose": [
+            "Writing On Board, which shows a person standing with a marker or chalk in hand at the board.",
+            "Writing On Board, which includes a person gesturing towards the content on the board."
+        ],
+        "Number of People": [
+            "Writing On Board, which includes one person in the frame facing the board.",
+            "Writing On Board, which includes multiple people, with one writing and others observing."
+        ],
+        "Background Setting": [
+            "Writing On Board, which is usually set in a classroom with desks.",
+            "Writing On Board, which may be set in an office environment with a whiteboard."
+        ],
+        "Objects Present": [
+            "Writing On Board, which features a board, either a chalkboard or a whiteboard.",
+            "Writing On Board, which might include writing utensils such as markers or chalk."
+        ]
+    },
+    "Yo Yo": {
+        "Action Pose": [
+            "Yo Yo, which shows a person performing tricks with a yo-yo.",
+            "Yo Yo, which includes the person doing a trick where the yo-yo is sleeping (spinning at the end of the string).",
+            "Yo Yo, which features the person executing a looping trick with the yo-yo.",
+            "Yo Yo, which captures the action of the person walking the dog with the yo-yo along the ground."
+        ],
+        "Number of People": [
+            "Yo Yo, which includes one person playing with the yo-yo.",
+            "Yo Yo, which includes several people in a group, each performing tricks with their own yo-yos."
+        ],
+        "Background Setting": [
+            "Yo Yo, which is often shown in an indoor environment, possibly a room or hall.",
+            "Yo Yo, which may be performed outdoors in places like parks or on the street."
+        ],
+        "Objects Present": [
+            "Yo Yo, which primarily features the yo-yo toy itself, often colorful or with a distinctive design.",
+            "Yo Yo, which might occasionally show other related objects like additional strings or yo-yo accessories."
+        ]
+    }
+}

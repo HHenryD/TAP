@@ -1,0 +1,849 @@
+{
+    "banded": {
+        "Texture": [
+            "Banded, which has a distinct linear texture with clearly defined bands running across the surface.",
+            "Banded, which has a smooth texture with evenly spaced bands creating a striped appearance."
+        ],
+        "Pattern": [
+            "Banded, which features a regular pattern of parallel bands.",
+            "Banded, with an irregular pattern of wavy bands intersecting at different angles."
+        ],
+        "Repetition": [
+            "Banded, where the bands repeat consistently in a parallel arrangement across the texture.",
+            "Banded, where the bands show a varied repetition creating a dynamic visual effect."
+        ],
+        "Contrast": [
+            "Banded, with a high contrast between the bands and the background, creating a striking visual impact.",
+            "Banded, with a subtle contrast between the bands, blending them with the background."
+        ]
+    },
+    "braided": {
+        "Texture": [
+            "Braided, which features a smooth and intertwined texture that creates a structured appearance.",
+            "Braided, which has a tactile texture with visible interlocking strands that form a cohesive pattern."
+        ],
+        "Pattern": [
+            "Braided, which showcases a linear pattern with overlapping strands creating a woven effect.",
+            "Braided, which exhibits a repeated pattern of parallel interwoven strands."
+        ],
+        "Repetition": [
+            "Braided, which displays a consistent repetition of interlaced strands forming a uniform pattern.",
+            "Braided, where the braiding technique repeats along the entire surface creating a regular motif."
+        ],
+        "Contrast": [
+            "Braided, which presents a contrast between light and shadow created by the overlapping strands.",
+            "Braided, where the contrast between the depth of braids and flat surfaces enhances the visual interest."
+        ]
+    },
+    "bubbly": {
+        "Texture": [
+            "Bubbly, which has a bubbly texture resembling foam with rounded, irregular bumps.",
+            "Bubbly, which has a bubbly texture that creates a tactile sensation of lightness and airiness."
+        ],
+        "Pattern": [
+            "Bubbly, which features a random scattered pattern of bubbles across the surface.",
+            "Bubbly, which showcases a consistent, repetitive bubble pattern in various sizes."
+        ],
+        "Repetition": [
+            "Bubbly, which exhibits a high repetition of bubble shapes closely packed together.",
+            "Bubbly, which shows a low repetition of bubbles scattered irregularly across the surface."
+        ],
+        "Contrast": [
+            "Bubbly, which has high contrast between the bubbles and the background, creating a distinct visual separation.",
+            "Bubbly, which displays low contrast, with bubbles blending subtly into the overall texture."
+        ]
+    },
+    "bumpy": {
+        "Texture": [
+            "Bumpy, which has a tactile texture with raised, irregular surfaces.",
+            "Bumpy, which has a rough texture characterized by uneven protrusions and indentations."
+        ],
+        "Pattern": [
+            "Bumpy, which exhibits a random pattern of bumps scattered across the surface.",
+            "Bumpy, which displays a chaotic pattern of bumps and depressions creating a rugged appearance."
+        ],
+        "Repetition": [
+            "Bumpy, which does not exhibit a regular repetition in the distribution of bumps.",
+            "Bumpy, which shows no consistent repeating pattern in the arrangement of bumps."
+        ],
+        "Contrast": [
+            "Bumpy, which has a high contrast between the raised bumps and the surrounding surface.",
+            "Bumpy, which shows a stark contrast between the textured bumps and smoother areas."
+        ]
+    },
+    "chequered": {
+        "Texture": [
+            "Chequered, which has a smooth and uniform texture with square patterns.",
+            "Chequered, which has a tactile texture featuring raised squares."
+        ],
+        "Pattern": [
+            "Chequered, which displays a regular grid pattern of alternating colors.",
+            "Chequered, which showcases a geometric pattern of intersecting squares."
+        ],
+        "Repetition": [
+            "Chequered, which exhibits a repeated arrangement of squares across the surface.",
+            "Chequered, which demonstrates a consistent replication of square shapes in a grid layout."
+        ],
+        "Contrast": [
+            "Chequered, which presents a high color contrast between the squares, creating a bold visual impact.",
+            "Chequered, which shows a distinct contrast between the square patterns, enhancing the overall design."
+        ]
+    },
+    "cobwebbed": {
+        "Texture": [
+            "Cobwebbed, which has a fine, intricate web-like texture resembling spider webs.",
+            "Cobwebbed, which features delicate strands crossing over each other in a random yet organized manner."
+        ],
+        "Pattern": [
+            "Cobwebbed, which showcases a network-like pattern with interconnected lines and angles.",
+            "Cobwebbed, which presents a mesh pattern consisting of thin, intertwining threads."
+        ],
+        "Repetition": [
+            "Cobwebbed, which shows a repeated arrangement of thin threads forming a complex and interconnected network.",
+            "Cobwebbed, which displays multiple instances of fine strands overlaying each other consistently."
+        ],
+        "Contrast": [
+            "Cobwebbed, which exhibits a stark contrast between the thin, light strands of the cobweb and the darker background.",
+            "Cobwebbed, which creates a striking contrast between the intricate web-like design and the surrounding space."
+        ]
+    },
+    "cracked": {
+        "Texture": [
+            "Cracked, which has a rough and irregular surface texture with visible splits and fissures.",
+            "Cracked, which exhibits a coarse and fragmented texture that shows signs of damage."
+        ],
+        "Pattern": [
+            "Cracked, which displays a chaotic and non-repeating pattern of cracks and fractures.",
+            "Cracked, which features intersecting lines and broken shapes in a disordered arrangement."
+        ],
+        "Repetition": [
+            "Cracked, which lacks uniform repetition in its cracks and irregularities, creating a unique and random appearance."
+        ],
+        "Contrast": [
+            "Cracked, which shows a stark contrast between the cracked areas and the intact surface, emphasizing the damage and irregularity.",
+            "Cracked, where the contrast between light and dark areas highlights the depth and severity of the cracks."
+        ]
+    },
+    "crosshatched": {
+        "Texture": [
+            "Crosshatched, which has a series of diagonal intersecting lines creating a mesh-like appearance.",
+            "Crosshatched, which features overlapping sets of fine lines in a grid pattern."
+        ],
+        "Pattern": [
+            "Crosshatched, which exhibits a repetitive pattern of closely spaced lines intersecting at various angles.",
+            "Crosshatched, which displays a structured pattern of lines crisscrossing each other with regularity."
+        ],
+        "Repetition": [
+            "Crosshatched, which shows consistent repetition of the line intersection pattern across the surface.",
+            "Crosshatched, which features repeated arrangements of diagonal lines forming a lattice-like design."
+        ],
+        "Contrast": [
+            "Crosshatched, which presents a sharp contrast between the intersecting lines, creating a visually dynamic texture.",
+            "Crosshatched, which showcases a clear distinction between the dark lines and the lighter spaces between them."
+        ]
+    },
+    "crystalline": {
+        "Texture": [
+            "Crystalline, which has a sharp and jagged surface texture reminiscent of crystals under light.",
+            "Crystalline, which has a smooth and reflective texture resembling ice formations."
+        ],
+        "Pattern": [
+            "Crystalline, which displays a geometric pattern of facets and angles that refract light in unique ways.",
+            "Crystalline, which has a consistent pattern of crystal-like structures across the surface."
+        ],
+        "Repetition": [
+            "Crystalline, which features repeated hexagonal shapes creating a regular and uniform layout.",
+            "Crystalline, where the crystal patterns repeat in an orderly and organized manner."
+        ],
+        "Contrast": [
+            "Crystalline, which exhibits high contrast between light-reflecting facets and shadowed areas.",
+            "Crystalline, with a stark contrast between sharp edges and smoother surfaces."
+        ]
+    },
+    "dotted": {
+        "Texture": [
+            "Dotted, which features a surface texture composed of small, evenly spaced circular dots.",
+            "Dotted, which displays a consistent arrangement of round dots across its surface, creating a textured effect."
+        ],
+        "Pattern": [
+            "Dotted, which forms a regular pattern of dots without overlapping or gaps.",
+            "Dotted, which showcases a uniform arrangement of dots that repeats across the texture."
+        ],
+        "Repetition": [
+            "Dotted, which repeats the dot pattern consistently to cover the entire surface area.",
+            "Dotted, which showcases a continuous repetition of the same dot design across the texture."
+        ],
+        "Contrast": [
+            "Dotted, which presents a stark contrast between the dots and the background, creating a visually striking appearance.",
+            "Dotted, which features a clear distinction between the dots and the surrounding area, enhancing the texture's defined look."
+        ]
+    },
+    "fibrous": {
+        "Texture": [
+            "Fibrous, which appears to have a rough and stringy texture, resembling natural fibers.",
+            "Fibrous, which exhibits a coarse and tangled appearance similar to shredded material."
+        ],
+        "Pattern": [
+            "Fibrous, which lacks a distinct pattern, appearing more random and chaotic in arrangement.",
+            "Fibrous, which may show irregular patterns formed by the intertwining fibers."
+        ],
+        "Repetition": [
+            "Fibrous, where repetition is minimal due to the intricate and unique arrangement of fibers.",
+            "Fibrous, which does not exhibit a repeated pattern, enhancing its organic and untamed appearance."
+        ],
+        "Contrast": [
+            "Fibrous, with subtle contrast variations due to the interplay of light and shadow on the uneven surface.",
+            "Fibrous, showing minimal color contrast as the focus is on the textural qualities of the fibers."
+        ]
+    },
+    "flecked": {
+        "Texture": [
+            "Flecked, which has a textured surface with scattered specks or dots across the material.",
+            "Flecked, which has a rough texture covered with tiny, dispersed flecks of varying sizes."
+        ],
+        "Pattern": [
+            "Flecked, which has a random or irregular arrangement of speckles creating a busy visual pattern on the surface.",
+            "Flecked, which has a uniform distribution of small marks or spots giving a consistent pattern across the material."
+        ],
+        "Repetition": [
+            "Flecked, which exhibits minimal repetition in the arrangement of flecks, resulting in a seemingly random layout.",
+            "Flecked, which showcases occasional repetition of speckle clusters, adding subtle order to the overall appearance."
+        ],
+        "Contrast": [
+            "Flecked, which displays contrasting colors or tones between the flecks and the background, creating a visually dynamic effect.",
+            "Flecked, which features subtle contrast between the speckles and base material, offering a subdued yet noticeable variance."
+        ]
+    },
+    "freckled": {
+        "Texture": [
+            "Freckled, which has a granular texture resembling scattered spots across the surface.",
+            "Freckled, which has a textured appearance with small, clustered pigment spots creating a speckled effect."
+        ],
+        "Pattern": [
+            "Freckled, which exhibits a random pattern of small, irregular patches or marks distributed evenly.",
+            "Freckled, which displays a pattern of tiny dots or spots that are irregularly scattered."
+        ],
+        "Repetition": [
+            "Freckled, which shows non-repetitive marks and spots distributed with irregular distances between each other.",
+            "Freckled, which features irregularly spaced and sized spots without a consistent pattern of repetition."
+        ],
+        "Contrast": [
+            "Freckled, which shows a moderate contrast between the base color of the surface and the freckles, creating a subtle visual impact.",
+            "Freckled, which exhibits a high contrast between the darker freckles and the lighter surrounding surface."
+        ]
+    },
+    "frilly": {
+        "Texture": [
+            "Frilly, which has a delicate and intricate texture resembling lace or ruffles.",
+            "Frilly, which has a soft and feathery texture with gentle waves and curves."
+        ],
+        "Pattern": [
+            "Frilly, which exhibits intricate, ornate patterns with swirls and loops.",
+            "Frilly, which displays a repetitive and detailed floral pattern."
+        ],
+        "Repetition": [
+            "Frilly, which features regular repetition of frilly elements in a symmetric arrangement.",
+            "Frilly, which showcases a recurring motif of frills forming continuous lines."
+        ],
+        "Contrast": [
+            "Frilly, which contrasts light and shadow to accentuate the delicate frilled details.",
+            "Frilly, which creates visual interest through light contrast against the frilly texture."
+        ]
+    },
+    "gauzy": {
+        "Texture": [
+            "Gauzy, which has a sheer and lightweight texture resembling a fine mesh fabric.",
+            "Gauzy, which has a delicate and transparent texture that allows light to pass through."
+        ],
+        "Pattern": [
+            "Gauzy, which has a subtle, ethereal pattern that creates a soft visual effect.",
+            "Gauzy, which has a loose, irregular pattern adding a delicate touch to the texture."
+        ],
+        "Repetition": [
+            "Gauzy, which features a random and sparse repetition of motifs across the surface.",
+            "Gauzy, which exhibits minimal repetition creating an airy and open feel."
+        ],
+        "Contrast": [
+            "Gauzy, which shows a low-contrast appearance with gentle transitions between light and dark areas.",
+            "Gauzy, which has subtle contrast variations that give a muted and ethereal quality."
+        ]
+    },
+    "grooved": {
+        "Texture": [
+            "Grooved, which has a textured surface characterized by parallel linear indentations.",
+            "Grooved, which has a surface featuring linear depressions in a consistent pattern."
+        ],
+        "Pattern": [
+            "Grooved, which displays a repetitive pattern of linear grooves running parallel to each other.",
+            "Grooved, which shows a consistent arrangement of grooves creating a uniform pattern."
+        ],
+        "Repetition": [
+            "Grooved, which exhibits a repeated arrangement of indentations in a continuous manner.",
+            "Grooved, which showcases a recurring pattern of linear depressions along its surface."
+        ],
+        "Contrast": [
+            "Grooved, which presents a distinct contrast between the raised areas and the grooved sections on the surface.",
+            "Grooved, which shows clear variation in depth between the grooves and the surrounding material."
+        ]
+    },
+    "honeycombed": {
+        "Texture": [
+            "Honeycombed, which has a consistent, uniform texture resembling hexagonal shapes.",
+            "Honeycombed, which has a structured texture composed of interconnected hexagons."
+        ],
+        "Pattern": [
+            "Honeycombed, which features a repeating pattern of hexagons with six sides.",
+            "Honeycombed, which displays a geometric pattern formed by tightly packed hexagonal elements."
+        ],
+        "Repetition": [
+            "Honeycombed, where the hexagonal pattern repeats regularly across the surface.",
+            "Honeycombed, with the hexagon motif recurring consistently in a grid-like fashion."
+        ],
+        "Contrast": [
+            "Honeycombed, with distinct contrast between the hexagonal shapes and surrounding areas.",
+            "Honeycombed, where the hexagons stand out prominently against the background."
+        ]
+    },
+    "interlaced": {
+        "Texture": [
+            "Interlaced, which has a woven texture with distinct overlapping patterns crisscrossing each other.",
+            "Interlaced, which has a texture resembling a network of intertwined strands."
+        ],
+        "Pattern": [
+            "Interlaced, which showcases a repeated pattern of weaving lines intersecting at various angles.",
+            "Interlaced, which displays a geometric pattern created by the intertwining strands."
+        ],
+        "Repetition": [
+            "Interlaced, which exhibits a consistent repetition of the same woven pattern throughout the image.",
+            "Interlaced, which shows a continuous repetition of interwoven lines in a structured manner."
+        ],
+        "Contrast": [
+            "Interlaced, which presents a sharp contrast between the intersecting strands, creating a visually striking effect.",
+            "Interlaced, which displays contrasting light and dark tones at the points of intersection, emphasizing the woven pattern."
+        ]
+    },
+    "knitted": {
+        "Texture": [
+            "Knitted, which has a tactile texture with visible loops and twists characteristic of hand-knitted fabric.",
+            "Knitted, which exhibits a soft, pliable texture often associated with woolen materials."
+        ],
+        "Pattern": [
+            "Knitted, which features a traditional knit pattern with interlocking loops creating a regular design.",
+            "Knitted, which showcases a cable knit pattern known for its raised, twisted motifs."
+        ],
+        "Repetition": [
+            "Knitted, which displays a repeated pattern of stitches across the fabric, creating a sense of uniformity and coherence."
+        ],
+        "Contrast": [
+            "Knitted, which shows a contrast between the raised and flat areas of the fabric, enhancing the visual and tactile appeal.",
+            "Knitted, which contrasts light and dark sections within the knit pattern for a striking visual effect."
+        ]
+    },
+    "lacelike": {
+        "Texture": [
+            "Lacelike, which has a delicate and intricate texture resembling lace fabric with fine details.",
+            "Lacelike, which has a pattern that intricately weaves together to create a lace-like appearance characterized by delicate interlacing."
+        ],
+        "Pattern": [
+            "Lacelike, which features a repeated pattern of interconnected loops and swirls reminiscent of lace designs.",
+            "Lacelike, which displays a complex pattern with ornate motifs intertwined in a lace-like manner."
+        ],
+        "Repetition": [
+            "Lacelike, which exhibits a repetitive arrangement of intricate lace-like elements across the surface.",
+            "Lacelike, which showcases a consistent repetition of delicate patterns resembling lacework."
+        ],
+        "Contrast": [
+            "Lacelike, which contrasts dark and light areas to enhance the intricate lace-like details.",
+            "Lacelike, which presents a pronounced contrast between the fine lace patterns and the background, creating a striking visual impact."
+        ]
+    },
+    "lined": {
+        "Texture": [
+            "Lined, which has a linear texture with closely spaced parallel lines.",
+            "Lined, which features evenly distributed straight lines that run across the surface."
+        ],
+        "Pattern": [
+            "Lined, which displays a consistent pattern of lines that create a sense of order and repetition."
+        ],
+        "Repetition": [
+            "Lined, which showcases repeating lines that create a regular and rhythmic arrangement on the surface."
+        ],
+        "Contrast": [
+            "Lined, which exhibits a contrast between the lines and the background, creating a visually striking effect."
+        ]
+    },
+    "marbled": {
+        "Texture": [
+            "Marbled, which has a smooth and flowing texture with soft transitions between colors.",
+            "Marbled, which has a gentle and organic texture resembling natural stone patterns.",
+            "Marbled, which has a glossy and polished texture that reflects light softly.",
+            "Marbled, which has a tactile texture with intricate swirls and veins.",
+            "Marbled, which has a luxurious and sophisticated texture with a lustrous finish."
+        ],
+        "Pattern": [
+            "Marbled, which features intricate and irregular patterns with a blend of colors.",
+            "Marbled, which displays random and unique patterns that mimic natural geological formations.",
+            "Marbled, which showcases soft and harmonious patterns resembling waves or clouds.",
+            "Marbled, which exhibits delicate and graceful patterns that create a sense of movement.",
+            "Marbled, which presents elegant and rich patterns with a sense of depth and dimension."
+        ],
+        "Repetition": [
+            "Marbled, which shows minimal repetition in patterns, providing a sense of individuality in each section.",
+            "Marbled, which features varied repetition in motifs, creating a dynamic visual appeal.",
+            "Marbled, which displays controlled repetition that enhances the overall design coherence.",
+            "Marbled, which exhibits subtle repetition for a balanced and harmonious composition."
+        ],
+        "Contrast": [
+            "Marbled, which contrasts light and dark tones to create a visually striking effect.",
+            "Marbled, which balances contrasting shades to achieve a harmonious color palette.",
+            "Marbled, which juxtaposes vibrant colors with muted tones for a dynamic contrast.",
+            "Marbled, which blends soft contrasts to evoke a sense of tranquility and elegance.",
+            "Marbled, which features a high level of contrast that highlights the intricate details of the pattern."
+        ]
+    },
+    "meshed": {
+        "Texture": [
+            "Meshed, which has a fine and regular net-like texture with interwoven grid patterns.",
+            "Meshed, which has a smooth and uniform texture resembling a grid or lattice design."
+        ],
+        "Pattern": [
+            "Meshed, which exhibits a repeated pattern of intersecting lines or grids creating a mesh-like appearance.",
+            "Meshed, which showcases a geometric design pattern with the appearance of a meshed structure."
+        ],
+        "Repetition": [
+            "Meshed, which displays consistent repetition of the mesh pattern throughout the surface.",
+            "Meshed, which features a recurring arrangement of intersecting lines or shapes forming a mesh-like repetition."
+        ],
+        "Contrast": [
+            "Meshed, which shows a high contrast between the grid lines and the background, creating a clear distinction.",
+            "Meshed, which presents a stark contrast between the intersecting elements, enhancing the meshed pattern."
+        ]
+    },
+    "paisley": {
+        "Texture": [
+            "Paisley, which has a soft, intricate texture with a raised, tactile quality.",
+            "Paisley, which has a smooth, lustrous texture that enhances the pattern."
+        ],
+        "Pattern": [
+            "Paisley, which features a teardrop-shaped motif with curved ends and a curved tip in the center.",
+            "Paisley, which showcases a boteh or buta pattern, resembling a twisted droplet shape."
+        ],
+        "Repetition": [
+            "Paisley, which displays a repetitive arrangement of the distinctive motif across the surface.",
+            "Paisley, which repeats the droplet-like pattern in an organized manner for a cohesive look."
+        ],
+        "Contrast": [
+            "Paisley, which contrasts light and dark colors to enhance the design and create visual interest.",
+            "Paisley, which uses varying color intensities to create a striking contrast within the pattern."
+        ]
+    },
+    "pitted": {
+        "Texture": [
+            "Pitted, which has a rough and uneven texture with small, irregular depressions on the surface.",
+            "Pitted, which has a bumpy texture reminiscent of pockmarks or small craters."
+        ],
+        "Pattern": [
+            "Pitted, which features a random pattern of pits scattered across the surface.",
+            "Pitted, which showcases a clustered pattern of pits creating a sense of density and depth."
+        ],
+        "Repetition": [
+            "Pitted, which displays a non-repetitive arrangement of pits, each uniquely positioned on the surface.",
+            "Pitted, where pits do not follow a regular repetition in placement, resulting in a varied distribution."
+        ],
+        "Contrast": [
+            "Pitted, which exhibits a stark contrast between the elevated areas and the pitted depressions, creating a noticeable difference in depth.",
+            "Pitted, where the shadows cast by the pits enhance the contrast between light and dark areas on the surface."
+        ]
+    },
+    "pleated": {
+        "Texture": [
+            "Pleated, which has a textured fabric appearance with distinct vertical folds running parallel to each other.",
+            "Pleated, which showcases a fabric with evenly spaced and flattened vertical ridges creating a structured surface."
+        ],
+        "Pattern": [
+            "Pleated, which displays a consistent and uniform pattern of vertical folds across the material."
+        ],
+        "Repetition": [
+            "Pleated, where the pleats repeat regularly and identically throughout the fabric, creating a rhythmic pattern.",
+            "Pleated, which features a repeated sequence of folds that maintain uniformity across the surface."
+        ],
+        "Contrast": [
+            "Pleated, which exhibits a notable contrast between the raised pleats and the flat areas in between, accentuating the texture."
+        ]
+    },
+    "polka-dotted": {
+        "Texture": [
+            "Polka-dotted, which features a smooth and even texture with distinct raised circular dots.",
+            "Polka-dotted, which has a regular and uniform textural appearance across the surface."
+        ],
+        "Pattern": [
+            "Polka-dotted, which exhibits a pattern of evenly spaced and sized dots throughout.",
+            "Polka-dotted, which showcases a repetitive pattern of round dots without any specific orientation."
+        ],
+        "Repetition": [
+            "Polka-dotted, which displays a repeated motif of dots uniformly distributed across the entire area.",
+            "Polka-dotted, which demonstrates a consistent repetition of circular dots with equal spacing between each."
+        ],
+        "Contrast": [
+            "Polka-dotted, which shows a clear contrast between the dots and the background color, creating a striking visual impact.",
+            "Polka-dotted, which features high color contrast between the dots and the base material, enhancing the pattern's visibility."
+        ]
+    },
+    "porous": {
+        "Texture": [
+            "Porous, which has a rough texture with irregular and uneven surfaces.",
+            "Porous, which has a tactile texture containing voids and pores creating a porous appearance."
+        ],
+        "Pattern": [
+            "Porous, which lacks a distinct repetitive pattern, appearing random and scattered in its texture."
+        ],
+        "Repetition": [
+            "Porous, which exhibits a lack of repetition in its texture, with no recurring elements or motifs."
+        ],
+        "Contrast": [
+            "Porous, which shows a varying degree of contrast between light and dark areas, creating a visually dynamic texture."
+        ]
+    },
+    "scaly": {
+        "Texture": [
+            "Scaly, which has a rugged texture resembling reptile scales.",
+            "Scaly, which has a bumpy and rough texture similar to that of fish scales."
+        ],
+        "Pattern": [
+            "Scaly, which displays a consistent diamond-shaped pattern throughout.",
+            "Scaly, which features irregular, overlapping scales creating a unique pattern."
+        ],
+        "Repetition": [
+            "Scaly, which shows repeated, uniform arrangements of scales across the surface.",
+            "Scaly, which exhibits non-uniform repetition with varying scale sizes and spacings."
+        ],
+        "Contrast": [
+            "Scaly, with high contrast between light and dark areas emphasizing the scale structure.",
+            "Scaly, with subtle contrast between adjacent scales creating a harmonious visual effect."
+        ]
+    },
+    "smeared": {
+        "Texture": [
+            "Smeared, which has a smooth, glossy texture that creates a sleek appearance.",
+            "Smeared, which has a wet texture giving a shiny and reflective surface."
+        ],
+        "Pattern": [
+            "Smeared, which lacks a distinct pattern, appearing as a uniform spread of color.",
+            "Smeared, which exhibits irregular and organic patterns created by the blending of colors."
+        ],
+        "Repetition": [
+            "Smeared, which shows no repetition of shapes or patterns, resulting in a continuous flow of colors.",
+            "Smeared, which features random variations without any repeated elements throughout the texture."
+        ],
+        "Contrast": [
+            "Smeared, which has low contrast between colors, creating a harmonious and blended visual effect.",
+            "Smeared, which displays high contrast between colors, emphasizing the dynamic and vibrant nature of the texture."
+        ]
+    },
+    "spiralled": {
+        "Texture": [
+            "Spiralled, which has a smooth and twisted texture resembling a spiral pattern.",
+            "Spiralled, which has a tactile texture that winds in a continuous, helical shape."
+        ],
+        "Pattern": [
+            "Spiralled, which exhibits a repetitive, swirling pattern that creates a sense of motion.",
+            "Spiralled, which features a tightly wound pattern that coils inward."
+        ],
+        "Repetition": [
+            "Spiralled, which shows consistent, repeating coils that follow a continuous path.",
+            "Spiralled, which displays regularly spaced whorls that repeat throughout the texture."
+        ],
+        "Contrast": [
+            "Spiralled, which contrasts dark and light shades within the coil pattern, creating a striking visual effect.",
+            "Spiralled, which showcases sharp distinctions between the twisted elements, enhancing the overall design."
+        ]
+    },
+    "sprinkled": {
+        "Texture": [
+            "Sprinkled, which has a fine, granular texture resembling tiny particles distributed evenly.",
+            "Sprinkled, which has a smooth texture with small, separate particles scattered uniformly."
+        ],
+        "Pattern": [
+            "Sprinkled, which displays a scattered pattern of small elements across the surface.",
+            "Sprinkled, which exhibits a random arrangement of speckles or dots for a playful appearance."
+        ],
+        "Repetition": [
+            "Sprinkled, which shows a non-repetitive distribution of elements creating a varied visual field.",
+            "Sprinkled, which lacks a consistent repeating pattern, enhancing its organic feel."
+        ],
+        "Contrast": [
+            "Sprinkled, which presents a high contrast between the elements and the background, creating visual interest.",
+            "Sprinkled, which features a stark contrast between the small particles and the surrounding space, emphasizing the textural quality."
+        ]
+    },
+    "stained": {
+        "Texture": [
+            "Stained, which has a rough texture with uneven and blotchy areas.",
+            "Stained, which appears smooth with irregular patches of discoloration."
+        ],
+        "Pattern": [
+            "Stained, which displays a random and chaotic pattern of discoloration with no clear repetition.",
+            "Stained, which exhibits an organic, non-linear pattern of staining across the surface."
+        ],
+        "Repetition": [
+            "Stained, which has no discernible repetition of stain shapes or placement.",
+            "Stained, which shows variations in stain size and distribution without consistent repetition."
+        ],
+        "Contrast": [
+            "Stained, which features a stark contrast between the stained and unstained areas, creating a noticeable difference in color intensity.",
+            "Stained, which shows a subtle contrast between the stains and the background, blending in a more muted manner."
+        ]
+    },
+    "stratified": {
+        "Texture": [
+            "Stratified, which has a layered appearance with distinct horizontal divisions.",
+            "Stratified, which displays texture that resembles stacked, horizontal bands or stripes."
+        ],
+        "Pattern": [
+            "Stratified, which exhibits a regular, repeating pattern of distinct layers.",
+            "Stratified, which shows a consistent alternation of different textures in a structured arrangement."
+        ],
+        "Repetition": [
+            "Stratified, which features a repetitive arrangement of layered elements across the surface.",
+            "Stratified, which showcases a recurring pattern of stacked textures that form a consistent visual motif."
+        ],
+        "Contrast": [
+            "Stratified, which displays sharp differences in color or texture between its distinct layers.",
+            "Stratified, which presents strong contrasts between adjacent layers creating a visually striking appearance."
+        ]
+    },
+    "striped": {
+        "Texture": [
+            "Striped, which features linear striping running parallel to each other.",
+            "Striped, which has a uniform texture with straight lines arranged closely together."
+        ],
+        "Pattern": [
+            "Striped, which displays a consistent pattern of horizontal or vertical stripes.",
+            "Striped, which exhibits a regular and repeating arrangement of stripes."
+        ],
+        "Repetition": [
+            "Striped, which shows a repetitive sequence of stripes across the surface.",
+            "Striped, which demonstrates a continuous repetition of the same stripe pattern."
+        ],
+        "Contrast": [
+            "Striped, which has a clear contrast between the stripes and the background color or texture.",
+            "Striped, which presents a distinct difference in color or tone between the stripes and the surrounding area."
+        ]
+    },
+    "studded": {
+        "Texture": [
+            "Studded, which has a tactile texture with raised, rounded studs evenly distributed across the surface.",
+            "Studded, which has a rough texture with protruding studs providing a tactile feel to the surface."
+        ],
+        "Pattern": [
+            "Studded, which forms a regular grid-like pattern with uniformly spaced studs.",
+            "Studded, which exhibits an orderly arrangement of studs creating a repetitive pattern on the surface."
+        ],
+        "Repetition": [
+            "Studded, where the studs repeat consistently in a geometric grid pattern across the entire area.",
+            "Studded, with an organized repetition of studs that continues uniformly throughout the surface."
+        ],
+        "Contrast": [
+            "Studded, featuring a stark contrast between the studs and the background surface, creating a visually striking effect.",
+            "Studded, with a clear differentiation between the raised studs and the base texture, enhancing the overall visual impact."
+        ]
+    },
+    "swirly": {
+        "Texture": [
+            "Swirly, which has a smooth and flowing texture resembling gentle curves.",
+            "Swirly, which has a soft and undulating texture with no sharp edges."
+        ],
+        "Pattern": [
+            "Swirly, which displays a pattern of swirling shapes interweaving seamlessly.",
+            "Swirly, which features intricate and interconnected spiral patterns."
+        ],
+        "Repetition": [
+            "Swirly, which demonstrates repetitive swirling motifs across the image.",
+            "Swirly, which shows consistent repetition of swirl elements throughout the texture."
+        ],
+        "Contrast": [
+            "Swirly, which shows a subtle contrast between the swirling elements and the background.",
+            "Swirly, which exhibits a moderate contrast between light and dark areas within the swirling patterns."
+        ]
+    },
+    "veined": {
+        "Texture": [
+            "Veined, which has a smooth, linear texture resembling plant veins.",
+            "Veined, which has a raised, ridged texture creating a network of lines across the surface."
+        ],
+        "Pattern": [
+            "Veined, which showcases a branching pattern similar to tree veins.",
+            "Veined, which displays an intricate, interconnected pattern of lines and curves."
+        ],
+        "Repetition": [
+            "Veined, wherein the pattern repeats consistently across the entire surface.",
+            "Veined, with a regular repetition of lines creating a continuous veined appearance."
+        ],
+        "Contrast": [
+            "Veined, which exhibits a distinct contrast between the veins and the background surface.",
+            "Veined, with sharp tonal differences between the veined lines and the surrounding area."
+        ]
+    },
+    "waffled": {
+        "Texture": [
+            "Waffled, which has a textured surface resembling a grid of small square or rectangular indentations.",
+            "Waffled, which has a raised pattern of intersecting ridges giving a tactile feel.",
+            "Waffled, which has a surface with evenly spaced depressions and protrusions in a repeating pattern."
+        ],
+        "Pattern": [
+            "Waffled, which showcases a regular arrangement of raised and flat areas in a checkered pattern.",
+            "Waffled, which displays a repeating pattern of lines intersecting at right angles, resembling a waffle texture."
+        ],
+        "Repetition": [
+            "Waffled, where the waffle-like pattern repeats consistently across the surface, creating a uniform appearance.",
+            "Waffled, which features a repeated design of indentations and ridges forming a waffle-like structure."
+        ],
+        "Contrast": [
+            "Waffled, where the contrast between the raised and recessed areas creates visual depth and shadow play.",
+            "Waffled, where the difference in height between the ridges and depressions enhances the tactile and visual contrast."
+        ]
+    },
+    "woven": {
+        "Texture": [
+            "Woven, which has a textured appearance resembling interlaced threads or fibers.",
+            "Woven, which has a tactile feel resembling a crisscross pattern of threads or yarns."
+        ],
+        "Pattern": [
+            "Woven, which exhibits a regular pattern of intersecting lines or fibers.",
+            "Woven, which showcases a uniform weave pattern creating a structured visual design."
+        ],
+        "Repetition": [
+            "Woven, where the pattern repeats consistently across the surface.",
+            "Woven, with a repeated motif forming a continuous weave pattern."
+        ],
+        "Contrast": [
+            "Woven, which displays distinct color or brightness differences between interlaced elements.",
+            "Woven, showcasing a clear distinction between the intersecting fibers or threads."
+        ]
+    },
+    "wrinkled": {
+        "Texture": [
+            "Wrinkled, which has a coarse and irregular surface texture with distinct creases and folds.",
+            "Wrinkled, which exhibits a crumpled appearance with prominent lines and bends."
+        ],
+        "Pattern": [
+            "Wrinkled, which lacks a specific pattern and appears chaotic in arrangement.",
+            "Wrinkled, which shows a random arrangement of folds and ridges without a repeating motif."
+        ],
+        "Repetition": [
+            "Wrinkled, which does not exhibit any regular repetition in its creases and folds.",
+            "Wrinkled, where the irregularity of the wrinkles prevents any noticeable repetition."
+        ],
+        "Contrast": [
+            "Wrinkled, where light and shadow play accentuates the depth of the creases, creating a high contrast appearance.",
+            "Wrinkled, with varying degrees of light reflection across the surface enhancing the contrast between folds."
+        ]
+    },
+    "zigzagged": {
+        "Texture": [
+            "Zigzagged, which has a coarse texture with pronounced angular features.",
+            "Zigzagged, which has a smooth texture with sharp, jagged edges."
+        ],
+        "Pattern": [
+            "Zigzagged, which features a repeating pattern of sharp, angular peaks and valleys.",
+            "Zigzagged, which displays a consistent back-and-forth pattern creating a sense of movement."
+        ],
+        "Repetition": [
+            "Zigzagged, which has a regular repetition of the zigzag pattern across the entire surface.",
+            "Zigzagged, which showcases a varied repetition of zigzags in different sizes and orientations."
+        ],
+        "Contrast": [
+            "Zigzagged, which exhibits high contrast between the peaks and valleys creating a dynamic visual impact.",
+            "Zigzagged, which shows a subtle contrast between the zigzag elements for a more subdued appearance."
+        ]
+    },
+    "blotchy": {
+        "Texture": [
+            "Blotchy, which has a uneven and irregular surface texture reminiscent of random splotches.",
+            "Blotchy, which has a rough and non-uniform texture with irregular patches spread across the surface."
+        ],
+        "Pattern": [
+            "Blotchy, which has a scattered, disordered pattern with varying sizes and shapes of blotches.",
+            "Blotchy, which has irregularly shaped and spaced patterns creating a random arrangement of marks."
+        ],
+        "Repetition": [
+            "Blotchy, which lacks repetition in its pattern, showing unique blotches across the entire texture.",
+            "Blotchy, which features non-repeating elements that create a one-of-a-kind appearance."
+        ],
+        "Contrast": [
+            "Blotchy, which exhibits a stark contrast between the dark and light areas within the blotches, creating prominent visual differences.",
+            "Blotchy, which displays sharp contrasts between adjacent blotches, enhancing the overall texture definition."
+        ]
+    },
+    "grid": {
+        "Texture": [
+            "Grid, which has a regular and orderly texture with intersecting lines forming squares or rectangles.",
+            "Grid, which has a clean and precise texture created by a network of evenly spaced horizontal and vertical lines."
+        ],
+        "Pattern": [
+            "Grid, which displays a geometric pattern characterized by straight intersecting lines.",
+            "Grid, which showcases a symmetrical and repetitive pattern of lines intersecting at right angles."
+        ],
+        "Repetition": [
+            "Grid, which features a consistent repetition of the same grid pattern throughout the image, conveying uniformity and structure.",
+            "Grid, which demonstrates repeated rows and columns of lines creating a sense of continuity and order."
+        ],
+        "Contrast": [
+            "Grid, which exhibits a high contrast between the lines and the background, creating a clear distinction and sharp definition.",
+            "Grid, which shows a strong contrast between the intersecting lines, enhancing the visual impact and clarity of the pattern."
+        ]
+    },
+    "matted": {
+        "Texture": [
+            "Matted, which has a textured appearance with a rough, tangled surface.",
+            "Matted, which has a dense and tangled texture, creating a rough feel when touched."
+        ],
+        "Pattern": [
+            "Matted, which lacks a distinct pattern, displaying a random and chaotic arrangement of fibers.",
+            "Matted, which may exhibit a subtle speckled pattern due to variation in fiber density."
+        ],
+        "Repetition": [
+            "Matted, where individual fibers are intertwined and densely packed, reducing the visible repetition or regularity within the texture."
+        ],
+        "Contrast": [
+            "Matted, which may have low contrast due to the interwoven fibers and lack of distinct patterns.",
+            "Matted, which may exhibit slight contrast variations between tangled and untangled areas."
+        ]
+    },
+    "perforated": {
+        "Texture": [
+            "Perforated, which has a textured surface that looks like it has small holes or punctures evenly spread over the material.",
+            "Perforated, which has a tactile surface that gives the impression of being pierced or punctured with tiny openings."
+        ],
+        "Pattern": [
+            "Perforated, which features a regular arrangement of perforations forming patterns across the surface.",
+            "Perforated, which showcases a geometric pattern created by the perforations."
+        ],
+        "Repetition": [
+            "Perforated, which exhibits a consistent repetition of the punctured pattern throughout the material.",
+            "Perforated, which shows a repeated sequence of perforations that create a uniform visual rhythm."
+        ],
+        "Contrast": [
+            "Perforated, which displays a clear contrast between the solid areas and the punctured holes, creating a visually striking effect.",
+            "Perforated, which contrasts the textured holes against the smoother parts of the material, enhancing the overall appearance."
+        ]
+    },
+    "potholed": {
+        "Texture": [
+            "Potholed, which has a rough, uneven texture resembling pitted surfaces with indentations and bumps.",
+            "Potholed, which has a bumpy surface texture with irregular divots and imperfections."
+        ],
+        "Pattern": [
+            "Potholed, which features a random pattern of holes and irregular shapes distributed across the surface.",
+            "Potholed, which displays a chaotic arrangement of depressions and raised areas creating a non-uniform pattern."
+        ],
+        "Repetition": [
+            "Potholed, which lacks repetition and shows unique holes and bumps scattered randomly.",
+            "Potholed, which has no consistent repetition in the distribution of potholes and textures."
+        ],
+        "Contrast": [
+            "Potholed, which exhibits a stark contrast between the recessed holes and the raised bumps on the surface.",
+            "Potholed, which showcases a noticeable contrast between the depth of potholes and the surrounding texture."
+        ]
+    }
+}

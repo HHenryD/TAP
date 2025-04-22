@@ -1,0 +1,3044 @@
+{
+    "707-320": {
+        "Wing Configuration": [
+            "707-320, which has low-mounted wings positioned near the bottom of the fuselage.",
+            "707-320, which has swept-back wings for enhanced aerodynamics at high speeds."
+        ],
+        "Winglet Presence": [
+            "707-320, which has winglets on the wingtips.",
+            "707-320, which does not have winglets."
+        ],
+        "Engine Configuration": [
+            "707-320, which has four underwing engines.",
+            "707-320, which has two underwing engines and two engines in the tail section."
+        ],
+        "Number of Engines": [
+            "707-320, which has four engines.",
+            "707-320, which has multiple engines."
+        ],
+        "Fuselage Length": [
+            "707-320, which has a long fuselage.",
+            "707-320, which has a sleek fuselage."
+        ],
+        "Fuselage shape": [
+            "707-320, which has a cylindrical fuselage with a pronounced nose cone.",
+            "707-320, which has a fuselage narrowing towards the tail for aerodynamic efficiency."
+        ],
+        "Wingspan": [
+            "707-320, which has a long wingspan.",
+            "707-320, which has a wide wingspan."
+        ]
+    },
+    "727-200": {
+        "Wing Configuration": [
+            "727-200, which features low-mounted wings with distinct winglets for improved aerodynamics.",
+            "727-200, which showcases swept-back wings for enhanced stability and fuel efficiency."
+        ],
+        "Winglet Presence": [
+            "727-200, which does not have winglets.",
+            "727-200, which has small winglets on the wingtips."
+        ],
+        "Engine Configuration": [
+            "727-200, which has two underwing engines and one engine in the tail section.",
+            "727-200, which has three underwing engines."
+        ],
+        "Number of Engines": [
+            "727-200, which has three engines.",
+            "727-200, which has multiple engines."
+        ],
+        "Fuselage Length": [
+            "727-200, which has a long fuselage.",
+            "727-200, which has a sleek fuselage."
+        ],
+        "Fuselage shape": [
+            "727-200, which exhibits a narrow, cylindrical fuselage for aerodynamic efficiency and passenger comfort.",
+            "727-200, which features a fuselage with a slight taper towards the tail, enhancing the aircraft's streamlined profile."
+        ],
+        "Wingspan": [
+            "727-200, which has a medium wingspan.",
+            "727-200, which has a relatively short wingspan."
+        ]
+    },
+    "737-200": {
+        "Wing Configuration": [
+            "737-200, which has low-wing configuration where the wings are positioned below the fuselage.",
+            "737-200, which has swept-back wings for improved aerodynamics and fuel efficiency."
+        ],
+        "Winglet Presence": [
+            "737-200, which has winglets on the wingtips.",
+            "737-200, which does not have winglets."
+        ],
+        "Engine Configuration": [
+            "737-200, which has two underwing engines.",
+            "737-200, which has two engines in the tail section."
+        ],
+        "Number of Engines": [
+            "737-200, which has two engines.",
+            "737-200, which has multiple engines."
+        ],
+        "Fuselage Length": [
+            "737-200, which has a long fuselage.",
+            "737-200, which has a short fuselage."
+        ],
+        "Fuselage shape": [
+            "737-200, which has a slim, narrow fuselage for aerodynamic efficiency.",
+            "737-200, which has a cylindrical fuselage design with a smooth surface for reduced drag."
+        ],
+        "Wingspan": [
+            "737-200, which has a long wingspan.",
+            "737-200, which has a short wingspan."
+        ]
+    },
+    "737-300": {
+        "Wing Configuration": [
+            "737-300, which has swept-back wings with winglets at the tips for improved aerodynamics.",
+            "737-300, which has high-mounted wings providing stability and lift efficiency."
+        ],
+        "Winglet Presence": [
+            "737-300, which does not have winglets.",
+            "737-300, which has small winglets on the wingtips."
+        ],
+        "Engine Configuration": [
+            "737-300, which has two underwing engines.",
+            "737-300, which has two engines in the tail section."
+        ],
+        "Number of Engines": [
+            "737-300, which has two engines.",
+            "737-300, which has multiple engines."
+        ],
+        "Fuselage Length": [
+            "737-300, which has a compact fuselage.",
+            "737-300, which has a relatively short fuselage."
+        ],
+        "Fuselage shape": [
+            "737-300, which has a narrow-body fuselage design suitable for medium-range flights.",
+            "737-300, which has a cylindrical fuselage for optimal cabin space."
+        ],
+        "Wingspan": [
+            "737-300, which has a moderate wingspan.",
+            "737-300, which has a medium-sized wingspan."
+        ]
+    },
+    "737-400": {
+        "Wing Configuration": [
+            "737-400, which has a low wing configuration with the wings mounted below the fuselage.",
+            "737-400, which has swept-back wings for improved aerodynamics at high speeds."
+        ],
+        "Winglet Presence": [
+            "737-400, which does not have winglets.",
+            "737-400, which has small winglets on the wingtips."
+        ],
+        "Engine Configuration": [
+            "737-400, which has engines mounted on the wings.",
+            "737-400, which has engines in the tail section."
+        ],
+        "Number of Engines": [
+            "737-400, which has two engines.",
+            "737-400, which has multiple engines."
+        ],
+        "Fuselage Length": [
+            "737-400, which has a medium-length fuselage.",
+            "737-400, which has a sleek fuselage."
+        ],
+        "Fuselage shape": [
+            "737-400, which has a narrow-body fuselage design suited for medium-range flights.",
+            "737-400, which has a cylindrical fuselage shape with passenger windows."
+        ],
+        "Wingspan": [
+            "737-400, which has a moderate wingspan.",
+            "737-400, which has a relatively short wingspan."
+        ]
+    },
+    "737-500": {
+        "Wing Configuration": [
+            "737-500, which has swept-back wings for aerodynamic efficiency during flight.",
+            "737-500, which has wings attached at the lower part of the fuselage for stability and lift."
+        ],
+        "Winglet Presence": [
+            "737-500, which has winglets on the wingtips.",
+            "737-500, which does not have winglets."
+        ],
+        "Engine Configuration": [
+            "737-500, which has two underwing engines.",
+            "737-500, which has two engines in the tail section."
+        ],
+        "Number of Engines": [
+            "737-500, which has two engines.",
+            "737-500, which has multiple engines."
+        ],
+        "Fuselage Length": [
+            "737-500, which has a short fuselage.",
+            "737-500, which has a compact fuselage."
+        ],
+        "Fuselage shape": [
+            "737-500, which has a sleek, cylindrical fuselage for aerodynamic performance.",
+            "737-500, which has a fuselage with a slight taper towards the rear for reduced drag."
+        ],
+        "Wingspan": [
+            "737-500, which has a medium wingspan.",
+            "737-500, which has a narrow wingspan."
+        ]
+    },
+    "737-600": {
+        "Wing Configuration": [
+            "737-600, which has swept-back wings for efficient aerodynamics and stability during flight.",
+            "737-600, which has winglets at the wingtips to reduce drag and improve fuel efficiency."
+        ],
+        "Winglet Presence": [
+            "737-600, which has winglets on the wingtips.",
+            "737-600, which does not have winglets."
+        ],
+        "Engine Configuration": [
+            "737-600, which has two underwing engines.",
+            "737-600, which has two engines in the tail section."
+        ],
+        "Number of Engines": [
+            "737-600, which has two engines.",
+            "737-600, which has multiple engines."
+        ],
+        "Fuselage Length": [
+            "737-600, which has a medium-length fuselage.",
+            "737-600, which has a compact fuselage."
+        ],
+        "Fuselage shape": [
+            "737-600, which has a streamlined fuselage design for reduced air resistance and improved fuel efficiency.",
+            "737-600, which has a cylindrical fuselage shape with passenger windows along the sides."
+        ],
+        "Wingspan": [
+            "737-600, which has a relatively short wingspan.",
+            "737-600, which has a narrow wingspan."
+        ]
+    },
+    "737-700": {
+        "Wing Configuration": [
+            "737-700, which features swept wings that are positioned at a mid-to-low level relative to the fuselage.",
+            "737-700, which has winglets at the tips of the wings for improved aerodynamics."
+        ],
+        "Winglet Presence": [
+            "737-700, which has winglets on the wingtips.",
+            "737-700, which does not have winglets."
+        ],
+        "Engine Configuration": [
+            "737-700, which has two underwing engines.",
+            "737-700, which has two engines in the tail section."
+        ],
+        "Number of Engines": [
+            "737-700, which has two engines.",
+            "737-700, which has multiple engines."
+        ],
+        "Fuselage Length": [
+            "737-700, which has a medium-length fuselage.",
+            "737-700, which has a sleek fuselage."
+        ],
+        "Fuselage shape": [
+            "737-700, which has a narrow-body fuselage design suited for medium-range flights.",
+            "737-700, which features a fuselage with a distinctive rounded cross-section."
+        ],
+        "Wingspan": [
+            "737-700, which has a moderate wingspan.",
+            "737-700, which has a relatively narrow wingspan."
+        ]
+    },
+    "737-800": {
+        "Wing Configuration": [
+            "737-800, which has swept wings that provide efficient lift and stability during flight.",
+            "737-800, featuring wings positioned low on the fuselage for easy access during maintenance.",
+            "737-800, characterized by its winglets that reduce drag and increase fuel efficiency."
+        ],
+        "Winglet Presence": [
+            "737-800, which has winglets on the wingtips.",
+            "737-800, which does not have winglets."
+        ],
+        "Engine Configuration": [
+            "737-800, which has two underwing engines.",
+            "737-800, which has two engines in the tail section."
+        ],
+        "Number of Engines": [
+            "737-800, which has two engines.",
+            "737-800, which has multiple engines."
+        ],
+        "Fuselage Length": [
+            "737-800, which has a long fuselage.",
+            "737-800, which has a sleek fuselage."
+        ],
+        "Fuselage shape": [
+            "737-800, featuring a narrow-body fuselage design for streamlined aerodynamics and fuel efficiency.",
+            "737-800, with a fuselage shape that accommodates a typical passenger cabin with multiple seating rows."
+        ],
+        "Wingspan": [
+            "737-800, which has a long wingspan.",
+            "737-800, which has a wide wingspan."
+        ]
+    },
+    "737-900": {
+        "Wing Configuration": [
+            "737-900, which has swept-back wings for improved aerodynamics at high speeds.",
+            "737-900, which has blended winglets at the wingtips for enhanced fuel efficiency and reduced drag."
+        ],
+        "Winglet Presence": [
+            "737-900, which has winglets on the wingtips.",
+            "737-900, which does not have winglets."
+        ],
+        "Engine Configuration": [
+            "737-900, which has underwing engines.",
+            "737-900, which has two engines in the tail section."
+        ],
+        "Number of Engines": [
+            "737-900, which has two engines.",
+            "737-900, which has multiple engines."
+        ],
+        "Fuselage Length": [
+            "737-900, which has a long fuselage.",
+            "737-900, which has a sleek fuselage."
+        ],
+        "Fuselage shape": [
+            "737-900, which has a narrow-body fuselage optimized for short to medium-haul flights.",
+            "737-900, which has a fuselage with smooth, aerodynamic contours for reduced drag and improved fuel efficiency."
+        ],
+        "Wingspan": [
+            "737-900, which has a long wingspan.",
+            "737-900, which has a wide wingspan."
+        ]
+    },
+    "747-100": {
+        "Wing Configuration": [
+            "747-100, which has a high mounted wing configuration providing efficient lift and stability.",
+            "747-100, which has swept-back wings for improved aerodynamics at high speeds."
+        ],
+        "Winglet Presence": [
+            "747-100, which does not have winglets.",
+            "747-100, which has small winglets on the wingtips."
+        ],
+        "Engine Configuration": [
+            "747-100, which has four underwing engines.",
+            "747-100, which has four engines in the tail section."
+        ],
+        "Number of Engines": [
+            "747-100, which has four engines.",
+            "747-100, which has multiple engines."
+        ],
+        "Fuselage Length": [
+            "747-100, which has a long fuselage.",
+            "747-100, which has a sleek fuselage."
+        ],
+        "Fuselage shape": [
+            "747-100, which has a wide-body fuselage for spacious cabin and increased passenger capacity.",
+            "747-100, which has a double-deck fuselage design for separate passenger and crew areas."
+        ],
+        "Wingspan": [
+            "747-100, which has a long wingspan.",
+            "747-100, which has a wide wingspan."
+        ]
+    },
+    "747-200": {
+        "Wing Configuration": [
+            "747-200, which has high mounted wings with a distinctive four-engine setup.",
+            "747-200, which features swept wings for efficient high-altitude flight.",
+            "747-200, which has large curved wings suitable for long-haul flights."
+        ],
+        "Winglet Presence": [
+            "747-200, which has winglets on the wingtips.",
+            "747-200, which does not have winglets."
+        ],
+        "Engine Configuration": [
+            "747-200, which has four underwing engines.",
+            "747-200, which has two underwing engines and two engines in the tail section."
+        ],
+        "Number of Engines": [
+            "747-200, which has four engines.",
+            "747-200, which has multiple engines."
+        ],
+        "Fuselage Length": [
+            "747-200, which has a long fuselage.",
+            "747-200, which has a sleek fuselage."
+        ],
+        "Fuselage shape": [
+            "747-200, which features a wide-body fuselage for increased passenger capacity.",
+            "747-200, which has a double-deck fuselage offering separate areas for passengers and crew."
+        ],
+        "Wingspan": [
+            "747-200, which has a long wingspan.",
+            "747-200, which has a wide wingspan."
+        ]
+    },
+    "747-300": {
+        "Wing Configuration": [
+            "747-300, which has a high-mounted wing configuration providing increased lift and stability during flight.",
+            "747-300, which features a swept-wing design for efficient aerodynamics at high speeds.",
+            "747-300, which has winglets at the tips for reduced drag and improved fuel efficiency."
+        ],
+        "Winglet Presence": [
+            "747-300, which has winglets on the wingtips.",
+            "747-300, which does not have winglets."
+        ],
+        "Engine Configuration": [
+            "747-300, which has four underwing engines.",
+            "747-300, which has two underwing engines and two engines in the tail section."
+        ],
+        "Number of Engines": [
+            "747-300, which has four engines.",
+            "747-300, which has multiple engines."
+        ],
+        "Fuselage Length": [
+            "747-300, which has a long fuselage.",
+            "747-300, which has a sleek fuselage."
+        ],
+        "Fuselage shape": [
+            "747-300, which has a wide-body fuselage for increased passenger capacity and cargo space.",
+            "747-300, which features a fuselage with a distinctive hump near the front to accommodate an upper deck for passengers or crew."
+        ],
+        "Wingspan": [
+            "747-300, which has a long wingspan.",
+            "747-300, which has a wide wingspan."
+        ]
+    },
+    "747-400": {
+        "Wing Configuration": [
+            "747-400, which has high-mounted wings on the fuselage.",
+            "747-400, which has wings that span a long distance for optimal lift.",
+            "747-400, which has wings with multiple engines attached for propulsion."
+        ],
+        "Winglet Presence": [
+            "747-400, which has winglets on the wingtips.",
+            "747-400, which does not have winglets."
+        ],
+        "Engine Configuration": [
+            "747-400, which has four underwing engines.",
+            "747-400, which has two underwing engines and two engines in the tail section."
+        ],
+        "Number of Engines": [
+            "747-400, which has four engines.",
+            "747-400, which has multiple engines."
+        ],
+        "Fuselage Length": [
+            "747-400, which has a long fuselage.",
+            "747-400, which has a sleek fuselage."
+        ],
+        "Fuselage shape": [
+            "747-400, which has a cylindrical fuselage design for accommodating passengers and cargo.",
+            "747-400, which has a fuselage that tapers towards the tail section for aerodynamic efficiency."
+        ],
+        "Wingspan": [
+            "747-400, which has a long wingspan.",
+            "747-400, which has a wide wingspan."
+        ]
+    },
+    "757-300": {
+        "Wing Configuration": [
+            "757-300, which has swept-back wings for efficient aerodynamics.",
+            "757-300, which has winglets at the ends of the wings for improved fuel efficiency and performance."
+        ],
+        "Winglet Presence": [
+            "757-300, which has winglets on the wingtips.",
+            "757-300, which does not have winglets."
+        ],
+        "Engine Configuration": [
+            "757-300, which has two underwing engines and one engine in the tail section.",
+            "757-300, which has three underwing engines."
+        ],
+        "Number of Engines": [
+            "757-300, which has three engines.",
+            "757-300, which has multiple engines."
+        ],
+        "Fuselage Length": [
+            "757-300, which has a long fuselage.",
+            "757-300, which has a sleek fuselage."
+        ],
+        "Fuselage shape": [
+            "757-300, which has a sleek, narrow-body fuselage for reduced aerodynamic drag.",
+            "757-300, which has a fuselage with a pronounced nose cone for improved aerodynamics."
+        ],
+        "Wingspan": [
+            "757-300, which has a longer wingspan.",
+            "757-300, which has a wide wingspan."
+        ]
+    },
+    "767-200": {
+        "Wing Configuration": [
+            "767-200, which has swept-back wings for efficient aerodynamics.",
+            "767-200, which has low-mounted wings that provide stability and lift."
+        ],
+        "Winglet Presence": [
+            "767-200, which has winglets on the wingtips.",
+            "767-200, which does not have winglets."
+        ],
+        "Engine Configuration": [
+            "767-200, which has two underwing engines.",
+            "767-200, which has two engines in the tail section."
+        ],
+        "Number of Engines": [
+            "767-200, which has two engines.",
+            "767-200, which has twin engines."
+        ],
+        "Fuselage Length": [
+            "767-200, which has a long fuselage.",
+            "767-200, which has a sleek fuselage."
+        ],
+        "Fuselage shape": [
+            "767-200, which has a wide-body fuselage design for increased passenger capacity and comfort.",
+            "767-200, which has a streamlined fuselage shape for reduced air resistance during flight."
+        ],
+        "Wingspan": [
+            "767-200, which has a long wingspan.",
+            "767-200, which has a wide wingspan."
+        ]
+    },
+    "767-300": {
+        "Wing Configuration": [
+            "767-300, which has swept-back wings extending from the fuselage.",
+            "767-300, which has wings positioned more towards the middle of the fuselage for stability.",
+            "767-300, which has a high aspect ratio wing design for efficiency."
+        ],
+        "Winglet Presence": [
+            "767-300, which has winglets on the wingtips.",
+            "767-300, which does not have winglets."
+        ],
+        "Engine Configuration": [
+            "767-300, which has two underwing engines and one engine in the tail section.",
+            "767-300, which has two underwing engines and two engines in the tail section."
+        ],
+        "Number of Engines": [
+            "767-300, which has two engines.",
+            "767-300, which has multiple engines."
+        ],
+        "Fuselage Length": [
+            "767-300, which has a long fuselage.",
+            "767-300, which has a sleek fuselage."
+        ],
+        "Fuselage shape": [
+            "767-300, which has a wide-body fuselage with twin aisles for passenger capacity.",
+            "767-300, which has a streamlined fuselage design for reduced drag at cruising speeds."
+        ],
+        "Wingspan": [
+            "767-300, which has a long wingspan.",
+            "767-300, which has a wide wingspan."
+        ]
+    },
+    "767-400": {
+        "Wing Configuration": [
+            "767-400, which features a swept-back wing design for improved aerodynamics at high speeds.",
+            "767-400, which has large, extended wings that provide lift for long-distance travel.",
+            "767-400, which boasts wings with winglets at the tips for better fuel efficiency."
+        ],
+        "Winglet Presence": [
+            "767-400, which has winglets on the wingtips.",
+            "767-400, which does not have winglets."
+        ],
+        "Engine Configuration": [
+            "767-400, which has two underwing engines and two engines in the tail section.",
+            "767-400, which has four engines located under the wing."
+        ],
+        "Number of Engines": [
+            "767-400, which has four engines.",
+            "767-400, which has multiple engines."
+        ],
+        "Fuselage Length": [
+            "767-400, which has a long fuselage.",
+            "767-400, which has a sleek fuselage."
+        ],
+        "Fuselage shape": [
+            "767-400, which exhibits a wide-body fuselage for increased passenger capacity.",
+            "767-400, which has a fuselage that tapers towards the rear for aerodynamic efficiency."
+        ],
+        "Wingspan": [
+            "767-400, which has a long wingspan.",
+            "767-400, which has a wide wingspan."
+        ]
+    },
+    "777-200": {
+        "Wing Configuration": [
+            "777-200, which features swept-back wings for aerodynamic efficiency.",
+            "777-200, which has high aspect ratio wings for long-range performance."
+        ],
+        "Winglet Presence": [
+            "777-200, which has winglets on the wingtips.",
+            "777-200, which does not have winglets."
+        ],
+        "Engine Configuration": [
+            "777-200, which has two underwing engines and two engines in the tail section.",
+            "777-200, which has four underwing engines."
+        ],
+        "Number of Engines": [
+            "777-200, which has two engines.",
+            "777-200, which has multiple engines."
+        ],
+        "Fuselage Length": [
+            "777-200, which has a long fuselage.",
+            "777-200, which has a sleek fuselage."
+        ],
+        "Fuselage shape": [
+            "777-200, which has a wide-body fuselage for increased passenger comfort and cargo capacity.",
+            "777-200, which features a streamlined fuselage for reduced drag and fuel efficiency."
+        ],
+        "Wingspan": [
+            "777-200, which has a long wingspan.",
+            "777-200, which has a wide wingspan."
+        ]
+    },
+    "777-300": {
+        "Wing Configuration": [
+            "777-300, which has a high-wing configuration with the wings mounted on top of the fuselage.",
+            "777-300, which has a swept-back wing design for enhanced aerodynamics."
+        ],
+        "Winglet Presence": [
+            "777-300, which has winglets on the wingtips.",
+            "777-300, which does not have winglets."
+        ],
+        "Engine Configuration": [
+            "777-300, which has two underwing engines on each side.",
+            "777-300, which has four underwing engines."
+        ],
+        "Number of Engines": [
+            "777-300, which has four engines.",
+            "777-300, which has multiple engines."
+        ],
+        "Fuselage Length": [
+            "777-300, which has a long fuselage.",
+            "777-300, which has a sleek fuselage."
+        ],
+        "Fuselage shape": [
+            "777-300, which has a wide-body fuselage design for increased passenger capacity and comfort.",
+            "777-300, which has a sleek, streamlined fuselage for improved aerodynamics."
+        ],
+        "Wingspan": [
+            "777-300, which has a long wingspan.",
+            "777-300, which has a wide wingspan."
+        ]
+    },
+    "A300B4": {
+        "Wing Configuration": [
+            "A300B4, which has a swept-wing design for efficient aerodynamics.",
+            "A300B4, which has a high-wing configuration for stability and cargo capacity"
+        ],
+        "Winglet Presence": [
+            "A300B4, which does not have winglets."
+        ],
+        "Engine Configuration": [
+            "A300B4, which has two underwing engines.",
+            "A300B4, which has two engines in the tail section."
+        ],
+        "Number of Engines": [
+            "A300B4, which has two engines."
+        ],
+        "Fuselage Length": [
+            "A300B4, which has a long fuselage.",
+            "A300B4, which has a sleek fuselage."
+        ],
+        "Fuselage shape": [
+            "A300B4, which has a wide-body fuselage for increased passenger capacity.",
+            "A300B4, which has a streamlined fuselage for optimal aerodynamics."
+        ],
+        "Wingspan": [
+            "A300B4, which has a long wingspan.",
+            "A300B4, which has a wide wingspan."
+        ]
+    },
+    "A310": {
+        "Wing Configuration": [
+            "A310, which features swept wings that are positioned mid-wing on the fuselage.",
+            "A310, which showcases winglets at the tip of the wings for improved aerodynamics.",
+            "A310, which has high aspect ratio wings for increased lift efficiency."
+        ],
+        "Winglet Presence": [
+            "A310, which does not have winglets.",
+            "A310, which has winglets on the wingtips."
+        ],
+        "Engine Configuration": [
+            "A310, which has two underwing engines.",
+            "A310, which has two engines in the tail section."
+        ],
+        "Number of Engines": [
+            "A310, which has two engines.",
+            "A310, which has multiple engines."
+        ],
+        "Fuselage Length": [
+            "A310, which has a long fuselage.",
+            "A310, which has a sleek fuselage."
+        ],
+        "Fuselage shape": [
+            "A310, with a wide-body fuselage design for increased passenger capacity and comfort.",
+            "A310, which features a sleek, aerodynamic fuselage shape for reduced drag and fuel consumption."
+        ],
+        "Wingspan": [
+            "A310, which has a long wingspan.",
+            "A310, which has a wide wingspan."
+        ]
+    },
+    "A318": {
+        "Wing Configuration": [
+            "A318, which has short-span, swept-back wings for efficient high-lift capabilities.",
+            "A318, which has winglets at the tips for reduced drag and improved fuel efficiency."
+        ],
+        "Winglet Presence": [
+            "A318, which has winglets on the wingtips.",
+            "A318, which does not have winglets."
+        ],
+        "Engine Configuration": [
+            "A318, which has two underwing engines.",
+            "A318, which has two engines in the tail section."
+        ],
+        "Number of Engines": [
+            "A318, which has two engines.",
+            "A318, which has multiple engines."
+        ],
+        "Fuselage Length": [
+            "A318, which has a shorter fuselage length compared to other aircraft in the dataset.",
+            "A318, which has a compact fuselage length."
+        ],
+        "Fuselage shape": [
+            "A318, which has a narrow-body fuselage design for streamlined aerodynamics and reduced drag.",
+            "A318, which has a fuselage with smooth curves and a sleek profile for improved airflow."
+        ],
+        "Wingspan": [
+            "A318, which has a relatively short wingspan compared to other aircraft in the dataset.",
+            "A318, which has a compact wingspan."
+        ]
+    },
+    "A319": {
+        "Wing Configuration": [
+            "A319, which has swept wings that are positioned back from the fuselage for improved aerodynamics.",
+            "A319, which has long and narrow wings with winglets at the tips for enhanced fuel efficiency and performance."
+        ],
+        "Winglet Presence": [
+            "A319, which has winglets on the wingtips.",
+            "A319, which does not have winglets."
+        ],
+        "Engine Configuration": [
+            "A319, which has two underwing engines.",
+            "A319, which has two engines mounted at the rear fuselage."
+        ],
+        "Number of Engines": [
+            "A319, which has two engines.",
+            "A319, which has multiple engines."
+        ],
+        "Fuselage Length": [
+            "A319, which has a short fuselage.",
+            "A319, which has a compact fuselage."
+        ],
+        "Fuselage shape": [
+            "A319, which has a streamlined fuselage with a circular cross-section for optimal airflow and cabin space efficiency.",
+            "A319, which has a fuselage that narrows towards the tail, reducing drag and improving aerodynamics."
+        ],
+        "Wingspan": [
+            "A319, which has a relatively short wingspan.",
+            "A319, which has a narrow wingspan."
+        ]
+    },
+    "A320": {
+        "Wing Configuration": [
+            "A320, which features swept-back wings for improved aerodynamics and fuel efficiency.",
+            "A320, which has winglets at the wingtips to reduce drag and enhance lift."
+        ],
+        "Winglet Presence": [
+            "A320, which has winglets on the wingtips.",
+            "A320, which does not have winglets."
+        ],
+        "Engine Configuration": [
+            "A320, which has two underwing engines.",
+            "A320, which has two engines in the tail section."
+        ],
+        "Number of Engines": [
+            "A320, which has two engines.",
+            "A320, which has multiple engines."
+        ],
+        "Fuselage Length": [
+            "A320, which has a medium-length fuselage.",
+            "A320, which has a sleek fuselage."
+        ],
+        "Fuselage shape": [
+            "A320, which has a narrow body fuselage for higher speed and efficiency in short to medium-haul flights.",
+            "A320, which features a sleek, aerodynamic fuselage design for reduced drag and fuel consumption."
+        ],
+        "Wingspan": [
+            "A320, which has a medium wingspan.",
+            "A320, which has a narrow wingspan."
+        ]
+    },
+    "A321": {
+        "Wing Configuration": [
+            "A321, which has high-mounted wings that are swept back for enhanced aerodynamics.",
+            "A321, which has winglets at the end of its wings for improved fuel efficiency."
+        ],
+        "Winglet Presence": [
+            "A321, which has winglets on the wingtips.",
+            "A321, which does not have winglets."
+        ],
+        "Engine Configuration": [
+            "A321, which has two underwing engines.",
+            "A321, which has two underwing engines and two engines in the tail section."
+        ],
+        "Number of Engines": [
+            "A321, which has two engines.",
+            "A321, which has multiple engines."
+        ],
+        "Fuselage Length": [
+            "A321, which has a long fuselage.",
+            "A321, which has a sleek fuselage."
+        ],
+        "Fuselage shape": [
+            "A321, which has a streamlined fuselage design for reduced air resistance during flight.",
+            "A321, which has a widened fuselage for increased passenger capacity and comfort."
+        ],
+        "Wingspan": [
+            "A321, which has a long wingspan.",
+            "A321, which has a wide wingspan."
+        ]
+    },
+    "A330-200": {
+        "Wing Configuration": [
+            "A330-200, which has a swept-wing configuration for improved aerodynamics at high speeds.",
+            "A330-200, which has winglets at the wingtips to reduce drag and increase fuel efficiency."
+        ],
+        "Winglet Presence": [
+            "A330-200, which has winglets on the wingtips.",
+            "A330-200, which does not have winglets."
+        ],
+        "Engine Configuration": [
+            "A330-200, which has two underwing engines and two engines in the tail section.",
+            "A330-200, which has two underwing engines."
+        ],
+        "Number of Engines": [
+            "A330-200, which has two engines.",
+            "A330-200, which has multiple engines."
+        ],
+        "Fuselage Length": [
+            "A330-200, which has a long fuselage.",
+            "A330-200, which has a sleek fuselage."
+        ],
+        "Fuselage shape": [
+            "A330-200, which has a wide-body fuselage for increased passenger capacity and comfort.",
+            "A330-200, which has a streamlined fuselage with smooth contours for reduced aerodynamic drag."
+        ],
+        "Wingspan": [
+            "A330-200, which has a long wingspan.",
+            "A330-200, which has a wide wingspan."
+        ]
+    },
+    "A330-300": {
+        "Wing Configuration": [
+            "A330-300, which has a swept-back wing design for efficiency and stability during flight.",
+            "A330-300, which features winglets at the tips to reduce drag and improve fuel efficiency.",
+            "A330-300, which has a high-wing configuration for increased lift and easier maintenance."
+        ],
+        "Winglet Presence": [
+            "A330-300, which has winglets on the wingtips.",
+            "A330-300, which does not have winglets."
+        ],
+        "Engine Configuration": [
+            "A330-300, which has two underwing engines and two engines in the tail section.",
+            "A330-300, which has two underwing engines."
+        ],
+        "Number of Engines": [
+            "A330-300, which has two engines.",
+            "A330-300, which has multiple engines."
+        ],
+        "Fuselage Length": [
+            "A330-300, which has a sleek fuselage.",
+            "A330-300, which has a long fuselage."
+        ],
+        "Fuselage shape": [
+            "A330-300, which has a wide-body fuselage to accommodate a large number of passengers and cargo.",
+            "A330-300, which features a sleek, aerodynamic fuselage design for improved performance and fuel efficiency."
+        ],
+        "Wingspan": [
+            "A330-300, which has a wide wingspan.",
+            "A330-300, which has a long wingspan."
+        ]
+    },
+    "A340-200": {
+        "Wing Configuration": [
+            "A340-200, which has a swept-back wing design for efficient aerodynamics at high speeds.",
+            "A340-200, which has a high-aspect ratio wing for improved fuel efficiency and long-range capabilities."
+        ],
+        "Winglet Presence": [
+            "A340-200, which has winglets on the wingtips.",
+            "A340-200, which does not have winglets."
+        ],
+        "Engine Configuration": [
+            "A340-200, which has four underwing engines.",
+            "A340-200, which has two underwing engines and two engines in the tail section."
+        ],
+        "Number of Engines": [
+            "A340-200, which has four engines.",
+            "A340-200, which has multiple engines."
+        ],
+        "Fuselage Length": [
+            "A340-200, which has a long fuselage.",
+            "A340-200, which has a sleek fuselage."
+        ],
+        "Fuselage shape": [
+            "A340-200, which has a wide-body fuselage for increased passenger capacity and comfort.",
+            "A340-200, which has a sleek, aerodynamic fuselage shape for enhanced performance."
+        ],
+        "Wingspan": [
+            "A340-200, which has a long wingspan.",
+            "A340-200, which has a wide wingspan."
+        ]
+    },
+    "A340-300": {
+        "Wing Configuration": [
+            "A340-300, which has a swept-back wing design for efficient aerodynamics.",
+            "A340-300, which has a high aspect ratio wing configuration.",
+            "A340-300, which has wingtip devices for improved lift and fuel efficiency."
+        ],
+        "Winglet Presence": [
+            "A340-300, which has winglets on the wingtips.",
+            "A340-300, which does not have winglets."
+        ],
+        "Engine Configuration": [
+            "A340-300, which has four underwing engines.",
+            "A340-300, which has two underwing engines and two engines in the tail section."
+        ],
+        "Number of Engines": [
+            "A340-300, which has four engines.",
+            "A340-300, which has multiple engines."
+        ],
+        "Fuselage Length": [
+            "A340-300, which has a long fuselage.",
+            "A340-300, which has a sleek fuselage."
+        ],
+        "Fuselage shape": [
+            "A340-300, which has a wide-body fuselage for increased passenger capacity.",
+            "A340-300, which has a smooth, streamlined fuselage for reduced drag and improved aerodynamics.",
+            "A340-300, which has a cylindrical fuselage cross-section for structural strength and spaciousness."
+        ],
+        "Wingspan": [
+            "A340-300, which has a long wingspan.",
+            "A340-300, which has a wide wingspan."
+        ]
+    },
+    "A340-500": {
+        "Wing Configuration": [
+            "A340-500, which has a high wings configuration with the main wings positioned above the fuselage.",
+            "A340-500, which has swept-back wings for improved aerodynamics and fuel efficiency."
+        ],
+        "Winglet Presence": [
+            "A340-500, which has winglets on the wingtips.",
+            "A340-500, which does not have winglets."
+        ],
+        "Engine Configuration": [
+            "A340-500, which has four underwing engines.",
+            "A340-500, which has two underwing engines and two engines in the tail section."
+        ],
+        "Number of Engines": [
+            "A340-500, which has four engines.",
+            "A340-500, which has multiple engines."
+        ],
+        "Fuselage Length": [
+            "A340-500, which has a long fuselage.",
+            "A340-500, which has a sleek fuselage."
+        ],
+        "Fuselage shape": [
+            "A340-500, which has a wide-body fuselage for accommodating passengers and cargo efficiently.",
+            "A340-500, which has a fuselage that narrows towards the tail section for aerodynamic purposes."
+        ],
+        "Wingspan": [
+            "A340-500, which has a long wingspan.",
+            "A340-500, which has an impressive wingspan."
+        ]
+    },
+    "A340-600": {
+        "Wing Configuration": [
+            "A340-600, which has high aspect ratio wings for enhanced fuel efficiency and long-range capabilities.",
+            "A340-600, which has swept-back wings for improved aerodynamics at high speeds."
+        ],
+        "Winglet Presence": [
+            "A340-600, which has winglets on the wingtips.",
+            "A340-600, which does not have winglets."
+        ],
+        "Engine Configuration": [
+            "A340-600, which has four underwing engines.",
+            "A340-600, which has two underwing engines and two engines in the tail section."
+        ],
+        "Number of Engines": [
+            "A340-600, which has four engines.",
+            "A340-600, which has multiple engines."
+        ],
+        "Fuselage Length": [
+            "A340-600, which has a long fuselage.",
+            "A340-600, which has a sleek fuselage."
+        ],
+        "Fuselage shape": [
+            "A340-600, which has a long fuselage for accommodating passengers and cargo on long-haul flights.",
+            "A340-600, which has a cylindrical fuselage shape with a narrow cross-section."
+        ],
+        "Wingspan": [
+            "A340-600, which has a long wingspan.",
+            "A340-600, which has a wide wingspan."
+        ]
+    },
+    "A380": {
+        "Wing Configuration": [
+            "A380, which has a high mounted wing configuration for enhanced lift and stability.",
+            "A380, which has a swept-back wing configuration for efficient aerodynamics.",
+            "A380, which has a large wingspan with winglets for improved fuel efficiency."
+        ],
+        "Winglet Presence": [
+            "A380, which has winglets on the wingtips.",
+            "A380, which does not have winglets."
+        ],
+        "Engine Configuration": [
+            "A380, which has four underwing engines.",
+            "A380, which has two underwing engines and two engines in the tail section."
+        ],
+        "Number of Engines": [
+            "A380, which has four engines.",
+            "A380, which has multiple engines."
+        ],
+        "Fuselage Length": [
+            "A380, which has a long fuselage.",
+            "A380, which has a sleek fuselage."
+        ],
+        "Fuselage shape": [
+            "A380, which has a double-deck fuselage design for increased passenger capacity.",
+            "A380, which has a wide-body fuselage shape for passenger comfort and spacious interiors."
+        ],
+        "Wingspan": [
+            "A380, which has a large wingspan.",
+            "A380, which has a wide wingspan."
+        ]
+    },
+    "ATR-42": {
+        "Wing Configuration": [
+            "ATR-42, which has high-mounted wings for stability and short take-off and landing capabilities.",
+            "ATR-42, which features straight wings for lift efficiency and unobstructed propeller airflow."
+        ],
+        "Winglet Presence": [
+            "ATR-42, which does not have winglets.",
+            "ATR-42, which has small winglets on the wingtips."
+        ],
+        "Engine Configuration": [
+            "ATR-42, which has two engines on the wings.",
+            "ATR-42, which has engines on the wings and a rear-mounted engine."
+        ],
+        "Number of Engines": [
+            "ATR-42, which has two engines.",
+            "ATR-42, which has a pair of engines."
+        ],
+        "Fuselage Length": [
+            "ATR-42, which has a compact fuselage.",
+            "ATR-42, which has a stubby fuselage."
+        ],
+        "Fuselage shape": [
+            "ATR-42, which has a sleek, tubular fuselage for aerodynamic efficiency and passenger comfort.",
+            "ATR-42, which features a fuselage with a slight taper towards the tail section for reduced drag and improved stability."
+        ],
+        "Wingspan": [
+            "ATR-42, which has a short wingspan.",
+            "ATR-42, which has narrow wings."
+        ]
+    },
+    "ATR-72": {
+        "Wing Configuration": [
+            "ATR-72, which has high-mounted wings for stability during flight and improved lift.",
+            "ATR-72, which has a swept-back wing design for efficiency and speed."
+        ],
+        "Winglet Presence": [
+            "ATR-72, which has winglets on the wingtips.",
+            "ATR-72, which does not have winglets."
+        ],
+        "Engine Configuration": [
+            "ATR-72, which has two turboprop engines on the wings.",
+            "ATR-72, which has two turboprop engines on the wings and a third engine in the tail section."
+        ],
+        "Number of Engines": [
+            "ATR-72, which has two engines.",
+            "ATR-72, which has multiple engines."
+        ],
+        "Fuselage Length": [
+            "ATR-72, which has a long fuselage.",
+            "ATR-72, which has a compact fuselage."
+        ],
+        "Fuselage shape": [
+            "ATR-72, which has a sleek, streamlined fuselage for improved aerodynamics and reduced drag.",
+            "ATR-72, which has a fuselage with a pronounced nose section and gradually tapers towards the tail."
+        ],
+        "Wingspan": [
+            "ATR-72, which has a short wingspan.",
+            "ATR-72, which has a wide wingspan."
+        ]
+    },
+    "An-12": {
+        "Wing Configuration": [
+            "An-12, which has a high-wing configuration for stability and cargo space.",
+            "An-12, which has wings mounted on top of the fuselage for easy loading and unloading."
+        ],
+        "Winglet Presence": [
+            "An-12, which does not have winglets.",
+            "An-12, which has small winglets on the wingtips."
+        ],
+        "Engine Configuration": [
+            "An-12, which has four engines mounted on the wings.",
+            "An-12, which has four engines mounted on the tail section."
+        ],
+        "Number of Engines": [
+            "An-12, which has four engines.",
+            "An-12, which has multiple engines."
+        ],
+        "Fuselage Length": [
+            "An-12, which has a long fuselage.",
+            "An-12, which has a sleek fuselage."
+        ],
+        "Fuselage shape": [
+            "An-12, which has a robust, cylindrical fuselage for cargo capacity and structural strength.",
+            "An-12, which has a fuselage that tapers towards the rear for aerodynamic efficiency."
+        ],
+        "Wingspan": [
+            "An-12, which has a long wingspan.",
+            "An-12, which has a wide wingspan."
+        ]
+    },
+    "BAE 146-200": {
+        "Wing Configuration": [
+            "BAE 146-200, which has a high-wing configuration that is attached to the top of the fuselage.",
+            "BAE 146-200, which has square wingtips as part of its wing configuration.",
+            "BAE 146-200, which has wings positioned near the fuselage for stability and short takeoff and landing capabilities."
+        ],
+        "Winglet Presence": [
+            "BAE 146-200, which does not have winglets.",
+            "BAE 146-200, which is not equipped with winglets."
+        ],
+        "Engine Configuration": [
+            "BAE 146-200, which has four underwing engines.",
+            "BAE 146-200, which has two underwing engines and two engines on the rear fuselage."
+        ],
+        "Number of Engines": [
+            "BAE 146-200, which has four engines.",
+            "BAE 146-200, which is powered by multiple engines."
+        ],
+        "Fuselage Length": [
+            "BAE 146-200, which has a compact fuselage length.",
+            "BAE 146-200, which has a relatively short fuselage length."
+        ],
+        "Fuselage shape": [
+            "BAE 146-200, which has a fuselage that is wide and spacious, accommodating passengers comfortably.",
+            "BAE 146-200, which has a fuselage with a slight taper towards the tail for aerodynamic efficiency."
+        ],
+        "Wingspan": [
+            "BAE 146-200, which has a relatively short wingspan.",
+            "BAE 146-200, which has a moderate wingspan."
+        ]
+    },
+    "BAE 146-300": {
+        "Wing Configuration": [
+            "BAE 146-300, which has a high wing configuration with the wings mounted on top of the fuselage.",
+            "BAE 146-300, which has straight wings attached to the top of the fuselage."
+        ],
+        "Winglet Presence": [
+            "BAE 146-300, which does not have winglets.",
+            "BAE 146-300, which has small winglets on the wingtips."
+        ],
+        "Engine Configuration": [
+            "BAE 146-300, which has four underwing engines.",
+            "BAE 146-300, which has two underwing engines and two engines in the tail section."
+        ],
+        "Number of Engines": [
+            "BAE 146-300, which has four engines.",
+            "BAE 146-300, which has multiple engines."
+        ],
+        "Fuselage Length": [
+            "BAE 146-300, which has a compact fuselage.",
+            "BAE 146-300, which has a relatively short fuselage."
+        ],
+        "Fuselage shape": [
+            "BAE 146-300, which has a slender fuselage with rounded contours for aerodynamic efficiency.",
+            "BAE 146-300, which has a fuselage with a slight taper towards the tail section."
+        ],
+        "Wingspan": [
+            "BAE 146-300, which has a relatively short wingspan.",
+            "BAE 146-300, which has a narrow wingspan."
+        ]
+    },
+    "BAE-125": {
+        "Wing Configuration": [
+            "BAE-125, which features high-mounted wings near the top of the fuselage for stability and better visibility.",
+            "BAE-125, which showcases swept-back wings for improved aerodynamics at high speeds."
+        ],
+        "Winglet Presence": [
+            "BAE-125, which has winglets on the wingtips.",
+            "BAE-125, which does not have winglets."
+        ],
+        "Engine Configuration": [
+            "BAE-125, which has two underwing engines.",
+            "BAE-125, which has engines mounted at the rear of the fuselage."
+        ],
+        "Number of Engines": [
+            "BAE-125, which has two engines.",
+            "BAE-125, which has multiple engines."
+        ],
+        "Fuselage Length": [
+            "BAE-125, which has a sleek fuselage.",
+            "BAE-125, which has a compact fuselage."
+        ],
+        "Fuselage shape": [
+            "BAE-125, which has a sleek and slender fuselage design for reduced drag and improved aerodynamics.",
+            "BAE-125, which features a wide-body fuselage for increased cabin space and passenger comfort."
+        ],
+        "Wingspan": [
+            "BAE-125, which has a moderate wingspan.",
+            "BAE-125, which has a relatively short wingspan."
+        ]
+    },
+    "Beechcraft 1900": {
+        "Wing Configuration": [
+            "Beechcraft 1900, which has a high wing configuration, placing the wings on top of the fuselage for stability and easy access.",
+            "Beechcraft 1900, which has straight wings extending from the fuselage, providing lift and stability.",
+            "Beechcraft 1900, which has long, narrow wings that aid in efficient flight performance."
+        ],
+        "Winglet Presence": [
+            "Beechcraft 1900, which does not have winglets.",
+            "Beechcraft 1900, which has small winglets on the wingtips."
+        ],
+        "Engine Configuration": [
+            "Beechcraft 1900, which has two engines in the nose section.",
+            "Beechcraft 1900, which has engines mounted on the wings."
+        ],
+        "Number of Engines": [
+            "Beechcraft 1900, which has two engines.",
+            "Beechcraft 1900, which has twin engines."
+        ],
+        "Fuselage Length": [
+            "Beechcraft 1900, which has a compact fuselage.",
+            "Beechcraft 1900, which has a short fuselage."
+        ],
+        "Fuselage shape": [
+            "Beechcraft 1900, which has a fuselage with a sleek, streamlined design for aerodynamic efficiency.",
+            "Beechcraft 1900, which has a cylindrical fuselage shape that maximizes internal space for passengers and cargo."
+        ],
+        "Wingspan": [
+            "Beechcraft 1900, which has a relatively short wingspan.",
+            "Beechcraft 1900, which has a moderate wingspan."
+        ]
+    },
+    "Boeing 717": {
+        "Wing Configuration": [
+            "Boeing 717, which has low-mounted wings positioned near the bottom of the fuselage.",
+            "Boeing 717, which has a swept-back wing design for improved aerodynamics."
+        ],
+        "Winglet Presence": [
+            "Boeing 717, which has winglets on the wingtips.",
+            "Boeing 717, which does not have winglets."
+        ],
+        "Engine Configuration": [
+            "Boeing 717, which has two underwing engines.",
+            "Boeing 717, which has engines embedded in the rear fuselage."
+        ],
+        "Number of Engines": [
+            "Boeing 717, which has two engines.",
+            "Boeing 717, which has multiple engines."
+        ],
+        "Fuselage Length": [
+            "Boeing 717, which has a short fuselage.",
+            "Boeing 717, which has a compact fuselage."
+        ],
+        "Fuselage shape": [
+            "Boeing 717, which has a narrow, cylindrical fuselage optimized for passenger comfort and fuel efficiency.",
+            "Boeing 717, which has a sleek fuselage design with a slightly tapered rear section."
+        ],
+        "Wingspan": [
+            "Boeing 717, which has a moderate wingspan.",
+            "Boeing 717, which has a narrow wingspan."
+        ]
+    },
+    "C-130": {
+        "Wing Configuration": [
+            "C-130, which has high-mounted straight wings with minimal sweep for efficient lift generation.",
+            "C-130, which has a high aspect ratio wing design for enhanced lift and stability.",
+            "C-130, which has a multi-engine turboprop aircraft design with high-mounted wings."
+        ],
+        "Winglet Presence": [
+            "C-130, which has winglets on the wingtips.",
+            "C-130, which does not have winglets."
+        ],
+        "Engine Configuration": [
+            "C-130, which has four underwing engines.",
+            "C-130, which has two underwing engines and two engines in the tail section."
+        ],
+        "Number of Engines": [
+            "C-130, which has four engines.",
+            "C-130, which has multiple engines."
+        ],
+        "Fuselage Length": [
+            "C-130, which has a long fuselage.",
+            "C-130, which has a sleek fuselage."
+        ],
+        "Fuselage shape": [
+            "C-130, which has a boxy fuselage design for maximum internal cargo capacity.",
+            "C-130, which has a fuselage with a pronounced cargo door for efficient loading and unloading."
+        ],
+        "Wingspan": [
+            "C-130, which has a long wingspan.",
+            "C-130, which has a wide wingspan."
+        ]
+    },
+    "C-47": {
+        "Wing Configuration": [
+            "C-47, which has straight wings with a high aspect ratio for enhanced lift.",
+            "C-47, which has low-wing configuration for stability during flight."
+        ],
+        "Winglet Presence": [
+            "C-47, which does not have winglets.",
+            "C-47, which has small winglets on the wingtips."
+        ],
+        "Engine Configuration": [
+            "C-47, which has two underwing engines.",
+            "C-47, which does not have engines in the tail section."
+        ],
+        "Number of Engines": [
+            "C-47, which has two engines.",
+            "C-47, which has a single engine."
+        ],
+        "Fuselage Length": [
+            "C-47, which has a long fuselage.",
+            "C-47, which has a sleek fuselage."
+        ],
+        "Fuselage shape": [
+            "C-47, which has a fuselage with a boxy, utilitarian design for cargo transport.",
+            "C-47, which has a tapered fuselage for improved aerodynamics."
+        ],
+        "Wingspan": [
+            "C-47, which has a short wingspan.",
+            "C-47, which has a narrow wingspan."
+        ]
+    },
+    "CRJ-200": {
+        "Wing Configuration": [
+            "CRJ-200, which features low-mounted wings attached near the bottom of the fuselage.",
+            "CRJ-200, which showcases swept-back wings designed for efficient cruising at high altitudes.",
+            "CRJ-200, which has winglets at the wingtips for improved aerodynamics.",
+            "CRJ-200, which incorporates a slight dihedral angle for stability."
+        ],
+        "Winglet Presence": [
+            "CRJ-200, which does not have winglets.",
+            "CRJ-200, which has winglets on the wingtips."
+        ],
+        "Engine Configuration": [
+            "CRJ-200, which has two underwing engines.",
+            "CRJ-200, which has two engines in the tail section."
+        ],
+        "Number of Engines": [
+            "CRJ-200, which has two engines.",
+            "CRJ-200, which has multiple engines."
+        ],
+        "Fuselage Length": [
+            "CRJ-200, which has a compact fuselage.",
+            "CRJ-200, which has a streamlined fuselage."
+        ],
+        "Fuselage shape": [
+            "CRJ-200, which has a narrow fuselage optimized for regional flights with reduced passenger capacity.",
+            "CRJ-200, which showcases a cylindrical fuselage for efficient aerodynamics.",
+            "CRJ-200, which features a tapering fuselage towards the rear for reduced drag.",
+            "CRJ-200, which has a smooth, unbroken fuselage design for aerodynamic performance."
+        ],
+        "Wingspan": [
+            "CRJ-200, which has a short wingspan.",
+            "CRJ-200, which has a narrow wingspan."
+        ]
+    },
+    "CRJ-700": {
+        "Wing Configuration": [
+            "CRJ-700, which has swept-back wings for efficient high-speed flight.",
+            "CRJ-700, which has winglets at the wingtips to reduce drag and increase lift."
+        ],
+        "Winglet Presence": [
+            "CRJ-700, which has winglets on the wingtips.",
+            "CRJ-700, which does not have winglets."
+        ],
+        "Engine Configuration": [
+            "CRJ-700, which has two underwing engines.",
+            "CRJ-700, which has engines in the tail section."
+        ],
+        "Number of Engines": [
+            "CRJ-700, which has two engines.",
+            "CRJ-700, which has multiple engines."
+        ],
+        "Fuselage Length": [
+            "CRJ-700, which has a short fuselage.",
+            "CRJ-700, which has a compact fuselage."
+        ],
+        "Fuselage shape": [
+            "CRJ-700, which has a narrow, streamlined fuselage for reduced drag and improved aerodynamics.",
+            "CRJ-700, which has a fuselage that tapers towards the rear for enhanced stability."
+        ],
+        "Wingspan": [
+            "CRJ-700, which has a medium wingspan.",
+            "CRJ-700, which has a narrow wingspan."
+        ]
+    },
+    "CRJ-900": {
+        "Wing Configuration": [
+            "CRJ-900, which has swept wings with a slight angle backwards from the fuselage.",
+            "CRJ-900, which has high-mounted wings with an angular sweep, providing stability and lift.",
+            "CRJ-900, which has wings located near the top of the fuselage, angled for optimal aerodynamics."
+        ],
+        "Winglet Presence": [
+            "CRJ-900, which has winglets on the wingtips.",
+            "CRJ-900, which does not have winglets."
+        ],
+        "Engine Configuration": [
+            "CRJ-900, which has two underwing engines.",
+            "CRJ-900, which has engines in the tail section."
+        ],
+        "Number of Engines": [
+            "CRJ-900, which has two engines.",
+            "CRJ-900, which has multiple engines."
+        ],
+        "Fuselage Length": [
+            "CRJ-900, which has a long fuselage.",
+            "CRJ-900, which has a sleek fuselage."
+        ],
+        "Fuselage shape": [
+            "CRJ-900, which has a narrow, elongated fuselage for aerodynamic efficiency and passenger comfort.",
+            "CRJ-900, which has a fuselage design optimized for fuel efficiency and maneuverability."
+        ],
+        "Wingspan": [
+            "CRJ-900, which has a relatively short wingspan.",
+            "CRJ-900, which has a narrow wingspan."
+        ]
+    },
+    "Cessna 172": {
+        "Wing Configuration": [
+            "Cessna 172, which has high-wing configuration where the wings are mounted above the fuselage.",
+            "Cessna 172, which has straight wings with no sweep or dihedral for stability."
+        ],
+        "Winglet Presence": [
+            "Cessna 172, which does not have winglets.",
+            "Cessna 172, which has small winglets on the wingtips."
+        ],
+        "Engine Configuration": [
+            "Cessna 172, which has a single engine.",
+            "Cessna 172, which has one engine in the nose section."
+        ],
+        "Number of Engines": [
+            "Cessna 172, which has one engine.",
+            "Cessna 172, which is powered by a single engine."
+        ],
+        "Fuselage Length": [
+            "Cessna 172, which has a short fuselage.",
+            "Cessna 172, which has a compact fuselage."
+        ],
+        "Fuselage shape": [
+            "Cessna 172, which has a slender fuselage with a cylindrical shape for aerodynamic efficiency.",
+            "Cessna 172, which has a tubular fuselage design with smooth lines."
+        ],
+        "Wingspan": [
+            "Cessna 172, which has a moderate wingspan.",
+            "Cessna 172, which has a short wingspan."
+        ]
+    },
+    "Cessna 208": {
+        "Wing Configuration": [
+            "Cessna 208, which features high-mounted wings for stability and lift.",
+            "Cessna 208, which showcases straight wings for efficiency in lift and control.",
+            "Cessna 208, which exhibits a single wing with minimal sweep for maneuverability."
+        ],
+        "Winglet Presence": [
+            "Cessna 208, which does not have winglets.",
+            "Cessna 208, which has small winglets on the wingtips."
+        ],
+        "Engine Configuration": [
+            "Cessna 208, which has a single engine in the nose.",
+            "Cessna 208, which has a propeller engine in the nose and no engine in the tail section."
+        ],
+        "Number of Engines": [
+            "Cessna 208, which has a single engine.",
+            "Cessna 208, which has one engine."
+        ],
+        "Fuselage Length": [
+            "Cessna 208, which has a short fuselage.",
+            "Cessna 208, which has a compact fuselage."
+        ],
+        "Fuselage shape": [
+            "Cessna 208, which displays a tubular fuselage design for ruggedness and durability.",
+            "Cessna 208, with a sleek and aerodynamic fuselage shape for efficiency in flight.",
+            "Cessna 208, showing a wide fuselage for ample cabin space and comfort."
+        ],
+        "Wingspan": [
+            "Cessna 208, which has a short wingspan.",
+            "Cessna 208, which has a medium wingspan."
+        ]
+    },
+    "Cessna 525": {
+        "Wing Configuration": [
+            "Cessna 525, which features a low-wing configuration where the wings are positioned below the fuselage.",
+            "Cessna 525, which showcases a swept-wing design for enhanced aerodynamics and speed."
+        ],
+        "Winglet Presence": [
+            "Cessna 525, which does not have winglets.",
+            "Cessna 525, which has winglets on the wingtips."
+        ],
+        "Engine Configuration": [
+            "Cessna 525, which has two engines mounted on the wings.",
+            "Cessna 525, which has two engines in the tail section."
+        ],
+        "Number of Engines": [
+            "Cessna 525, which has two engines.",
+            "Cessna 525, which has multiple engines."
+        ],
+        "Fuselage Length": [
+            "Cessna 525, which has a short fuselage.",
+            "Cessna 525, which has a sleek fuselage."
+        ],
+        "Fuselage shape": [
+            "Cessna 525, which has a sleek, streamlined fuselage for reduced drag and increased efficiency.",
+            "Cessna 525, which features a wide-body fuselage for comfortable cabin space and cargo capacity."
+        ],
+        "Wingspan": [
+            "Cessna 525, which has a medium-sized wingspan.",
+            "Cessna 525, which has a narrow wingspan."
+        ]
+    },
+    "Cessna 560": {
+        "Wing Configuration": [
+            "Cessna 560, which has low-mounted wings attached near the bottom of the fuselage.",
+            "Cessna 560, which has straight wings extending from the fuselage at a low angle."
+        ],
+        "Winglet Presence": [
+            "Cessna 560, which does not have winglets.",
+            "Cessna 560, which has small winglets on the wingtips."
+        ],
+        "Engine Configuration": [
+            "Cessna 560, which has a single engine in the nose.",
+            "Cessna 560, which has a twin-engine configuration."
+        ],
+        "Number of Engines": [
+            "Cessna 560, which has a single engine.",
+            "Cessna 560, which has only one engine in the nose."
+        ],
+        "Fuselage Length": [
+            "Cessna 560, which has a short fuselage.",
+            "Cessna 560, which has a streamlined fuselage."
+        ],
+        "Fuselage shape": [
+            "Cessna 560, which has a cylindrical fuselage with a rounded front section.",
+            "Cessna 560, which has a fuselage with a tapering rear section for aerodynamic purposes."
+        ],
+        "Wingspan": [
+            "Cessna 560, which has a medium wingspan.",
+            "Cessna 560, which has a narrow wingspan."
+        ]
+    },
+    "Challenger 600": {
+        "Wing Configuration": [
+            "Challenger 600, which has a low wing configuration where the wings are positioned below the fuselage.",
+            "Challenger 600, which has a swept-back wing configuration for aerodynamic efficiency."
+        ],
+        "Winglet Presence": [
+            "Challenger 600, which has winglets on the wingtips.",
+            "Challenger 600, which does not have winglets."
+        ],
+        "Engine Configuration": [
+            "Challenger 600, which has two engines mounted on the tail section.",
+            "Challenger 600, which has engines mounted on the rear fuselage."
+        ],
+        "Number of Engines": [
+            "Challenger 600, which has two engines.",
+            "Challenger 600, which has multiple engines."
+        ],
+        "Fuselage Length": [
+            "Challenger 600, which has a long fuselage.",
+            "Challenger 600, which has a sleek fuselage."
+        ],
+        "Fuselage shape": [
+            "Challenger 600, which has a sleek, streamlined fuselage shape for reduced drag and increased speed.",
+            "Challenger 600, which has a wide-body fuselage design for spacious cabin accommodations."
+        ],
+        "Wingspan": [
+            "Challenger 600, which has a wide wingspan.",
+            "Challenger 600, which has a long wingspan."
+        ]
+    },
+    "DC-10": {
+        "Wing Configuration": [
+            "DC-10, which features a distinctive trijet configuration with an engine mounted on the tail.",
+            "DC-10, which has swept-back wings with high aspect ratio for efficient lift and stability."
+        ],
+        "Winglet Presence": [
+            "DC-10, which does not have winglets.",
+            "DC-10, which has small winglets on the wingtips."
+        ],
+        "Engine Configuration": [
+            "DC-10, which has three engines in the tail section.",
+            "DC-10, which has two underwing engines and one engine in the tail section."
+        ],
+        "Number of Engines": [
+            "DC-10, which has three engines.",
+            "DC-10, which has multiple engines."
+        ],
+        "Fuselage Length": [
+            "DC-10, which has a long fuselage.",
+            "DC-10, which has a sleek fuselage."
+        ],
+        "Fuselage shape": [
+            "DC-10, which has a wide-body fuselage design for increased passenger capacity.",
+            "DC-10, which features a cylindrical fuselage with smooth contours for aerodynamic efficiency."
+        ],
+        "Wingspan": [
+            "DC-10, which has a long wingspan.",
+            "DC-10, which has a wide wingspan."
+        ]
+    },
+    "DC-3": {
+        "Wing Configuration": [
+            "DC-3, which features low-wing configuration with wings attached to the bottom of the fuselage.",
+            "DC-3, which showcases straight, rectangular wings with minimal sweepback for stable flight.",
+            "DC-3, which exhibits a wing with a moderate aspect ratio, providing efficient lift."
+        ],
+        "Winglet Presence": [
+            "DC-3, which does not have winglets.",
+            "DC-3, which has small winglets on the wingtips."
+        ],
+        "Engine Configuration": [
+            "DC-3, which has two underwing engines.",
+            "DC-3, which has radial engines in the wing."
+        ],
+        "Number of Engines": [
+            "DC-3, which has two engines.",
+            "DC-3, which has multiple engines."
+        ],
+        "Fuselage Length": [
+            "DC-3, which has a short fuselage.",
+            "DC-3, which has a compact fuselage."
+        ],
+        "Fuselage shape": [
+            "DC-3, which has a semi-monocoque fuselage structure for strength and lightness.",
+            "DC-3, featuring a fuselage with a slight taper towards the tail for streamlined airflow.",
+            "DC-3, with a cylindrical fuselage design for spacious passenger or cargo capacity."
+        ],
+        "Wingspan": [
+            "DC-3, which has a wide wingspan.",
+            "DC-3, which has a long wingspan."
+        ]
+    },
+    "DC-6": {
+        "Wing Configuration": [
+            "DC-6, which has low-wing configuration where the wings are mounted below the fuselage.",
+            "DC-6, which has straight wings with significant dihedral angle for stability."
+        ],
+        "Winglet Presence": [
+            "DC-6, which has winglets on the wingtips.",
+            "DC-6, which does not have winglets."
+        ],
+        "Engine Configuration": [
+            "DC-6, which has four underwing engines.",
+            "DC-6, which has two underwing engines and two engines in the tail section."
+        ],
+        "Number of Engines": [
+            "DC-6, which has four engines.",
+            "DC-6, which has multiple engines."
+        ],
+        "Fuselage Length": [
+            "DC-6, which has a long fuselage.",
+            "DC-6, which has a sleek fuselage."
+        ],
+        "Fuselage shape": [
+            "DC-6, which has a cylindrical fuselage for optimum aerodynamics and internal space.",
+            "DC-6, which has a fuselage with gradual tapering towards the tail section."
+        ],
+        "Wingspan": [
+            "DC-6, which has a long wingspan.",
+            "DC-6, which has a wide wingspan."
+        ]
+    },
+    "DC-8": {
+        "Wing Configuration": [
+            "DC-8, which has a swept-back wing design that enhances aerodynamics for long-haul flights.",
+            "DC-8, which features wings with a high aspect ratio for efficient fuel consumption."
+        ],
+        "Winglet Presence": [
+            "DC-8, which has winglets on the wingtips.",
+            "DC-8, which does not have winglets."
+        ],
+        "Engine Configuration": [
+            "DC-8, which has four underwing engines.",
+            "DC-8, which has two underwing engines and two engines in the tail section."
+        ],
+        "Number of Engines": [
+            "DC-8, which has four engines.",
+            "DC-8, which has multiple engines."
+        ],
+        "Fuselage Length": [
+            "DC-8, which has a long fuselage.",
+            "DC-8, which has a sleek fuselage."
+        ],
+        "Fuselage shape": [
+            "DC-8, which has a narrow fuselage cross-section optimized for high-speed cruise performance.",
+            "DC-8, which features a cylindrical fuselage design with a pronounced nose cone."
+        ],
+        "Wingspan": [
+            "DC-8, which has a long wingspan.",
+            "DC-8, which has a wide wingspan."
+        ]
+    },
+    "DC-9-30": {
+        "Wing Configuration": [
+            "DC-9-30, which has low wing configuration that is mounted near the bottom of the fuselage.",
+            "DC-9-30, which has swept-back wings for aerodynamic efficiency."
+        ],
+        "Winglet Presence": [
+            "DC-9-30, which does not have winglets.",
+            "DC-9-30, which has small winglets on the wingtips."
+        ],
+        "Engine Configuration": [
+            "DC-9-30, which has two rear-mounted engines.",
+            "DC-9-30, which has engines mounted on the rear fuselage."
+        ],
+        "Number of Engines": [
+            "DC-9-30, which has two engines.",
+            "DC-9-30, which has dual engines."
+        ],
+        "Fuselage Length": [
+            "DC-9-30, which has a long fuselage.",
+            "DC-9-30, which has a streamlined fuselage."
+        ],
+        "Fuselage shape": [
+            "DC-9-30, which has a narrow and slender fuselage for efficient aerodynamics.",
+            "DC-9-30, which has a cylindrical fuselage with a sleek profile."
+        ],
+        "Wingspan": [
+            "DC-9-30, which has a moderate wingspan.",
+            "DC-9-30, which has a relatively short wingspan."
+        ]
+    },
+    "DH-82": {
+        "Wing Configuration": [
+            "DH-82, which features a biplane wing configuration with two sets of wings stacked vertically for added lift.",
+            "DH-82, which showcases a high-wing configuration where the wings are mounted on the top of the fuselage for stability."
+        ],
+        "Winglet Presence": [
+            "DH-82, which does not have winglets.",
+            "DH-82, which has straight wingtips."
+        ],
+        "Engine Configuration": [
+            "DH-82, which has a single engine located in the front.",
+            "DH-82, which has a nose-mounted engine."
+        ],
+        "Number of Engines": [
+            "DH-82, which has a single engine.",
+            "DH-82, which has one engine."
+        ],
+        "Fuselage Length": [
+            "DH-82, which has a compact fuselage.",
+            "DH-82, which has a short fuselage."
+        ],
+        "Fuselage shape": [
+            "DH-82, which has a slender fuselage with a rounded cross-section for reduced drag.",
+            "DH-82, which features a boxy fuselage shape providing ample space for passengers or cargo."
+        ],
+        "Wingspan": [
+            "DH-82, which has a relatively short wingspan.",
+            "DH-82, which has a narrow wingspan."
+        ]
+    },
+    "DHC-1": {
+        "Wing Configuration": [
+            "DHC-1, which has a high-wing configuration for stability and ease of maintenance.",
+            "DHC-1, which has straight, tapered wings for efficient lift generation."
+        ],
+        "Winglet Presence": [
+            "DHC-1, which does not have winglets.",
+            "DHC-1, which does not have winglets on the wingtips."
+        ],
+        "Engine Configuration": [
+            "DHC-1, which has a single engine in the nose.",
+            "DHC-1, which has one engine in the nose and another in the tail section."
+        ],
+        "Number of Engines": [
+            "DHC-1, which has one engine.",
+            "DHC-1, which has a single engine."
+        ],
+        "Fuselage Length": [
+            "DHC-1, which has a short fuselage.",
+            "DHC-1, which has a compact fuselage."
+        ],
+        "Fuselage shape": [
+            "DHC-1, which has a slender, streamlined fuselage for reduced drag.",
+            "DHC-1, which has a narrow fuselage widening towards the cockpit."
+        ],
+        "Wingspan": [
+            "DHC-1, which has a short wingspan.",
+            "DHC-1, which has a narrow wingspan."
+        ]
+    },
+    "DHC-6": {
+        "Wing Configuration": [
+            "DHC-6, which features high wings attached above the fuselage for stability and consistent performance.",
+            "DHC-6, which showcases straight wings positioned on top of the fuselage for optimal lift and maneuverability."
+        ],
+        "Winglet Presence": [
+            "DHC-6, which does not have winglets.",
+            "DHC-6, which has small winglets on the wingtips."
+        ],
+        "Engine Configuration": [
+            "DHC-6, which has two engines mounted on the wings.",
+            "DHC-6, which has two engines mounted in the nose section."
+        ],
+        "Number of Engines": [
+            "DHC-6, which has two engines.",
+            "DHC-6, which has multiple engines."
+        ],
+        "Fuselage Length": [
+            "DHC-6, which has a compact fuselage.",
+            "DHC-6, which has a short fuselage."
+        ],
+        "Fuselage shape": [
+            "DHC-6, which has a slender fuselage that allows for efficient airflow and aerodynamic performance.",
+            "DHC-6, which showcases a streamlined fuselage shape for reduced drag and improved fuel efficiency."
+        ],
+        "Wingspan": [
+            "DHC-6, which has a relatively short wingspan.",
+            "DHC-6, which has a moderate wingspan."
+        ]
+    },
+    "DHC-8-100": {
+        "Wing Configuration": [
+            "DHC-8-100, which features high-wing configuration for enhanced lift and stability.",
+            "DHC-8-100, which has straight wings positioned above the fuselage.",
+            "DHC-8-100, which showcases wings attached near the top of the fuselage.",
+            "DHC-8-100, which exhibits a swept wing design for improved aerodynamics.",
+            "DHC-8-100, which displays wings with minimal dihedral angle for efficient flight."
+        ],
+        "Winglet Presence": [
+            "DHC-8-100, which does not have winglets on the wingtips.",
+            "DHC-8-100, which does not have winglets."
+        ],
+        "Engine Configuration": [
+            "DHC-8-100, which has two engines located in the tail section.",
+            "DHC-8-100, which has two engines mounted on the wings."
+        ],
+        "Number of Engines": [
+            "DHC-8-100, which has two engines.",
+            "DHC-8-100, which has multiple engines."
+        ],
+        "Fuselage Length": [
+            "DHC-8-100, which has a moderate fuselage length.",
+            "DHC-8-100, which has a proportional fuselage length."
+        ],
+        "Fuselage shape": [
+            "DHC-8-100, which exhibits a slender fuselage profile for reduced aerodynamic drag.",
+            "DHC-8-100, which features a fuselage with oval cross-section for passenger comfort and efficient space utilization.",
+            "DHC-8-100, which has a fuselage design optimized for regional passenger transport.",
+            "DHC-8-100, which showcases a fuselage constructed of lightweight materials for fuel efficiency.",
+            "DHC-8-100, which sports a fuselage with minimal curvature for ease of maintenance."
+        ],
+        "Wingspan": [
+            "DHC-8-100, which has a relatively short wingspan.",
+            "DHC-8-100, which has a compact wingspan."
+        ]
+    },
+    "DHC-8-300": {
+        "Wing Configuration": [
+            "DHC-8-300, which has high-mounted straight wings for efficient lift during takeoff and landing.",
+            "DHC-8-300, which has swept wings for improved aerodynamics and fuel efficiency."
+        ],
+        "Winglet Presence": [
+            "DHC-8-300, which has winglets on the wingtips.",
+            "DHC-8-300, which does not have winglets."
+        ],
+        "Engine Configuration": [
+            "DHC-8-300, which has two underwing engines.",
+            "DHC-8-300, which has two engines in the tail section."
+        ],
+        "Number of Engines": [
+            "DHC-8-300, which has two engines.",
+            "DHC-8-300, which has multiple engines."
+        ],
+        "Fuselage Length": [
+            "DHC-8-300, which has a short fuselage.",
+            "DHC-8-300, which has a compact fuselage."
+        ],
+        "Fuselage shape": [
+            "DHC-8-300, which has a sleek, tubular fuselage design for reduced aerodynamic drag.",
+            "DHC-8-300, which has a wide-body fuselage for increased passenger capacity and comfort."
+        ],
+        "Wingspan": [
+            "DHC-8-300, which has a short wingspan.",
+            "DHC-8-300, which has a narrow wingspan."
+        ]
+    },
+    "DR-400": {
+        "Wing Configuration": [
+            "DR-400, which has high-wing configuration with the wings mounted above the fuselage for enhanced stability.",
+            "DR-400, which has straight wings with no dihedral angle for optimal lift.",
+            "DR-400, which has constant chord wings extending from the fuselage.",
+            "DR-400, which has wings with minimal sweepback design for efficient flight."
+        ],
+        "Winglet Presence": [
+            "DR-400, which does not have winglets.",
+            "DR-400, which has small winglets on the wingtips."
+        ],
+        "Engine Configuration": [
+            "DR-400, which has a single engine in the nose.",
+            "DR-400, which has a single engine in the nose and one engine in the tail section."
+        ],
+        "Number of Engines": [
+            "DR-400, which has a single engine.",
+            "DR-400, which has one engine."
+        ],
+        "Fuselage Length": [
+            "DR-400, which has a long fuselage.",
+            "DR-400, which has a compact fuselage."
+        ],
+        "Fuselage shape": [
+            "DR-400, which has a slender fuselage shape for aerodynamic efficiency.",
+            "DR-400, which has a fuselage design with a curved, sleek profile.",
+            "DR-400, which has a fuselage that tapers towards the tail for reduced drag.",
+            "DR-400, which has a fuselage with minimal bulges or external attachments."
+        ],
+        "Wingspan": [
+            "DR-400, which has a long wingspan.",
+            "DR-400, which has a narrow wingspan."
+        ]
+    },
+    "Dornier 328": {
+        "Wing Configuration": [
+            "Dornier 328, which features high-wing configuration where the wings are mounted at the top of the fuselage.",
+            "Dornier 328, which showcases a straight wing design that enhances lift and stability."
+        ],
+        "Winglet Presence": [
+            "Dornier 328, which has winglets on the wingtips.",
+            "Dornier 328, which does not have winglets."
+        ],
+        "Engine Configuration": [
+            "Dornier 328, which has two engines in the tail section.",
+            "Dornier 328, which has two underwing engines."
+        ],
+        "Number of Engines": [
+            "Dornier 328, which has two engines.",
+            "Dornier 328, which has multiple engines."
+        ],
+        "Fuselage Length": [
+            "Dornier 328, which has a compact fuselage.",
+            "Dornier 328, which has a short fuselage."
+        ],
+        "Fuselage shape": [
+            "Dornier 328, which has a fuselage that is elongated and slender, optimizing aerodynamic performance.",
+            "Dornier 328, which features a fuselage with a pronounced taper towards the rear for reduced drag."
+        ],
+        "Wingspan": [
+            "Dornier 328, which has a moderate wingspan.",
+            "Dornier 328, which has a narrow wingspan."
+        ]
+    },
+    "E-170": {
+        "Wing Configuration": [
+            "E-170, which has a swept-back wing configuration for improved aerodynamics.",
+            "E-170, which has high-mounted wings for increased stability."
+        ],
+        "Winglet Presence": [
+            "E-170, which has winglets on the wingtips.",
+            "E-170, which does not have winglets."
+        ],
+        "Engine Configuration": [
+            "E-170, which has two underwing engines.",
+            "E-170, which has engines in the rear fuselage."
+        ],
+        "Number of Engines": [
+            "E-170, which has two engines.",
+            "E-170, which has a pair of engines in the rear fuselage."
+        ],
+        "Fuselage Length": [
+            "E-170, which has a short fuselage.",
+            "E-170, which has a compact fuselage."
+        ],
+        "Fuselage shape": [
+            "E-170, which has a slim fuselage design for reduced drag and improved fuel efficiency.",
+            "E-170, which has a fuselage with a pronounced taper towards the tail section."
+        ],
+        "Wingspan": [
+            "E-170, which has a relatively short wingspan.",
+            "E-170, which has a moderate wingspan."
+        ]
+    },
+    "E-190": {
+        "Wing Configuration": [
+            "E-190, which has high-mounted wings positioned above the fuselage for stability and improved lift.",
+            "E-190, which has wings attached closer to the top of the fuselage, enhancing visibility from the cockpit."
+        ],
+        "Winglet Presence": [
+            "E-190, which has winglets on the wingtips.",
+            "E-190, which does not have winglets."
+        ],
+        "Engine Configuration": [
+            "E-190, which has two underwing engines.",
+            "E-190, which has engines mounted on the rear fuselage."
+        ],
+        "Number of Engines": [
+            "E-190, which has two engines.",
+            "E-190, which has multiple engines."
+        ],
+        "Fuselage Length": [
+            "E-190, which has a compact fuselage.",
+            "E-190, which has a relatively long fuselage."
+        ],
+        "Fuselage shape": [
+            "E-190, which has a streamlined, narrow fuselage for reduced air resistance and improved aerodynamics.",
+            "E-190, which has a fuselage shaped for passenger comfort, providing ample interior space for seating and amenities."
+        ],
+        "Wingspan": [
+            "E-190, which has a moderate wingspan.",
+            "E-190, which has a relatively short wingspan."
+        ]
+    },
+    "E-195": {
+        "Wing Configuration": [
+            "E-195, which has a high-wing configuration where the wings are attached to the top of the fuselage.",
+            "E-195, which has a swept-back wing design for improved aerodynamics."
+        ],
+        "Winglet Presence": [
+            "E-195, which does not have winglets.",
+            "E-195, which has winglets on the wingtips."
+        ],
+        "Engine Configuration": [
+            "E-195, which has two underwing engines.",
+            "E-195, which has two engines in the tail section."
+        ],
+        "Number of Engines": [
+            "E-195, which has two engines.",
+            "E-195, which has multiple engines."
+        ],
+        "Fuselage Length": [
+            "E-195, which has a sleek fuselage.",
+            "E-195, which has a long fuselage."
+        ],
+        "Fuselage shape": [
+            "E-195, which has a sleek and elongated fuselage for aerodynamic efficiency.",
+            "E-195, which features a wide-body fuselage design for increased passenger capacity."
+        ],
+        "Wingspan": [
+            "E-195, which has a wide wingspan.",
+            "E-195, which has a long wingspan."
+        ]
+    },
+    "EMB-120": {
+        "Wing Configuration": [
+            "EMB-120, which has a high-mounted wing configuration for stability and efficient lift.",
+            "EMB-120, which has a swept-back wing design for improved aerodynamics and speed."
+        ],
+        "Winglet Presence": [
+            "EMB-120, which has winglets on the wingtips.",
+            "EMB-120, which does not have winglets."
+        ],
+        "Engine Configuration": [
+            "EMB-120, which has two engines mounted on top of the fuselage.",
+            "EMB-120, which has two engines mounted on the wings."
+        ],
+        "Number of Engines": [
+            "EMB-120, which has two engines.",
+            "EMB-120, which has multiple engines."
+        ],
+        "Fuselage Length": [
+            "EMB-120, which has a relatively short fuselage.",
+            "EMB-120, which has a compact fuselage."
+        ],
+        "Fuselage shape": [
+            "EMB-120, which has a sleek, streamlined fuselage design for reduced drag and fuel efficiency.",
+            "EMB-120, which features a fuselage with a bulbous nose for increased cargo capacity."
+        ],
+        "Wingspan": [
+            "EMB-120, which has a relatively short wingspan.",
+            "EMB-120, which has a narrow wingspan."
+        ]
+    },
+    "ERJ 135": {
+        "Wing Configuration": [
+            "ERJ 135, which has swept wings that angle backward from the fuselage for efficient aerodynamics.",
+            "ERJ 135, which has mid-mounted wings that are positioned halfway up the fuselage for stability."
+        ],
+        "Winglet Presence": [
+            "ERJ 135, which does not have winglets.",
+            "ERJ 135, which does not have winglets on the wingtips."
+        ],
+        "Engine Configuration": [
+            "ERJ 135, which has two underwing engines.",
+            "ERJ 135, which has two engines in the tail section."
+        ],
+        "Number of Engines": [
+            "ERJ 135, which has two engines.",
+            "ERJ 135, which has multiple engines."
+        ],
+        "Fuselage Length": [
+            "ERJ 135, which has a short fuselage.",
+            "ERJ 135, which has a sleek fuselage."
+        ],
+        "Fuselage shape": [
+            "ERJ 135, which has a narrow cylindrical fuselage that minimizes air resistance for fuel efficiency.",
+            "ERJ 135, which has a fuselage with a slight taper towards the tail, enhancing overall aerodynamics."
+        ],
+        "Wingspan": [
+            "ERJ 135, which has a relatively short wingspan.",
+            "ERJ 135, which has a compact wingspan."
+        ]
+    },
+    "ERJ 145": {
+        "Wing Configuration": [
+            "ERJ 145, which features high-mounted wings located above the fuselage.",
+            "ERJ 145, which has swept-back wings for improved aerodynamics."
+        ],
+        "Winglet Presence": [
+            "ERJ 145, which does not have winglets.",
+            "ERJ 145, which has winglets on the wingtips."
+        ],
+        "Engine Configuration": [
+            "ERJ 145, which has two engines in the tail section.",
+            "ERJ 145, which has engines inside the main fuselage."
+        ],
+        "Number of Engines": [
+            "ERJ 145, which has two engines.",
+            "ERJ 145, which has multiple engines."
+        ],
+        "Fuselage Length": [
+            "ERJ 145, which has a short fuselage.",
+            "ERJ 145, which has a streamlined fuselage."
+        ],
+        "Fuselage shape": [
+            "ERJ 145, which has a sleek, narrow fuselage for enhanced aerodynamics.",
+            "ERJ 145, which features a fuselage with a pronounced taper towards the tail."
+        ],
+        "Wingspan": [
+            "ERJ 145, which has a relatively short wingspan.",
+            "ERJ 145, which has a compact wingspan."
+        ]
+    },
+    "Embraer Legacy 600": {
+        "Wing Configuration": [
+            "Embraer Legacy 600, which has swept-back wings with a high aspect ratio for improved efficiency and stability.",
+            "Embraer Legacy 600, which has wings positioned low on the fuselage for ease of access and loading."
+        ],
+        "Winglet Presence": [
+            "Embraer Legacy 600, which has small winglets at the end of the wings.",
+            "Embraer Legacy 600, which does not have winglets."
+        ],
+        "Engine Configuration": [
+            "Embraer Legacy 600, which has two rear-mounted engines.",
+            "Embraer Legacy 600, which has engines mounted at the rear of the fuselage."
+        ],
+        "Number of Engines": [
+            "Embraer Legacy 600, which has two engines.",
+            "Embraer Legacy 600, which has a pair of engines."
+        ],
+        "Fuselage Length": [
+            "Embraer Legacy 600, which has a sleek fuselage.",
+            "Embraer Legacy 600, which has a streamlined fuselage."
+        ],
+        "Fuselage shape": [
+            "Embraer Legacy 600, which has a streamlined fuselage with a slight taper towards the rear for aerodynamic performance.",
+            "Embraer Legacy 600, which has a fuselage with elliptical cross-section for optimal cabin space and aerodynamic efficiency."
+        ],
+        "Wingspan": [
+            "Embraer Legacy 600, which has a spacious wingspan.",
+            "Embraer Legacy 600, which has a long wingspan."
+        ]
+    },
+    "Eurofighter Typhoon": {
+        "Wing Configuration": [
+            "Eurofighter Typhoon, which features delta wings for high maneuverability and agility.",
+            "Eurofighter Typhoon, which has swept-back wings for increased speed and efficiency."
+        ],
+        "Winglet Presence": [
+            "Eurofighter Typhoon, which has winglets on the wingtips.",
+            "Eurofighter Typhoon, which does not have winglets."
+        ],
+        "Engine Configuration": [
+            "Eurofighter Typhoon, which has two engines.",
+            "Eurofighter Typhoon, which has a single engine."
+        ],
+        "Number of Engines": [
+            "Eurofighter Typhoon, which has two engines.",
+            "Eurofighter Typhoon, which has a single engine."
+        ],
+        "Fuselage Length": [
+            "Eurofighter Typhoon, which has a sleek fuselage.",
+            "Eurofighter Typhoon, which has a compact fuselage."
+        ],
+        "Fuselage shape": [
+            "Eurofighter Typhoon, which features a slender fuselage for reduced air resistance.",
+            "Eurofighter Typhoon, which has a fuselage designed for high-speed capabilities."
+        ],
+        "Wingspan": [
+            "Eurofighter Typhoon, which has a wide wingspan.",
+            "Eurofighter Typhoon, which has a long wingspan."
+        ]
+    },
+    "F-16A/B": {
+        "Wing Configuration": [
+            "F-16A/B, which has a delta wing configuration with sharply-tapered, swept-back wings for enhanced agility.",
+            "F-16A/B, which has high-mounted, trapezoidal wings for stability and maneuverability.",
+            "F-16A/B, which has wings with noticeable anhedral angle for improved roll control."
+        ],
+        "Winglet Presence": [
+            "F-16A/B, which has no winglets.",
+            "F-16A/B, which does not have winglets."
+        ],
+        "Engine Configuration": [
+            "F-16A/B, which has a single engine.",
+            "F-16A/B, which has a rear-mounted engine."
+        ],
+        "Number of Engines": [
+            "F-16A/B, which has one engine.",
+            "F-16A/B, which is powered by a single engine."
+        ],
+        "Fuselage Length": [
+            "F-16A/B, which has a fuselage that is relatively short.",
+            "F-16A/B, which has a fuselage that is sleek."
+        ],
+        "Fuselage shape": [
+            "F-16A/B, which has a slender, streamlined fuselage designed for high-speed performance and reduced drag.",
+            "F-16A/B, which has a fuselage with blended contours for improved aerodynamics."
+        ],
+        "Wingspan": [
+            "F-16A/B, which has a wingspan that is relatively short.",
+            "F-16A/B, which has a wingspan that is compact."
+        ]
+    },
+    "F/A-18": {
+        "Wing Configuration": [
+            "F/A-18, which has trapezoidal-shaped wings with wingtip extensions for enhanced agility during flight.",
+            "F/A-18, which has low, mid-mounted wings with leading-edge extensions for improved lift and maneuverability."
+        ],
+        "Winglet Presence": [
+            "F/A-18, which has winglets on the wingtips.",
+            "F/A-18, which does not have winglets."
+        ],
+        "Engine Configuration": [
+            "F/A-18, which has two engines mounted on the airframe.",
+            "F/A-18, which has two engines in the tail section."
+        ],
+        "Number of Engines": [
+            "F/A-18, which has two engines.",
+            "F/A-18, which has multiple engines."
+        ],
+        "Fuselage Length": [
+            "F/A-18, which has a compact fuselage.",
+            "F/A-18, which has a sleek fuselage."
+        ],
+        "Fuselage shape": [
+            "F/A-18, which features a slender, streamlined fuselage for reduced air resistance and improved aerodynamics.",
+            "F/A-18, which has a fuselage that tapers towards the rear for speed and maneuverability."
+        ],
+        "Wingspan": [
+            "F/A-18, which has a relatively short wingspan.",
+            "F/A-18, which has a moderate wingspan."
+        ]
+    },
+    "Falcon 2000": {
+        "Wing Configuration": [
+            "Falcon 2000, which features swept-back wings for improved aerodynamics.",
+            "Falcon 2000, which has winglets for enhanced fuel efficiency.",
+            "Falcon 2000, which showcases a high aspect ratio wing design for increased lift."
+        ],
+        "Winglet Presence": [
+            "Falcon 2000, which has winglets on the wingtips.",
+            "Falcon 2000, which does not have winglets."
+        ],
+        "Engine Configuration": [
+            "Falcon 2000, which has two engines on the tail section.",
+            "Falcon 2000, which has two engines under the wings."
+        ],
+        "Number of Engines": [
+            "Falcon 2000, which has two engines.",
+            "Falcon 2000, which has dual engines."
+        ],
+        "Fuselage Length": [
+            "Falcon 2000, which has a long fuselage.",
+            "Falcon 2000, which has a sleek fuselage."
+        ],
+        "Fuselage shape": [
+            "Falcon 2000, which has a streamlined fuselage for reduced aerodynamic drag.",
+            "Falcon 2000, which features a wide-body fuselage for enhanced passenger comfort."
+        ],
+        "Wingspan": [
+            "Falcon 2000, which has a long wingspan.",
+            "Falcon 2000, which has a wide wingspan."
+        ]
+    },
+    "Falcon 900": {
+        "Wing Configuration": [
+            "Falcon 900, which has a swept-back wing design for improved aerodynamics.",
+            "Falcon 900, which features high-mounted wings for stability and maneuverability."
+        ],
+        "Winglet Presence": [
+            "Falcon 900, which has winglets on the wingtips.",
+            "Falcon 900, which does not have winglets."
+        ],
+        "Engine Configuration": [
+            "Falcon 900, which has three rear-mounted engines.",
+            "Falcon 900, which has engines mounted on the rear fuselage."
+        ],
+        "Number of Engines": [
+            "Falcon 900, which has three engines.",
+            "Falcon 900, which has multiple engines."
+        ],
+        "Fuselage Length": [
+            "Falcon 900, which has a sleek fuselage.",
+            "Falcon 900, which has a long fuselage."
+        ],
+        "Fuselage shape": [
+            "Falcon 900, which has a streamlined fuselage for reduced drag and enhanced performance.",
+            "Falcon 900, which features a wide-body fuselage design for increased cabin space and comfort."
+        ],
+        "Wingspan": [
+            "Falcon 900, which has a wide wingspan.",
+            "Falcon 900, which has a long wingspan."
+        ]
+    },
+    "Fokker 100": {
+        "Wing Configuration": [
+            "Fokker 100, which has a low-wing configuration with wing mounted engines.",
+            "Fokker 100, which features a swept-back wing design for aerodynamic efficiency."
+        ],
+        "Winglet Presence": [
+            "Fokker 100, which does not have winglets.",
+            "Fokker 100, which has small winglets on the wingtips."
+        ],
+        "Engine Configuration": [
+            "Fokker 100, which has two engines located at the rear of the fuselage.",
+            "Fokker 100, which has two engines mounted under the wings."
+        ],
+        "Number of Engines": [
+            "Fokker 100, which has two engines.",
+            "Fokker 100, which has a pair of engines."
+        ],
+        "Fuselage Length": [
+            "Fokker 100, which has a relatively short fuselage length.",
+            "Fokker 100, which has a compact fuselage length."
+        ],
+        "Fuselage shape": [
+            "Fokker 100, which has a narrow, cylindrical fuselage with a smooth profile for efficient flight.",
+            "Fokker 100, which features a fuselage that widens towards the rear for spacious cabin layout."
+        ],
+        "Wingspan": [
+            "Fokker 100, which has a moderate wingspan.",
+            "Fokker 100, which has a wingspan of medium length."
+        ]
+    },
+    "Fokker 50": {
+        "Wing Configuration": [
+            "Fokker 50, which has high-mounted wings providing stability during flight.",
+            "Fokker 50, which has wings placed mid-fuselage for efficient lift.",
+            "Fokker 50, which has straight wings for simplicity in design and operational flexibility."
+        ],
+        "Winglet Presence": [
+            "Fokker 50, which does not have winglets.",
+            "Fokker 50, which has small winglets on the wingtips."
+        ],
+        "Engine Configuration": [
+            "Fokker 50, which has two engines on the wings.",
+            "Fokker 50, which has propeller engines on the wings."
+        ],
+        "Number of Engines": [
+            "Fokker 50, which has two engines.",
+            "Fokker 50, which has a twin-engine configuration."
+        ],
+        "Fuselage Length": [
+            "Fokker 50, which has a compact fuselage.",
+            "Fokker 50, which has a relatively short fuselage."
+        ],
+        "Fuselage shape": [
+            "Fokker 50, which has a tubular fuselage design for structural strength and spacious cabin interior.",
+            "Fokker 50, which has a slim fuselage profile for aerodynamic efficiency."
+        ],
+        "Wingspan": [
+            "Fokker 50, which has a relatively short wingspan.",
+            "Fokker 50, which has straight wings with a moderate wingspan."
+        ]
+    },
+    "Fokker 70": {
+        "Wing Configuration": [
+            "Fokker 70, which has a swept-wing configuration for efficient high-speed flight.",
+            "Fokker 70, which has wings positioned mid-fuselage for stability and balance.",
+            "Fokker 70, which has narrow, high aspect ratio wings for improved aerodynamics."
+        ],
+        "Winglet Presence": [
+            "Fokker 70, which has winglets on the wingtips.",
+            "Fokker 70, which does not have winglets."
+        ],
+        "Engine Configuration": [
+            "Fokker 70, which has two engines in the tail section.",
+            "Fokker 70, which has engines mounted on the rear fuselage."
+        ],
+        "Number of Engines": [
+            "Fokker 70, which has two engines.",
+            "Fokker 70, which has a pair of engines."
+        ],
+        "Fuselage Length": [
+            "Fokker 70, which has a compact fuselage.",
+            "Fokker 70, which has a streamlined fuselage."
+        ],
+        "Fuselage shape": [
+            "Fokker 70, which has a sleek, slender fuselage design for aerodynamic efficiency.",
+            "Fokker 70, which has a fuselage with a pronounced taper towards the rear for reduced drag."
+        ],
+        "Wingspan": [
+            "Fokker 70, which has a medium-sized wingspan.",
+            "Fokker 70, which has a narrow wingspan."
+        ]
+    },
+    "Global Express": {
+        "Wing Configuration": [
+            "Global Express, which features a swept-back wing design for high-speed performance.",
+            "Global Express, which has wings with winglets for improved aerodynamics and fuel efficiency."
+        ],
+        "Winglet Presence": [
+            "Global Express, which has winglets on the wingtips.",
+            "Global Express, which does not have winglets."
+        ],
+        "Engine Configuration": [
+            "Global Express, which has two underwing engines.",
+            "Global Express, which has a rear-mounted engine."
+        ],
+        "Number of Engines": [
+            "Global Express, which has two engines.",
+            "Global Express, which has multiple engines."
+        ],
+        "Fuselage Length": [
+            "Global Express, which has a sleek fuselage.",
+            "Global Express, which has a long fuselage."
+        ],
+        "Fuselage shape": [
+            "Global Express, which has a streamlined fuselage for aerodynamic efficiency.",
+            "Global Express, which features a wide-body fuselage for increased cabin space and passenger comfort."
+        ],
+        "Wingspan": [
+            "Global Express, which has a wide wingspan.",
+            "Global Express, which has a long wingspan."
+        ]
+    },
+    "Gulfstream IV": {
+        "Wing Configuration": [
+            "Gulfstream IV, which has swept-back wings for aerodynamic efficiency.",
+            "Gulfstream IV, which has high-mounted wings for stability and ground clearance."
+        ],
+        "Winglet Presence": [
+            "Gulfstream IV, which has winglets on the wingtips.",
+            "Gulfstream IV, which does not have winglets."
+        ],
+        "Engine Configuration": [
+            "Gulfstream IV, which has two engines in the tail section.",
+            "Gulfstream IV, which has engines on the rear fuselage."
+        ],
+        "Number of Engines": [
+            "Gulfstream IV, which has two engines.",
+            "Gulfstream IV, which has multiple engines."
+        ],
+        "Fuselage Length": [
+            "Gulfstream IV, which has a long fuselage.",
+            "Gulfstream IV, which has a sleek fuselage."
+        ],
+        "Fuselage shape": [
+            "Gulfstream IV, which has a sleek, streamlined fuselage for reduced drag and improved fuel efficiency.",
+            "Gulfstream IV, which features a wide-body fuselage for increased cabin space and comfort."
+        ],
+        "Wingspan": [
+            "Gulfstream IV, which has a long wingspan.",
+            "Gulfstream IV, which has a wide wingspan."
+        ]
+    },
+    "Gulfstream V": {
+        "Wing Configuration": [
+            "Gulfstream V, which has a swept-back wing design for improved aerodynamics and efficiency.",
+            "Gulfstream V, which has a high-wing configuration that provides stability and ground clearance."
+        ],
+        "Winglet Presence": [
+            "Gulfstream V, which has winglets on the wingtips.",
+            "Gulfstream V, which does not have winglets."
+        ],
+        "Engine Configuration": [
+            "Gulfstream V, which has two underwing engines and two engines in the tail section.",
+            "Gulfstream V, which has four underwing engines."
+        ],
+        "Number of Engines": [
+            "Gulfstream V, which has four engines.",
+            "Gulfstream V, which has multiple engines."
+        ],
+        "Fuselage Length": [
+            "Gulfstream V, which has a long fuselage.",
+            "Gulfstream V, which has a sleek fuselage."
+        ],
+        "Fuselage shape": [
+            "Gulfstream V, which has a sleek and elongated fuselage for reduced drag and increased speed.",
+            "Gulfstream V, which has a wide-body fuselage design for enhanced cabin comfort and spaciousness."
+        ],
+        "Wingspan": [
+            "Gulfstream V, which has a long wingspan.",
+            "Gulfstream V, which has a wide wingspan."
+        ]
+    },
+    "Hawk T1": {
+        "Wing Configuration": [
+            "Hawk T1, which features low-mounted straight wings for stability and maneuverability.",
+            "Hawk T1, which has swept-back wings for enhanced speed and agility."
+        ],
+        "Winglet Presence": [
+            "Hawk T1, which does not have winglets.",
+            "Hawk T1, which has small winglets on the wingtips."
+        ],
+        "Engine Configuration": [
+            "Hawk T1, which has a single jet engine in the rear.",
+            "Hawk T1, which has a single jet engine in the rear and two small engines on the wings."
+        ],
+        "Number of Engines": [
+            "Hawk T1, which has one engine.",
+            "Hawk T1, which has a single engine."
+        ],
+        "Fuselage Length": [
+            "Hawk T1, which has a compact fuselage.",
+            "Hawk T1, which has a streamlined fuselage."
+        ],
+        "Fuselage shape": [
+            "Hawk T1, which has a slender fuselage with smooth aerodynamic curves.",
+            "Hawk T1, which features a cylindrical fuselage for efficient airflow and structural strength."
+        ],
+        "Wingspan": [
+            "Hawk T1, which has a short wingspan.",
+            "Hawk T1, which has a narrow wingspan."
+        ]
+    },
+    "Il-76": {
+        "Wing Configuration": [
+            "Il-76, which has high-mounted wings positioned above the fuselage.",
+            "Il-76, which has swept-back wings for efficient flight performance."
+        ],
+        "Winglet Presence": [
+            "Il-76, which does not have winglets.",
+            "Il-76, which has winglets on the wingtips."
+        ],
+        "Engine Configuration": [
+            "Il-76, which has four underwing engines.",
+            "Il-76, which has two underwing engines and two engines in the tail section."
+        ],
+        "Number of Engines": [
+            "Il-76, which has four engines.",
+            "Il-76, which has multiple engines."
+        ],
+        "Fuselage Length": [
+            "Il-76, which has a long fuselage.",
+            "Il-76, which has a sleek fuselage."
+        ],
+        "Fuselage shape": [
+            "Il-76, which has a wide and cylindrical fuselage for cargo capacity.",
+            "Il-76, which has a robust, straight fuselage design for structural strength."
+        ],
+        "Wingspan": [
+            "Il-76, which has a large wingspan.",
+            "Il-76, which has a wide wingspan."
+        ]
+    },
+    "L-1011": {
+        "Wing Configuration": [
+            "L-1011, which features a low mounted wing design for stability and lift.",
+            "L-1011, which has winglets attached to the tips of the wings for improved aerodynamics."
+        ],
+        "Winglet Presence": [
+            "L-1011, which does not have winglets.",
+            "L-1011, which has small winglets on the wingtips."
+        ],
+        "Engine Configuration": [
+            "L-1011, which has three engines in the tail section.",
+            "L-1011, which has three underwing engines."
+        ],
+        "Number of Engines": [
+            "L-1011, which has three engines.",
+            "L-1011, which has multiple engines."
+        ],
+        "Fuselage Length": [
+            "L-1011, which has a long fuselage.",
+            "L-1011, which has a sleek fuselage."
+        ],
+        "Fuselage shape": [
+            "L-1011, which has a wide fuselage for increased passenger capacity.",
+            "L-1011, which features a sleek, narrow fuselage shape for improved aerodynamics."
+        ],
+        "Wingspan": [
+            "L-1011, which has a long wingspan.",
+            "L-1011, which has an impressive wingspan."
+        ]
+    },
+    "MD-11": {
+        "Wing Configuration": [
+            "MD-11, which features a swept-wing configuration for improved aerodynamics.",
+            "MD-11, which has three-engined design with a distinct wing configuration."
+        ],
+        "Winglet Presence": [
+            "MD-11, which has winglets on the wingtips.",
+            "MD-11, which does not have winglets."
+        ],
+        "Engine Configuration": [
+            "MD-11, which has three underwing engines.",
+            "MD-11, which has two underwing engines and one engine in the tail section."
+        ],
+        "Number of Engines": [
+            "MD-11, which has three engines.",
+            "MD-11, which has multiple engines."
+        ],
+        "Fuselage Length": [
+            "MD-11, which has a long fuselage.",
+            "MD-11, which has a sleek fuselage."
+        ],
+        "Fuselage shape": [
+            "MD-11, which has a wide-body fuselage for increased passenger capacity.",
+            "MD-11, which features a sleek, aerodynamic fuselage design."
+        ],
+        "Wingspan": [
+            "MD-11, which has a wide wingspan.",
+            "MD-11, which has a long wingspan."
+        ]
+    },
+    "MD-80": {
+        "Wing Configuration": [
+            "MD-80, which has a low-wing configuration with engines mounted on the wing.",
+            "MD-80, which has a swept-back wing design for aerodynamic efficiency."
+        ],
+        "Winglet Presence": [
+            "MD-80, which has winglets on the wingtips.",
+            "MD-80, which does not have winglets."
+        ],
+        "Engine Configuration": [
+            "MD-80, which has two underwing engines.",
+            "MD-80, which has engines in the tail section."
+        ],
+        "Number of Engines": [
+            "MD-80, which has two engines.",
+            "MD-80, which has multiple engines."
+        ],
+        "Fuselage Length": [
+            "MD-80, which has a long fuselage.",
+            "MD-80, which has a sleek fuselage."
+        ],
+        "Fuselage shape": [
+            "MD-80, which has a narrow, cylindrical fuselage with passenger windows along the side.",
+            "MD-80, which has a fuselage that tapers towards the rear for aerodynamic efficiency."
+        ],
+        "Wingspan": [
+            "MD-80, which has a long wingspan.",
+            "MD-80, which has a wide wingspan."
+        ]
+    },
+    "MD-87": {
+        "Wing Configuration": [
+            "MD-87, which has low-mounted wings with slight sweepback for efficient lift during flight.",
+            "MD-87, which has mid-mounted wings with a moderate aspect ratio for balanced aerodynamics."
+        ],
+        "Winglet Presence": [
+            "MD-87, which does not have winglets.",
+            "MD-87, which has small winglets on the wingtips."
+        ],
+        "Engine Configuration": [
+            "MD-87, which has two engines in the tail section.",
+            "MD-87, which has engines mounted on the rear fuselage."
+        ],
+        "Number of Engines": [
+            "MD-87, which has two engines.",
+            "MD-87, which has multiple engines."
+        ],
+        "Fuselage Length": [
+            "MD-87, which has a medium-length fuselage.",
+            "MD-87, which has a compact fuselage."
+        ],
+        "Fuselage shape": [
+            "MD-87, which has a sleek, narrow fuselage design for reduced air resistance and improved speed.",
+            "MD-87, which has a fuselage shape optimized for passenger capacity and fuel efficiency."
+        ],
+        "Wingspan": [
+            "MD-87, which has a shorter wingspan.",
+            "MD-87, which has a narrow wingspan."
+        ]
+    },
+    "MD-90": {
+        "Wing Configuration": [
+            "MD-90, which has swept-back wings that are mounted at the mid-fuselage position.",
+            "MD-90, which has high aspect ratio wings with winglets at the tips for improved aerodynamics."
+        ],
+        "Winglet Presence": [
+            "MD-90, which has winglets on the wingtips.",
+            "MD-90, which does not have winglets."
+        ],
+        "Engine Configuration": [
+            "MD-90, which has two underwing engines.",
+            "MD-90, which has two engines in the tail section."
+        ],
+        "Number of Engines": [
+            "MD-90, which has two engines.",
+            "MD-90, which has multiple engines."
+        ],
+        "Fuselage Length": [
+            "MD-90, which has a long fuselage.",
+            "MD-90, which has a sleek fuselage."
+        ],
+        "Fuselage shape": [
+            "MD-90, which has a sleek, narrow-body fuselage for reduced aerodynamic drag.",
+            "MD-90, which has a fuselage with a constant cross-section for efficient cabin layout."
+        ],
+        "Wingspan": [
+            "MD-90, which has a medium-length wingspan.",
+            "MD-90, which has a swept-back wingspan."
+        ]
+    },
+    "Metroliner": {
+        "Wing Configuration": [
+            "Metroliner, which has high-mounted wing configuration providing improved visibility and ground clearance.",
+            "Metroliner, which has straight wings aligned with the fuselage for enhanced stability."
+        ],
+        "Winglet Presence": [
+            "Metroliner, which does not have winglets.",
+            "Metroliner, which has winglets on the wingtips."
+        ],
+        "Engine Configuration": [
+            "Metroliner, which has two underwing engines.",
+            "Metroliner, which has two engines in the tail section."
+        ],
+        "Number of Engines": [
+            "Metroliner, which has two engines.",
+            "Metroliner, which has multiple engines."
+        ],
+        "Fuselage Length": [
+            "Metroliner, which has a short fuselage.",
+            "Metroliner, which has a compact fuselage."
+        ],
+        "Fuselage shape": [
+            "Metroliner, which has a slim and elongated fuselage for reduced air resistance.",
+            "Metroliner, which has a cylindrical fuselage providing ample space for passengers and cargo."
+        ],
+        "Wingspan": [
+            "Metroliner, which has a short wingspan.",
+            "Metroliner, which has a narrow wingspan."
+        ]
+    },
+    "Model B200": {
+        "Wing Configuration": [
+            "Model B200, which has high-wing configuration with the wings mounted above the fuselage.",
+            "Model B200, which has straight wings with prominent winglets at the tips."
+        ],
+        "Winglet Presence": [
+            "Model B200, which does not have winglets.",
+            "Model B200, which has small winglets on the wingtips."
+        ],
+        "Engine Configuration": [
+            "Model B200, which has two engines mounted on the wings.",
+            "Model B200, which has two engines mounted at the rear of the fuselage."
+        ],
+        "Number of Engines": [
+            "Model B200, which has two engines.",
+            "Model B200, which has multiple engines."
+        ],
+        "Fuselage Length": [
+            "Model B200, which has a compact fuselage.",
+            "Model B200, which has a streamlined fuselage."
+        ],
+        "Fuselage shape": [
+            "Model B200, which has a streamlined fuselage with a slight taper towards the tail.",
+            "Model B200, which has a cylindrical fuselage for maximizing internal space."
+        ],
+        "Wingspan": [
+            "Model B200, which has a moderate wingspan.",
+            "Model B200, which has a short wingspan."
+        ]
+    },
+    "PA-28": {
+        "Wing Configuration": [
+            "PA-28, which has a low-wing configuration where the wing is positioned below the fuselage.",
+            "PA-28, which has a straight wing design with no noticeable dihedral angle."
+        ],
+        "Winglet Presence": [
+            "PA-28, which does not have winglets on the wingtips.",
+            "PA-28, which has small winglets on the wingtips."
+        ],
+        "Engine Configuration": [
+            "PA-28, which has a single engine in the front.",
+            "PA-28, which has a piston engine in the front."
+        ],
+        "Number of Engines": [
+            "PA-28, which has a single engine.",
+            "PA-28, which has one engine."
+        ],
+        "Fuselage Length": [
+            "PA-28, which has a long fuselage.",
+            "PA-28, which has a sleek fuselage."
+        ],
+        "Fuselage shape": [
+            "PA-28, which has a cylindrical fuselage shape with a smoothly contoured body.",
+            "PA-28, which has a fuselage shape that tapers towards the tail section."
+        ],
+        "Wingspan": [
+            "PA-28, which has a relatively short wingspan.",
+            "PA-28, which has a moderate wingspan."
+        ]
+    },
+    "SR-20": {
+        "Wing Configuration": [
+            "SR-20, which has a low-wing configuration where the wings are mounted below the fuselage.",
+            "SR-20, which has a cantilever wing design with no external supports for a sleek appearance."
+        ],
+        "Winglet Presence": [
+            "SR-20, which does not have winglets.",
+            "SR-20, which has no winglet attachments."
+        ],
+        "Engine Configuration": [
+            "SR-20, which has a single engine mounted in the nose.",
+            "SR-20, which has a front-mounted engine with a pusher configuration."
+        ],
+        "Number of Engines": [
+            "SR-20, which has a single engine.",
+            "SR-20, which is powered by one engine."
+        ],
+        "Fuselage Length": [
+            "SR-20, which has a short fuselage.",
+            "SR-20, which has a compact fuselage."
+        ],
+        "Fuselage shape": [
+            "SR-20, which has a sleek, aerodynamic fuselage for efficient flight.",
+            "SR-20, which has a narrow fuselage design to reduce drag and improve performance."
+        ],
+        "Wingspan": [
+            "SR-20, which has a medium wingspan.",
+            "SR-20, which has a moderate wingspan."
+        ]
+    },
+    "Saab 2000": {
+        "Wing Configuration": [
+            "Saab 2000, which has high-wing configuration where the wings are mounted on the upper part of the fuselage.",
+            "Saab 2000, which has straight wings with no dihedral angle for stability."
+        ],
+        "Winglet Presence": [
+            "Saab 2000, which has winglets on the wingtips.",
+            "Saab 2000, which does not have winglets."
+        ],
+        "Engine Configuration": [
+            "Saab 2000, which has two underwing engines.",
+            "Saab 2000, which has two engines in the tail section."
+        ],
+        "Number of Engines": [
+            "Saab 2000, which has two engines.",
+            "Saab 2000, which has multiple engines."
+        ],
+        "Fuselage Length": [
+            "Saab 2000, which has a long fuselage.",
+            "Saab 2000, which has a sleek fuselage."
+        ],
+        "Fuselage shape": [
+            "Saab 2000, which has a slim fuselage design for aerodynamic efficiency.",
+            "Saab 2000, which has a fuselage with a slight taper towards the rear for streamlined airflow."
+        ],
+        "Wingspan": [
+            "Saab 2000, which has a long wingspan.",
+            "Saab 2000, which has a wide wingspan."
+        ]
+    },
+    "Saab 340": {
+        "Wing Configuration": [
+            "Saab 340, which has high-mounted wings near the top of the fuselage.",
+            "Saab 340, which has straight wings with no sweepback or dihedral."
+        ],
+        "Winglet Presence": [
+            "Saab 340, which does not have winglets.",
+            "Saab 340, which has small winglets at the wingtips."
+        ],
+        "Engine Configuration": [
+            "Saab 340, which has two engines in the tail section.",
+            "Saab 340, which has two underwing engines."
+        ],
+        "Number of Engines": [
+            "Saab 340, which has two engines.",
+            "Saab 340, which has multiple engines."
+        ],
+        "Fuselage Length": [
+            "Saab 340, which has a short fuselage length.",
+            "Saab 340, which has a compact fuselage."
+        ],
+        "Fuselage shape": [
+            "Saab 340, which has a tall, narrow fuselage with a distinctive pod-like shape.",
+            "Saab 340, which has a streamlined fuselage for reduced drag."
+        ],
+        "Wingspan": [
+            "Saab 340, which has a moderate wingspan.",
+            "Saab 340, which has a narrow wingspan."
+        ]
+    },
+    "Spitfire": {
+        "Wing Configuration": [
+            "Spitfire, which has elliptical wings with a distinctive curved shape for improved maneuverability.",
+            "Spitfire, which has wings positioned mid-way along the fuselage.",
+            "Spitfire, which features a single set of wings, not bi-wing or tri-wing in configuration."
+        ],
+        "Winglet Presence": [
+            "Spitfire, which does not have winglets.",
+            "Spitfire, which has small winglets on the wingtips."
+        ],
+        "Engine Configuration": [
+            "Spitfire, which has a single engine in the nose section.",
+            "Spitfire, which has a single engine with a propeller."
+        ],
+        "Number of Engines": [
+            "Spitfire, which has a single engine.",
+            "Spitfire, which has one engine."
+        ],
+        "Fuselage Length": [
+            "Spitfire, which has a compact fuselage.",
+            "Spitfire, which has a short fuselage."
+        ],
+        "Fuselage shape": [
+            "Spitfire, which has a slim fuselage for high-speed performance.",
+            "Spitfire, which features a fuselage that tapers towards the tail.",
+            "Spitfire, which has a fuselage with smooth contours for aerodynamic efficiency."
+        ],
+        "Wingspan": [
+            "Spitfire, which has a relatively short wingspan.",
+            "Spitfire, which has a moderate wingspan."
+        ]
+    },
+    "Tornado": {
+        "Wing Configuration": [
+            "Tornado, with a variable-sweep wing design allowing for optimized performance at different speeds and altitudes.",
+            "Tornado, featuring mid-mounted, variable-sweep wings for enhanced maneuverability."
+        ],
+        "Winglet Presence": [
+            "Tornado, which does not have winglets.",
+            "Tornado, which has small winglets on the wingtips."
+        ],
+        "Engine Configuration": [
+            "Tornado, which has two engines on the rear fuselage.",
+            "Tornado, which has two engines on each wing."
+        ],
+        "Number of Engines": [
+            "Tornado, which has two engines.",
+            "Tornado, which has multiple engines."
+        ],
+        "Fuselage Length": [
+            "Tornado, which has a short fuselage.",
+            "Tornado, which has a streamlined fuselage."
+        ],
+        "Fuselage shape": [
+            "Tornado, which has a sleek, streamlined fuselage for reduced drag and enhanced speed.",
+            "Tornado, with a long, narrow fuselage to minimize air resistance and improve aerodynamics."
+        ],
+        "Wingspan": [
+            "Tornado, which has a long wingspan.",
+            "Tornado, which has a narrow wingspan."
+        ]
+    },
+    "Tu-134": {
+        "Wing Configuration": [
+            "Tu-134, which has a swept-wing configuration suited for high-speed performance.",
+            "Tu-134, which features low-mounted wings ideal for stability and maneuverability.",
+            "Tu-134, which utilizes a delta wing design for efficient supersonic flight.",
+            "Tu-134, which showcases an extended wing span for improved lift capabilities."
+        ],
+        "Winglet Presence": [
+            "Tu-134, which does not have winglets.",
+            "Tu-134, which does not have winglets on the wingtips."
+        ],
+        "Engine Configuration": [
+            "Tu-134, which has two underwing engines.",
+            "Tu-134, which has two engines in the tail section."
+        ],
+        "Number of Engines": [
+            "Tu-134, which has two engines.",
+            "Tu-134, which has multiple engines."
+        ],
+        "Fuselage Length": [
+            "Tu-134, which has a compact fuselage.",
+            "Tu-134, which has a relatively short fuselage."
+        ],
+        "Fuselage shape": [
+            "Tu-134, which has a slender fuselage design optimized for high-speed cruise performance.",
+            "Tu-134, which features a fuselage with a pronounced taper towards the tail section for reduced drag.",
+            "Tu-134, which showcases a cylindrical fuselage shape for spacious cabin accommodation and structural strength.",
+            "Tu-134, which exhibits a fuselage shape with a prominent nose cone for aerodynamic efficiency."
+        ],
+        "Wingspan": [
+            "Tu-134, which has a relatively short wingspan.",
+            "Tu-134, which has a wingspan of medium length."
+        ]
+    },
+    "Tu-154": {
+        "Wing Configuration": [
+            "Tu-154, which has a low-wing configuration where the wings are mounted below the fuselage.",
+            "Tu-154, which has swept-back wings for enhanced aerodynamics."
+        ],
+        "Winglet Presence": [
+            "Tu-154, which does not have winglets.",
+            "Tu-154, which has small winglets on the wingtips."
+        ],
+        "Engine Configuration": [
+            "Tu-154, which has three engines in the tail section.",
+            "Tu-154, which has three engines under the wing."
+        ],
+        "Number of Engines": [
+            "Tu-154, which has three engines.",
+            "Tu-154, which has multiple engines."
+        ],
+        "Fuselage Length": [
+            "Tu-154, which has a long fuselage.",
+            "Tu-154, which has a sleek fuselage."
+        ],
+        "Fuselage shape": [
+            "Tu-154, which has a cylindrical fuselage for spacious interior and cargo capacity.",
+            "Tu-154, which has a smooth, oval-shaped fuselage for reduced drag."
+        ],
+        "Wingspan": [
+            "Tu-154, which has a long wingspan.",
+            "Tu-154, which has a wide wingspan."
+        ]
+    },
+    "Yak-42": {
+        "Wing Configuration": [
+            "Yak-42, which has swept-back wings for improved aerodynamics.",
+            "Yak-42, which has low-mounted wings for stability and lift."
+        ],
+        "Winglet Presence": [
+            "Yak-42, which does not have winglets.",
+            "Yak-42, which has small winglets on the wingtips."
+        ],
+        "Engine Configuration": [
+            "Yak-42, which has three engines in the tail section and two engines under the wings.",
+            "Yak-42, which has two engines in the tail section and two engines under the wings."
+        ],
+        "Number of Engines": [
+            "Yak-42, which has five engines.",
+            "Yak-42, which has multiple engines."
+        ],
+        "Fuselage Length": [
+            "Yak-42, which has a long fuselage.",
+            "Yak-42, which has a short fuselage."
+        ],
+        "Fuselage shape": [
+            "Yak-42, which has a slim, elongated fuselage for high-speed performance and fuel efficiency.",
+            "Yak-42, which has a cylindrical fuselage for optimal internal space and passenger comfort."
+        ],
+        "Wingspan": [
+            "Yak-42, which has a long wingspan.",
+            "Yak-42, which has a narrow wingspan."
+        ]
+    },
+    "757-200": {
+        "Wing Configuration": [
+            "757-200, which has a swept-back wing design for enhanced aerodynamics.",
+            "757-200, which has a high-mounted wing design.",
+            "757-200, which has winglets at the wingtips for improved fuel efficiency."
+        ],
+        "Winglet Presence": [
+            "757-200, which has winglets on the wingtips.",
+            "757-200, which does not have winglets."
+        ],
+        "Engine Configuration": [
+            "757-200, which has two underwing engines.",
+            "757-200, which has two engines in the tail section."
+        ],
+        "Number of Engines": [
+            "757-200, which has two engines.",
+            "757-200, which has multiple engines."
+        ],
+        "Fuselage Length": [
+            "757-200, which has a long fuselage.",
+            "757-200, which has a sleek fuselage."
+        ],
+        "Fuselage shape": [
+            "757-200, which has a sleek, cylindrical fuselage with a pronounced nose cone.",
+            "757-200, which has a fuselage with smooth lines and minimal protrusions for aerodynamic efficiency."
+        ],
+        "Wingspan": [
+            "757-200, which has a long wingspan.",
+            "757-200, which has a wide wingspan."
+        ]
+    }
+}

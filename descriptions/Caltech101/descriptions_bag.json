@@ -1,0 +1,2362 @@
+{
+    "face": {
+        "Dominant Feature": [
+            "Face, which has prominent eyebrows.",
+            "Face, which has prominent cheekbones.",
+            "Face, which has expressive eyes."
+        ],
+        "Shape": [
+            "Face, which is oval or round in shape.",
+            "Face, which has distinct features such as eyes, nose, and mouth."
+        ],
+        "Texture": [
+            "Face, which has smooth skin.",
+            "Face, which may have facial hair or wrinkles."
+        ],
+        "Color": [
+            "The face image can exhibit a range of skin tones, including fair complexion, medium tones, or darker shades.",
+            "The face image could feature various hair colors like blonde, brunette, black, or red.",
+            "In some instances, the face might showcase contrasting elements such as colorful makeup or facial accessories."
+        ],
+        "Size": [
+            "Face, which is proportionate to the human body.",
+            "Face, which varies in size from person to person."
+        ]
+    },
+    "leopard": {
+        "Dominant Feature": [
+            "Leopard, which has prominent dark spots on its coat.",
+            "Leopard, which has expressive eyes."
+        ],
+        "Shape": [
+            "Leopard, which has a muscular body shape.",
+            "Leopard, which has a long tail for balance."
+        ],
+        "Texture": [
+            "Leopard, which has a short fur coat.",
+            "Leopard, which has whiskers on its muzzle."
+        ],
+        "Color": [
+            "Leopard, which has a yellow coat with black rosettes and spots.",
+            "Leopard, which has a golden fur with distinctive dark markings.",
+            "Leopard, which has a beige and cream-colored coat with black spots.",
+            "Leopard, which has an orange-red fur with dark spots.",
+            "Leopard, which has a tawny-yellow background with black spots and rosettes."
+        ],
+        "Size": [
+            "Leopard, which is a large feline, smaller than a lion or tiger.",
+            "Leopard, which has a body length ranging from 90 to 160 cm without including the tail."
+        ]
+    },
+    "motorbike": {
+        "Dominant Feature": [
+            "Motorbike, which has a prominent exhaust pipe.",
+            "Motorbike, which has a prominent headlight."
+        ],
+        "Shape": [
+            "Motorbike, which has a streamlined body.",
+            "Motorbike, which presents a bulky fuel tank."
+        ],
+        "Texture": [
+            "Motorbike, which has a glossy finish.",
+            "Motorbike, which has a matte surface."
+        ],
+        "Color": [
+            "Motorbike, which has a sleek black exterior giving it a classic and stylish look.",
+            "Motorbike, which features a vibrant red color, adding a flashy and sporty appearance.",
+            "Motorbike, which is commonly seen in shades of blue, enhancing its cool and modern aesthetic.",
+            "Motorbike, which stands out in bright yellow, making it eye-catching and dynamic.",
+            "Motorbike, which showcases a metallic silver finish, exuding a futuristic and high-tech vibe."
+        ],
+        "Size": [
+            "Motorbike, which is large enough to seat at least one rider.",
+            "Motorbike, which appears smaller compared to a car."
+        ]
+    },
+    "accordion": {
+        "Dominant Feature": [
+            "Accordion, which has visible buttons.",
+            "Accordion, which has a large bellows."
+        ],
+        "Shape": [
+            "Accordion, which is rectangular when viewed from the front.",
+            "Accordion, which appears cylindrical due to the bellows when viewed from the side."
+        ],
+        "Texture": [
+            "Accordion, which has a pleated texture on the bellows.",
+            "Accordion, which has smooth keys and buttons."
+        ],
+        "Color": [
+            "Accordion, which is usually black in color with metallic accents.",
+            "Accordion, which can also be found in shades of brown or red.",
+            "Accordion, which may have a colorful design on the bellows or keys.",
+            "Accordion, which sometimes has gold or silver embellishments.",
+            "Accordion, which can have a two-tone color combination."
+        ],
+        "Size": [
+            "Accordion, which is moderate in size and can be held by an adult.",
+            "Accordion, which varies slightly in size but generally fits within the same range."
+        ]
+    },
+    "airplane": {
+        "Dominant Feature": [
+            "Airplane, which has a prominent cockpit.",
+            "Airplane, which has prominent engine exhausts."
+        ],
+        "Shape": [
+            "Airplane, which has an elongated fuselage.",
+            "Airplane, which features wings with a tapered shape."
+        ],
+        "Texture": [
+            "Airplane, which has a smooth aluminum skin.",
+            "Airplane, which may show rivets or panels on the surface."
+        ],
+        "Color": [
+            "An airplane in the Caltech101 dataset may have a metallic silver color scheme.",
+            "An airplane in the Caltech101 dataset may have a white body with colorful accent stripes.",
+            "An airplane in the Caltech101 dataset may feature a red and white color combination.",
+            "An airplane in the Caltech101 dataset may have a camouflage pattern.",
+            "An airplane in the Caltech101 dataset may display a dark blue color for a sleek appearance."
+        ],
+        "Size": [
+            "Airplane, which is large enough to carry multiple passengers.",
+            "Airplane, which is small, designed for personal or acrobatic flight."
+        ]
+    },
+    "anchor": {
+        "Dominant Feature": [
+            "Anchor, which has a heavy weight.",
+            "Anchor, which has a pointed tip."
+        ],
+        "Shape": [
+            "Anchor, which has a central shank with a ring at one end for attaching the rope.",
+            "Anchor, which has arms with flukes at the opposite end to the ring."
+        ],
+        "Texture": [
+            "Anchor, which has a rough metallic texture due to being forged from iron or steel.",
+            "Anchor, which might have a smooth, polished surface if new or well-maintained."
+        ],
+        "Color": [
+            "Anchor, which is typically colored in shades of silver, gray, or black.",
+            "Anchor, which may also have a paint coating in bright colors like red or yellow."
+        ],
+        "Size": [
+            "Anchor, which is large compared to most human-made objects, typically several feet in length.",
+            "Anchor, which varies in size depending on the vessel it is meant to secure."
+        ]
+    },
+    "ant": {
+        "Dominant Feature": [
+            "Ant, with a large head.",
+            "Ant, with long antennae."
+        ],
+        "Shape": [
+            "Ant, which has a segmented body with a distinct head, thorax, and abdomen.",
+            "Ant, which has an elongated and narrow body."
+        ],
+        "Texture": [
+            "Ant, which has a smooth and shiny exoskeleton.",
+            "Ant, which may appear somewhat hairy under magnification."
+        ],
+        "Color": [
+            "Ants, which are usually black or brown in color.",
+            "Ants, which can also have reddish hues or a combination of black and red colors."
+        ],
+        "Size": [
+            "Ant, which is small in size, typically a few millimeters long.",
+            "Ant, which may vary in size depending on the species."
+        ]
+    },
+    "barrel": {
+        "Dominant Feature": [
+            "Barrel, which has metal hoops.",
+            "Barrel, which has a wooden texture."
+        ],
+        "Shape": [
+            "Barrel, which is cylindrical.",
+            "Barrel, which has a bulging middle and tapers at the top and bottom."
+        ],
+        "Texture": [
+            "Barrel, which has a smooth metal surface.",
+            "Barrel, which has a rough wooden surface.",
+            "Barrel, which may have visible grains if made of wood.",
+            "Barrel, which may have metallic sheen if made of metal."
+        ],
+        "Color": [
+            "Barrel, which is predominantly brown in color.",
+            "Barrel, which can have variations in hues such as dark brown, light brown, or reddish-brown."
+        ],
+        "Size": [
+            "Barrel, which is large enough to store liquids or solids.",
+            "Barrel, which is typically around the height of an adult human when standing upright."
+        ]
+    },
+    "bass": {
+        "Dominant Feature": [
+            "Bass, which has a prominent jawline.",
+            "Bass, which has a large mouth with sharp teeth."
+        ],
+        "Shape": [
+            "Bass, which has an elongated body.",
+            "Bass, which features a large mouth with a protruding lower jaw."
+        ],
+        "Texture": [
+            "Bass, which has scales that are smooth to the touch.",
+            "Bass, which possesses a soft and slippery mucus coating."
+        ],
+        "Color": [
+            "Bass, which has a dark gray to black coloration.",
+            "Bass, which has iridescent silver scales reflecting light.",
+            "Bass, which has a mottled pattern with shades of gray and black.",
+            "Bass, which has a light underbelly contrasting with the dark upper body."
+        ],
+        "Size": [
+            "Bass, which varies in length from small to large trophy sizes.",
+            "Bass, which can weigh from a few pounds to over fifteen pounds."
+        ]
+    },
+    "beaver": {
+        "Dominant Feature": [
+            "Beaver, which has large front teeth.",
+            "Beaver, which has a wide flat tail."
+        ],
+        "Shape": [
+            "Beaver, which has a broad and flat tail.",
+            "Beaver, which exhibits a rounded body shape."
+        ],
+        "Texture": [
+            "Beaver, which possesses a thick fur texture.",
+            "Beaver, which has a slick, moist appearance on its tail."
+        ],
+        "Color": [
+            "Beaver, which has a rich brown fur color with variations from dark chocolate to lighter shades.",
+            "Beaver, which can also have a reddish-brown hue in its fur.",
+            "Beaver, which may exhibit a glossy sheen to its coat, enhancing its brown color.",
+            "Beaver, which can have a underbelly that is lighter in color compared to the back fur."
+        ],
+        "Size": [
+            "Beaver, which is large for a rodent.",
+            "Beaver, which appears robust with a length including the tail."
+        ]
+    },
+    "binocular": {
+        "Dominant Feature": [
+            "Binocular, which has adjustable focus knobs.",
+            "Binocular, which has rubberized grips."
+        ],
+        "Shape": [
+            "Binocular, which has a cylindrical shape for each eye piece connected by a bridge.",
+            "Binocular, which appears symmetrical with two connected tubes."
+        ],
+        "Texture": [
+            "Binocular, which has a smooth, rubberized coating.",
+            "Binocular, which has a textured grip for holding."
+        ],
+        "Color": [
+            "Binoculars, which commonly appear in black color for a sleek and classic design.",
+            "Binoculars, which may have a neutral color palette like grey or silver for a modern look."
+        ],
+        "Size": [
+            "Binocular, which is handheld and compact.",
+            "Binocular, which is large and requires a tripod or stand for support."
+        ]
+    },
+    "bonsai": {
+        "Dominant Feature": [
+            "Bonsai, which has twisted branches."
+        ],
+        "Shape": [
+            "Bonsai, which is miniature in shape resembling a full-grown tree.",
+            "Bonsai, which may have S-curve or layered branches shape."
+        ],
+        "Texture": [
+            "Bonsai, which has a rough bark texture.",
+            "Bonsai, which has smooth and delicate leaves."
+        ],
+        "Color": [
+            "Bonsai, which has vibrant green foliage that exudes a sense of freshness and vitality.",
+            "Bonsai, which may feature variegated leaves with a mix of green and white hues.",
+            "Bonsai, which exhibits deep, lush greenery characteristic of well-maintained plants.",
+            "Bonsai, which showcases a range of colors from dark greens to light greens.",
+            "Bonsai, which displays a deep green coloration with hints of yellow in some varieties."
+        ],
+        "Size": [
+            "Bonsai, which is small enough to be placed on a table.",
+            "Bonsai, which varies in size but generally does not exceed one meter in height."
+        ]
+    },
+    "brain": {
+        "Dominant Feature": [
+            "Brain, which has prominent folds and crevices.",
+            "Brain, which has a complex network of veins."
+        ],
+        "Shape": [
+            "Brain, which has a wrinkled and convoluted appearance with a distinctive left and right hemisphere.",
+            "Brain, which has a roughly oval shape when viewed from the top or sides."
+        ],
+        "Texture": [
+            "Brain, which has a soft and spongy texture.",
+            "Brain, which exhibits the smooth, grooved surfaces of the gyri and sulci."
+        ],
+        "Color": [
+            "The brain image in the Caltech101 dataset is predominantly pinkish-gray, similar to actual brain tissue color.",
+            "The brain image in the Caltech101 dataset has a mix of pink, white, and gray tones, resembling the different structures within the brain."
+        ],
+        "Size": [
+            "Brain, which is sized to fit within a human skull, typically around 15 centimeters in length.",
+            "Brain, which can vary in size due to age, sex, and individual differences."
+        ]
+    },
+    "brontosaurus": {
+        "Dominant Feature": [
+            "Brontosaurus, which has a long and thin tail.",
+            "Brontosaurus, which has a bulky body."
+        ],
+        "Shape": [
+            "Brontosaurus, which has a long neck and tail.",
+            "Brontosaurus, which has a large body with stocky legs."
+        ],
+        "Texture": [
+            "Brontosaurus, which has a rough, reptilian skin texture.",
+            "Brontosaurus, which may feature skin creases or folds."
+        ],
+        "Color": [
+            "Brontosaurus, which is depicted in a range of greens and browns, mimicking an earthy, natural appearance.",
+            "Brontosaurus, which may showcase a monochromatic color scheme of greens, creating a uniform hue across its body."
+        ],
+        "Size": [
+            "Brontosaurus, which is massive in size compared to human scale.",
+            "Brontosaurus, which takes up a substantial portion of the image frame."
+        ]
+    },
+    "buddha": {
+        "Dominant Feature": [
+            "Buddha, which has a serene expression.",
+            "Buddha, which has closed eyes."
+        ],
+        "Shape": [
+            "Buddha, which has a rounded and plump figure typical of seated or standing statuettes.",
+            "Buddha, which may have an elongated and slender form in certain standing poses."
+        ],
+        "Texture": [
+            "Buddha, which has a smooth and polished surface.",
+            "Buddha, which can have an intricate textured surface with detailed carvings."
+        ],
+        "Color": [
+            "Buddha, which is often depicted in gold or bronze hues symbolizing spiritual richness and enlightenment.",
+            "Buddha, which showcases a serene color palette of whites, greens, and blues, inducing a sense of calmness."
+        ],
+        "Size": [
+            "Buddha, which varies in size from small handheld figurines to large statues.",
+            "Buddha, which may be life-sized or larger-than-life in public displays or temples."
+        ]
+    },
+    "butterfly": {
+        "Dominant Feature": [
+            "Butterfly, which has long antennas.",
+            "Butterfly, which has large and intricate eye patterns."
+        ],
+        "Shape": [
+            "Butterfly, which has wings that are often rounded with scalloped edges.",
+            "Butterfly, which features a slender, elongated body."
+        ],
+        "Texture": [
+            "Butterfly, which has wings with a powdery texture due to tiny scales.",
+            "Butterfly, which possesses a body that is smooth and segmented."
+        ],
+        "Color": [
+            "Butterfly, which exhibits vibrant colors including shades of orange, black, and white.",
+            "Butterfly, which displays iridescent hues such as blues, greens, and purples.",
+            "Butterfly, which showcases a monochromatic color palette with subtle variations in tone.",
+            "Butterfly, which features striking contrast between bright yellow and black coloration.",
+            "Butterfly, which presents a blend of soft pastel colors like pink, yellow, and light blue."
+        ],
+        "Size": [
+            "Butterfly, which varies in wingspan, ranging from small with just a few centimeters across to large ones over several inches.",
+            "Butterfly, which has different sizes depending on the species."
+        ]
+    },
+    "camera": {
+        "Dominant Feature": [
+            "Camera with prominent lens",
+            "Camera with ergonomic grip"
+        ],
+        "Shape": [
+            "Camera, which is rectangular or box-like in shape.",
+            "Camera, which may have rounded edges or a cylindrical lens protruding from the front."
+        ],
+        "Texture": [
+            "Camera, which has a smooth, matte finish.",
+            "Camera, which may have a textured grip area for better handling."
+        ],
+        "Color": [
+            "Camera, which is typically black in color due to its classic design.",
+            "Camera, which may have silver accents for a modern look.",
+            "Camera, which comes in various colors like red, blue, or pink for a vibrant style."
+        ],
+        "Size": [
+            "Camera, which is compact enough to fit in one hand.",
+            "Camera, which can be larger and bulkier, particularly professional DSLR models."
+        ]
+    },
+    "cannon": {
+        "Dominant Feature": [
+            "Cannon, which has a long and thick barrel.",
+            "Cannon, which has a prominent muzzle."
+        ],
+        "Shape": [
+            "Cannon, which has a long cylindrical barrel.",
+            "Cannon, which has a tubular shape tapering towards the muzzle.",
+            "Cannon, which is mounted on a rectangular carriage.",
+            "Cannon, which may show a bulbous breech."
+        ],
+        "Texture": [
+            "Cannon, which has a smooth metal surface.",
+            "Cannon, which may exhibit a rough cast-iron texture."
+        ],
+        "Color": [
+            "Cannon, which is commonly depicted in metallic silver or gunmetal grey color.",
+            "Cannon, which may have a black finish for a more tactical appearance.",
+            "Cannon, which can also feature a brass or copper color for ornamental designs."
+        ],
+        "Size": [
+            "Cannon, which is large relative to human scale.",
+            "Cannon, which varies in size from small field artillery to large naval guns."
+        ]
+    },
+    "car side": {
+        "Dominant Feature": [
+            "Car side, which has prominent wheel arches.",
+            "Car side, which has a prominent logo."
+        ],
+        "Shape": [
+            "Car side, which has a streamlined shape.",
+            "Car side, which has a boxy shape.",
+            "Car side, which has a compact design.",
+            "Car side, which has an elongated sedan style."
+        ],
+        "Texture": [
+            "Car side, which has a glossy finish.",
+            "Car side, which has a matte texture."
+        ],
+        "Color": [
+            "Car side, which has a sleek silver metallic color.",
+            "Car side, which features a vibrant red hue.",
+            "Car side, which is predominantly black with glossy finish.",
+            "Car side, which showcases a pristine white color.",
+            "Car side, which comes in a striking blue shade."
+        ],
+        "Size": [
+            "Car side, which is of a standard sedan length.",
+            "Car side, which is of a compact car length."
+        ]
+    },
+    "ceiling fan": {
+        "Dominant Feature": [
+            "Ceiling fan, which has a sleek design.",
+            "Ceiling fan, which has a vintage design."
+        ],
+        "Shape": [
+            "Ceiling fan, which has a circular center.",
+            "Ceiling fan, which has elongated blades.",
+            "Ceiling fan, which is round when the blades are in motion."
+        ],
+        "Texture": [
+            "Ceiling fan, which has smooth blades.",
+            "Ceiling fan, which has a glossy finish on its surface."
+        ],
+        "Color": [
+            "Ceiling fan, which is commonly white in color, blending seamlessly with ceilings and surroundings.",
+            "Ceiling fan, which comes in silver or metallic finishes, adding a modern touch to rooms.",
+            "Ceiling fan, which can be found in wood finishes, providing a natural and rustic look.",
+            "Ceiling fan, which may come in various colors to complement room decor."
+        ],
+        "Size": [
+            "Ceiling fan, which is medium-sized in proportion to the room.",
+            "Ceiling fan, which is large and spans a significant portion of the ceiling area."
+        ]
+    },
+    "cellphone": {
+        "Dominant Feature": [
+            "Cellphone, which has a prominent camera lens.",
+            "Cellphone, which has a prominent home button."
+        ],
+        "Shape": [
+            "Cellphone, which is rectangular with rounded corners.",
+            "Cellphone, which is slab-like with a flat surface."
+        ],
+        "Texture": [
+            "Cellphone, which has a smooth glass front.",
+            "Cellphone, which has a metallic or plastic back."
+        ],
+        "Color": [
+            "Cellphone, which comes in various colors such as black, white, silver, gold, and rose gold."
+        ],
+        "Size": [
+            "Cellphone, which is small enough to fit in the palm of a hand.",
+            "Cellphone, which varies in length from approximately 5 to over 6 inches."
+        ]
+    },
+    "chair": {
+        "Dominant Feature": [
+            "Chair, which has decorative carvings.",
+            "Chair, which has a padded seat."
+        ],
+        "Shape": [
+            "Chair, which has a straight back and a flat seat.",
+            "Chair, which has a rounded back and contoured seat.",
+            "Chair, which is armless with a vertical backrest.",
+            "Chair, which has arms and an adjustable back."
+        ],
+        "Texture": [
+            "Chair, which has a smooth, leather surface.",
+            "Chair, which has a rough, fabric upholstery.",
+            "Chair, which has a glossy, plastic finish.",
+            "Chair, which has a textured, wooden frame."
+        ],
+        "Color": [
+            "Chair, which appears in various colors such as black, white, brown, red, and blue.",
+            "Chair, which can be found in colors like beige, gray, green, and yellow.",
+            "Chair, which is commonly seen in shades like navy, teal, pink, and purple."
+        ],
+        "Size": [
+            "Chair, which is sized for single-person seating.",
+            "Chair, which is a large recliner meant for lounging."
+        ]
+    },
+    "chandelier": {
+        "Dominant Feature": [
+            "Chandelier, which has crystal droplets.",
+            "Chandelier, which has candle-shaped bulbs."
+        ],
+        "Shape": [
+            "Chandelier, which has a circular or round primary structure.",
+            "Chandelier, which includes arms extending from the center.",
+            "Chandelier, which is oblong in overhead view.",
+            "Chandelier, which may be tiered with multiple levels."
+        ],
+        "Texture": [
+            "Chandelier, which has smooth glass parts.",
+            "Chandelier, which displays intricate metal works.",
+            "Chandelier, which features cut crystal that may refract light."
+        ],
+        "Color": [
+            "Chandelier, which is often gold or silver in color, exuding a luxurious and elegant appearance.",
+            "Chandelier, which can also be adorned with crystal elements that refract light, creating a dazzling visual effect.",
+            "Chandelier, which may feature a variety of colors depending on the design, adding a vibrant touch to the space.",
+            "Chandelier, which can have a classic black finish for a more refined and sleek aesthetic.",
+            "Chandelier, which can have a white or off-white finish, imparting a sense of purity and sophistication."
+        ],
+        "Size": [
+            "Chandelier, which is large and grand, suitable for spacious rooms.",
+            "Chandelier, which is medium-sized, fitting for regular living spaces."
+        ]
+    },
+    "cougar body": {
+        "Dominant Feature": [
+            "Cougar body, which has powerful front legs."
+        ],
+        "Shape": [
+            "Cougar body, which is long and lean with a muscular build.",
+            "Cougar body, which features a small head in proportion to its body with a long tail."
+        ],
+        "Texture": [
+            "Cougar body, which has a short fur that is smooth to the touch.",
+            "Cougar body, which may exhibit thicker fur around the neck area."
+        ],
+        "Color": [
+            "Cougar body, which is typically tan or light brown with a white underside for camouflage in its natural habitat.",
+            "Cougar body, which may exhibit variations in color from reddish-brown to grayish tones for adaptability to different environments."
+        ],
+        "Size": [
+            "Cougar body, which is large for a feline, smaller than a lion but larger than a leopard.",
+            "Cougar body, which spans a considerable length including the tail, displaying noticeable sexual dimorphism between males and females."
+        ]
+    },
+    "cougar face": {
+        "Dominant Feature": [
+            "Cougar face, which has piercing eyes.",
+            "Cougar face, which has prominent whiskers."
+        ],
+        "Shape": [
+            "Cougar face, which has a rounded front profile with a slightly pointed chin.",
+            "Cougar face, which features a broad forehead and high cheekbones."
+        ],
+        "Texture": [
+            "Cougar face, which has short and sleek fur.",
+            "Cougar face, which exhibits whiskers around the snout area."
+        ],
+        "Color": [
+            "Cougar face, which has a tawny coat color with subtle white accents around the muzzle and under the eyes.",
+            "Cougar face, which features shades of brown, tan, and cream in its fur coloration."
+        ],
+        "Size": [
+            "Cougar face, which is relatively large in comparison to domestic cats.",
+            "Cougar face, which maintains a consistent size proportional to its body."
+        ]
+    },
+    "crab": {
+        "Dominant Feature": [
+            "Crab, which has large pincers.",
+            "Crab, which has long and slender legs."
+        ],
+        "Shape": [
+            "Crab, which has a rounded carapace.",
+            "Crab, which presents with stalked eyes.",
+            "Crab, which is characterized by a pair of large front claws."
+        ],
+        "Texture": [
+            "Crab, which has a hard and rough exoskeleton.",
+            "Crab, which features legs with a spiny texture."
+        ],
+        "Color": [
+            "Crab, which has a variety of colors such as red, orange, yellow, and brown.",
+            "Crab, which can exhibit color variations including green, blue, and purple hues."
+        ],
+        "Size": [
+            "Crab, which varies in size from small to large.",
+            "Crab, which can fit in the palm of a hand, or span much larger with its legs extended."
+        ]
+    },
+    "crayfish": {
+        "Dominant Feature": [
+            "Crayfish, which has large claws.",
+            "Crayfish, which has long antennae."
+        ],
+        "Shape": [
+            "Crayfish, which has a segmented body that tapers to a point at the tail.",
+            "Crayfish, which possesses a hard exoskeleton and a pair of prominent pincers."
+        ],
+        "Texture": [
+            "Crayfish, which exhibits a tough and rugged exoskeleton.",
+            "Crayfish, which has a smooth underside."
+        ],
+        "Color": [
+            "Crayfish, which has a reddish-brown coloration.",
+            "Crayfish, which has a brownish-green hue.",
+            "Crayfish, which has a mottled color pattern with shades of brown and gray.",
+            "Crayfish, which has a vibrant orange coloration.",
+            "Crayfish, which has a dark brown color with hints of red."
+        ],
+        "Size": [
+            "Crayfish, which ranges from small to medium size, comparable to the size of a human hand.",
+            "Crayfish, which varies in length, generally measuring 3 to 6 inches."
+        ]
+    },
+    "crocodile": {
+        "Dominant Feature": [
+            "Crocodile, which has sharp and pointy teeth.",
+            "Crocodile, which has powerful jaws and a muscular body."
+        ],
+        "Shape": [
+            "Crocodile, which has a long, streamlined body.",
+            "Crocodile, which possesses a powerful tail."
+        ],
+        "Texture": [
+            "Crocodile, which has rough, scaly skin.",
+            "Crocodile, which displays bony ridges on its back."
+        ],
+        "Color": [
+            "Crocodile, which has a dark olive-brown coloration for camouflage in water habitats.",
+            "Crocodile, which has a mottled green and brown coloration to blend with swamp environments.",
+            "Crocodile, which has a greyish-brown hue along its back and sides for natural camouflage."
+        ],
+        "Size": [
+            "Crocodile, which is large, reaching lengths of several meters.",
+            "Crocodile, which varies in size from juveniles to adults."
+        ]
+    },
+    "crocodile head": {
+        "Dominant Feature": [
+            "Crocodile head, which has sharp teeth.",
+            "Crocodile head, which has a prominent jawline."
+        ],
+        "Shape": [
+            "Crocodile head, which is elongated with a pointed snout.",
+            "Crocodile head, which has a triangular shape when viewed from above."
+        ],
+        "Texture": [
+            "Crocodile head, which has rough, bumpy skin.",
+            "Crocodile head, which displays ridges and scales."
+        ],
+        "Color": [
+            "Crocodile head, which is typically dark green with shades of brown or gray.",
+            "Crocodile head, which may exhibit camouflage colors like olive green or muddy brown.",
+            "Crocodile head, which can have lighter underbelly shades contrasting with the darker upper body hues."
+        ],
+        "Size": [
+            "Crocodile head, which is large in comparison to its body size.",
+            "Crocodile head, which varies in size depending on the crocodile species."
+        ]
+    },
+    "cup": {
+        "Dominant Feature": [
+            "Cup, which has a handle.",
+            "Cup, which has a spout."
+        ],
+        "Shape": [
+            "Cup, which is cylindrical.",
+            "Cup, which has a curved handle.",
+            "Cup, which is tapered towards the bottom.",
+            "Cup, which is bowl-shaped."
+        ],
+        "Texture": [
+            "Cup, which has a glossy surface.",
+            "Cup, which has a matte finish."
+        ],
+        "Color": [
+            "Cup, which comes in various colors such as white, red, blue, green, and yellow."
+        ],
+        "Size": [
+            "Cup, which is small enough to be held in one hand.",
+            "Cup, which is large, possibly for holding a significant amount of liquid."
+        ]
+    },
+    "dalmatian": {
+        "Dominant Feature": [
+            "Dalmatian, which has prominent spots on its coat."
+        ],
+        "Shape": [
+            "Dalmatian, which has a slim, muscular build.",
+            "Dalmatian, which has a long tail and a pronounced snout."
+        ],
+        "Texture": [
+            "Dalmatian, which has a short, smooth coat.",
+            "Dalmatian, which has a glossy fur finish."
+        ],
+        "Color": [
+            "Dalmatian, which has a distinctive black and white coat coloration.",
+            "Dalmatian, which has a stark black spotting on a white fur background."
+        ],
+        "Size": [
+            "Dalmatian, which is medium-sized, standing at about 19 to 24 inches tall.",
+            "Dalmatian, which has a strong, sturdy body."
+        ]
+    },
+    "dollar bill": {
+        "Dominant Feature": [
+            "Dollar bill, which has a portrait of a historical figure."
+        ],
+        "Shape": [
+            "Dollar bill, which is a rectangular shape.",
+            "Dollar bill, which has sharp, straight edges."
+        ],
+        "Texture": [
+            "Dollar bill, which has a fibrous texture.",
+            "Dollar bill, which may show creases or wrinkles."
+        ],
+        "Color": [
+            "Dollar bill, which is predominantly green in color with intricate designs in black and white.",
+            "Dollar bill, which features shades of green along with hints of yellow and black for the various elements on the surface.",
+            "Dollar bill, which has a mix of green hues with contrasting details in black and white.",
+            "Dollar bill, which displays a primary green color theme with secondary colors for intricate patterns and details."
+        ],
+        "Size": [
+            "Dollar bill, which is approximately 2.61 inches by 6.14 inches.",
+            "Dollar bill, which is thin and lightweight."
+        ]
+    },
+    "dolphin": {
+        "Dominant Feature": [
+            "Dolphin, which has a pointed snout.",
+            "Dolphin, which has a dorsal fin."
+        ],
+        "Shape": [
+            "Dolphin, which has a streamlined body with a bottlenose.",
+            "Dolphin, which has a pair of pectoral fins and a dorsal fin."
+        ],
+        "Texture": [
+            "Dolphin, which has smooth skin.",
+            "Dolphin, which appears glossy when wet."
+        ],
+        "Color": [
+            "Dolphin, which has a smooth and shiny gray coloration that may have variations in shades.",
+            "Dolphin, which exhibits a sleek and silverish hue in its coloring.",
+            "Dolphin, with a bluish tint to its gray color.",
+            "Dolphin, which may have a slightly speckled or mottled appearance in its coloring."
+        ],
+        "Size": [
+            "Dolphin, which is typically several feet in length.",
+            "Dolphin, which can weigh several hundred pounds."
+        ]
+    },
+    "dragonfly": {
+        "Dominant Feature": [
+            "Dragonfly, which has large compound eyes.",
+            "Dragonfly, which has transparent, wide-spread wings."
+        ],
+        "Shape": [
+            "Dragonfly, which has an elongated body composed of the head, thorax, and abdomen.",
+            "Dragonfly, which has two pairs of elongated, membranous wings."
+        ],
+        "Texture": [
+            "Dragonfly, which has a body featuring a hard exoskeleton.",
+            "Dragonfly, which has wings with a vein-like texture."
+        ],
+        "Color": [
+            "Dragonfly, which has iridescent shades of blue and green coloring on its body.",
+            "Dragonfly, which showcases vibrant hues of red and yellow on its wings.",
+            "Dragonfly, which displays metallic tones of gold and bronze on its thorax.",
+            "Dragonfly, which exhibits a combination of black and white coloration on its abdomen.",
+            "Dragonfly, which has transparent wings with subtle rainbow reflections in sunlight."
+        ],
+        "Size": [
+            "Dragonfly, which is relatively small to medium-sized with a wingspan that can vary.",
+            "Dragonfly, which has an extended abdomen contributing to its overall length."
+        ]
+    },
+    "electric guitar": {
+        "Dominant Feature": [
+            "Electric guitar, which has a prominent headstock with tuning pegs.",
+            "Electric guitar, which has a prominent tremolo system."
+        ],
+        "Shape": [
+            "Electric guitar, which has a solid body with curved edges.",
+            "Electric guitar, which has a double cutaway body shape allowing access to higher frets."
+        ],
+        "Texture": [
+            "Electric guitar, which has a glossy finish.",
+            "Electric guitar, which has a matte finish."
+        ],
+        "Color": [
+            "Electric guitar, which commonly comes in bold colors like red, blue, or black.",
+            "Electric guitar, which can feature vibrant metallic finishes like silver or gold.",
+            "Electric guitar, which may have a sunburst color pattern blending different shades.",
+            "Electric guitar, which can have a classic wood finish in colors like brown or natural.",
+            "Electric guitar, which may showcase a solid color throughout the body with a glossy or matte finish."
+        ],
+        "Size": [
+            "Electric guitar, which is standard sized suitable for older children and adults.",
+            "Electric guitar, which is smaller, designed for younger children or travel convenience."
+        ]
+    },
+    "elephant": {
+        "Dominant Feature": [
+            "Elephant, which has large tusks.",
+            "Elephant, which has prominent ears."
+        ],
+        "Shape": [
+            "Elephant, which has a large, bulky body.",
+            "Elephant, which has a long trunk."
+        ],
+        "Texture": [
+            "Elephant, which has rough, wrinkled skin.",
+            "Elephant, which might have patches of coarse hair."
+        ],
+        "Color": [
+            "Elephant, which has a grey coloration that ranges from light gray to dark gray.",
+            "Elephant, which may have patches of pinkish skin visible on certain areas like the ears or trunk."
+        ],
+        "Size": [
+            "Elephant, which is one of the largest land animals.",
+            "Elephant, which towers over most other animals and humans."
+        ]
+    },
+    "emu": {
+        "Dominant Feature": [
+            "Emu, which has distinct long feathers on its wings.",
+            "Emu, which has large round eyes with a prominent white ring around them."
+        ],
+        "Shape": [
+            "Emu, which has a large, elongated body.",
+            "Emu, which stands with a long neck and powerful, lengthy legs."
+        ],
+        "Texture": [
+            "Emu, which has coarse and shaggy feathers.",
+            "Emu, which exhibits smooth skin on its face and neck."
+        ],
+        "Color": [
+            "Emu, which has a predominantly dark brown plumage.",
+            "Emu, which has a mix of dark brown and light brown feathers.",
+            "Emu, which has a mottled brown coloration.",
+            "Emu, which has a uniform grayish-brown color.",
+            "Emu, which has a blackish-brown hue."
+        ],
+        "Size": [
+            "Emu, which is tall, with adult heights reaching up to 1.9 meters.",
+            "Emu, which is large-bodied, second in size only to the ostrich among birds."
+        ]
+    },
+    "euphonium": {
+        "Dominant Feature": [
+            "Euphonium, which has a main bell structure.",
+            "Euphonium, which has valve buttons."
+        ],
+        "Shape": [
+            "Euphonium, which has a conical bore ending in a flared bell.",
+            "Euphonium, which has tubing that wraps into a compact shape with a large bell."
+        ],
+        "Texture": [
+            "Euphonium, which has a smooth metallic surface.",
+            "Euphonium, which may show reflections due to its shiny gloss."
+        ],
+        "Color": [
+            "Euphonium, which commonly sports a brass metallic finish, reflecting a golden hue under light.",
+            "Euphonium, which may have a silver coloration, providing a contrasting appearance to the traditional brass finish."
+        ],
+        "Size": [
+            "Euphonium, which is a medium-sized brass instrument.",
+            "Euphonium, which is larger than a trumpet but smaller than a tuba."
+        ]
+    },
+    "ewer": {
+        "Dominant Feature": [
+            "Ewer, which has a distinct handle.",
+            "Ewer, which has an ornate spout."
+        ],
+        "Shape": [
+            "Ewer, which has a narrow neck and a wide body.",
+            "Ewer, which has an elongated spout for pouring.",
+            "Ewer, which varies in shape but often maintains a balanced proportion between the body and the handle."
+        ],
+        "Texture": [
+            "Ewer, which may have a smooth, polished surface.",
+            "Ewer, which can have a textured surface due to embossed designs."
+        ],
+        "Color": [
+            "Ewer, which comes in various colors such as gold, silver, copper, and bronze.",
+            "Ewer, which is traditionally depicted in vibrant colors like blue, green, and red."
+        ],
+        "Size": [
+            "Ewer, which is small enough to be held in one hand.",
+            "Ewer, which can be larger, requiring two hands to pour."
+        ]
+    },
+    "ferry": {
+        "Dominant Feature": [
+            "Ferry, which has a smokestack.",
+            "Ferry, which has prominent windows."
+        ],
+        "Shape": [
+            "Ferry, which has a large, boat-like structure with multiple decks.",
+            "Ferry, which has a wide base that tapers to a point at the bow."
+        ],
+        "Texture": [
+            "Ferry, which has a smooth metal surface.",
+            "Ferry, which features textural details like railings and windows."
+        ],
+        "Color": [
+            "A ferry, which is predominantly white with accents of blue or red for nautical aesthetics.",
+            "A ferry, which may have variations in colors such as yellow, green, or orange.",
+            "A ferry, which features a clean, polished appearance with minimal color accents.",
+            "A ferry, which can exhibit a combination of hues like black, gray, and white for a modern look.",
+            "A ferry, which is commonly seen in bright colors for visibility on the water."
+        ],
+        "Size": [
+            "Ferry, which is large enough to carry vehicles and passengers.",
+            "Ferry, which varies in size but is typically several stories tall."
+        ]
+    },
+    "flamingo": {
+        "Dominant Feature": [
+            "Flamingo, which has a long, thin beak.",
+            "Flamingo, which has long and slender legs."
+        ],
+        "Shape": [
+            "Flamingo, which is tall and slender with long neck and legs.",
+            "Flamingo, which has a curved, downward-bending beak."
+        ],
+        "Texture": [
+            "Flamingo, which has smooth, feathered skin.",
+            "Flamingo, which has sleek plumage."
+        ],
+        "Color": [
+            "Flamingo, which is characterized by a vibrant pink coloration in the feathers.",
+            "Flamingo, which displays a gradient of pink hues ranging from light to dark.",
+            "Flamingo, which exhibits a splash of coral color in the feathers.",
+            "Flamingo, which has a defined contrast between pink feathers and black-tipped wings.",
+            "Flamingo, which showcases a subtle blend of pink and white feathers."
+        ],
+        "Size": [
+            "Flamingo, which is large compared to other birds.",
+            "Flamingo, which sizes vary among species."
+        ]
+    },
+    "flamingo head": {
+        "Dominant Feature": [
+            "Flamingo head, which has a distinct beak.",
+            "Flamingo head, which has striking eyes."
+        ],
+        "Shape": [
+            "Flamingo head, which has a distinct downward-bending beak.",
+            "Flamingo head, which is elongated with a curved neck connecting to the body."
+        ],
+        "Texture": [
+            "Flamingo head, which has smooth feathers.",
+            "Flamingo head, which has a leathery beak texture."
+        ],
+        "Color": [
+            "Flamingo head, which is predominantly pink in color with hints of white on the face and neck.",
+            "Flamingo head, which displays a gradient of pink hues from a lighter shade on the neck to a deeper pink on the head."
+        ],
+        "Size": [
+            "Flamingo head, which is proportionate to its long neck.",
+            "Flamingo head, which appears smaller when compared to the body."
+        ]
+    },
+    "garfield": {
+        "Dominant Feature": [
+            "Garfield, which has big round eyes.",
+            "Garfield, which has distinctive black stripes."
+        ],
+        "Shape": [
+            "Garfield, which has a rounded body.",
+            "Garfield, which has a flat, broad face with a small nose."
+        ],
+        "Texture": [
+            "Garfield, which appears soft and plush.",
+            "Garfield, which has short fur."
+        ],
+        "Color": [
+            "Garfield, which has an orange fur color with darker stripes across the body.",
+            "Garfield, which has a vibrant orange hue with white accents on the face and belly."
+        ],
+        "Size": [
+            "Garfield, which is small to medium-sized as a plush representation.",
+            "Garfield, which is proportionate to a small house cat when depicted in images."
+        ]
+    },
+    "gerenuk": {
+        "Dominant Feature": [
+            "Gerenuk, which has a long neck.",
+            "Gerenuk, which has large ears."
+        ],
+        "Shape": [
+            "Gerenuk, which has an elongated neck.",
+            "Gerenuk, which features slender legs."
+        ],
+        "Texture": [
+            "Gerenuk, which has a smooth coat.",
+            "Gerenuk, which is covered in short fur."
+        ],
+        "Color": [
+            "Gerenuk, which has a reddish-brown coat with lighter underparts.",
+            "Gerenuk, which has a tan or buff-colored coat with distinct white markings on the face and neck."
+        ],
+        "Size": [
+            "Gerenuk, which is tall and slender, standing at about 1 meter at the shoulder.",
+            "Gerenuk, which has a small head in comparison to its body."
+        ]
+    },
+    "gramophone": {
+        "Dominant Feature": [
+            "Gramophone, which has a prominent horn speaker.",
+            "Gramophone, which has intricate details on its control panel."
+        ],
+        "Shape": [
+            "Gramophone, which has a distinctive large horn with a conical shape.",
+            "Gramophone, which has a box-shaped base housing the turntable and sound equipment."
+        ],
+        "Texture": [
+            "Gramophone, which has a smooth, metallic finish on the horn.",
+            "Gramophone, which may have a polished wood texture on its base."
+        ],
+        "Color": [
+            "Gramophone, which is often in vintage shades like brass, gold, or black.",
+            "Gramophone, which features a blend of metallic hues such as silver, bronze, and copper tones."
+        ],
+        "Size": [
+            "Gramophone, which is large enough to be a tabletop centerpiece.",
+            "Gramophone, which has a substantial horn that commands spatial presence."
+        ]
+    },
+    "grand piano": {
+        "Dominant Feature": [
+            "Grand piano, which has a long and wide keyboard."
+        ],
+        "Shape": [
+            "Grand piano, which has a curved tail and a straight side forming a horizontal harp shape.",
+            "Grand piano, which includes a large, horizontal body with a hinged lid that can be opened to enhance the sound."
+        ],
+        "Texture": [
+            "Grand piano, which usually has a high-gloss, smooth finish.",
+            "Grand piano, which may have a matte or satin texture on specific variants."
+        ],
+        "Color": [
+            "Grand piano, which is typically black in color, exuding a classic and elegant look.",
+            "Grand piano, which can also be found in polished white finish, offering a modern and sleek aesthetic."
+        ],
+        "Size": [
+            "Grand piano, which is large and requires substantial floor space.",
+            "Grand piano, which varies in length but generally ranges from 4 feet 7 inches to over 9 feet."
+        ]
+    },
+    "hawksbill": {
+        "Dominant Feature": [
+            "Hawksbill, which has a distinct hooked beak.",
+            "Hawksbill, which has unique overlapping scutes on its shell."
+        ],
+        "Shape": [
+            "Hawksbill, which possesses an oval-shaped carapace.",
+            "Hawksbill, which has a narrow head with a pointed beak-like mouth."
+        ],
+        "Texture": [
+            "Hawksbill, which has a rough shell texture due to its overlapping scutes.",
+            "Hawksbill, which has flipper-like limbs that are smooth and sleek."
+        ],
+        "Color": [
+            "Hawksbill, which has a vibrant mix of colors including shades of brown, green, and yellow.",
+            "Hawksbill, which has a predominantly brown shell with intricate patterns and patches of lighter hues like cream and beige.",
+            "Hawksbill, which has a shell displaying a blend of dark and light shades creating a visually striking appearance."
+        ],
+        "Size": [
+            "Hawksbill, which is medium to large in size relative to other sea turtles.",
+            "Hawksbill, which can grow up to about three feet in carapace length."
+        ]
+    },
+    "headphone": {
+        "Dominant Feature": [
+            "Headphone, which has visible audio controls.",
+            "Headphone, which has a detachable cable."
+        ],
+        "Shape": [
+            "Headphone, which has over-ear cushioned pads.",
+            "Headphone, which has on-ear flat pads.",
+            "Headphone, which has earbuds connected by a thin wire."
+        ],
+        "Texture": [
+            "Headphone, which has a smooth plastic finish.",
+            "Headphone, which has a textured rubber grip on the earpieces."
+        ],
+        "Color": [
+            "Headphone, which is commonly black in color, providing a sleek and modern appearance.",
+            "Headphone, which is available in vibrant colors like red, blue, or green for a more personalized style."
+        ],
+        "Size": [
+            "Headphone, which is large enough to cover the ears.",
+            "Headphone, which is small fitting directly into the ear canal."
+        ]
+    },
+    "hedgehog": {
+        "Dominant Feature": [
+            "Hedgehog, which has a round snout."
+        ],
+        "Shape": [
+            "Hedgehog, which has a rounded body.",
+            "Hedgehog, which has a pointed snout."
+        ],
+        "Texture": [
+            "Hedgehog, which has sharp spines covering its back.",
+            "Hedgehog, which has soft fur on its underbelly."
+        ],
+        "Color": [
+            "Hedgehog, which has a brownish-gray coloration with spines that are dark at the tips and lighter at the base.",
+            "Hedgehog, which can have variations in color from light gray to deep brown with occasional patches of white."
+        ],
+        "Size": [
+            "Hedgehog, which is small in size, fitting in an adult's hand.",
+            "Hedgehog, which varies somewhat in size, but generally does not exceed the size of a small melon."
+        ]
+    },
+    "helicopter": {
+        "Dominant Feature": [
+            "Helicopter, which has a tall rotor mast.",
+            "Helicopter, which has a large cockpit."
+        ],
+        "Shape": [
+            "Helicopter, which has a long, narrow body.",
+            "Helicopter, which features a cockpit bubble at the front.",
+            "Helicopter, which is equipped with a tapering tail boom.",
+            "Helicopter, which has main and tail rotors for lift and control."
+        ],
+        "Texture": [
+            "Helicopter, which has a smooth metallic surface.",
+            "Helicopter, which is covered with matte paint to reduce glare."
+        ],
+        "Color": [
+            "Helicopter, which is commonly seen in shades of black, olive green, or camouflage patterns.",
+            "Helicopter, which often displays bright colors for visibility during operations.",
+            "Helicopter, which may feature bold colors such as yellow or red for identification purposes."
+        ],
+        "Size": [
+            "Helicopter, which is large enough to carry multiple passengers.",
+            "Helicopter, which is compact for specialized operations."
+        ]
+    },
+    "ibis": {
+        "Dominant Feature": [
+            "Ibis, which has a long, pointed beak.",
+            "Ibis, which has long legs."
+        ],
+        "Shape": [
+            "Ibis, which has a long, curved neck.",
+            "Ibis, which has an elongated, slender body."
+        ],
+        "Texture": [
+            "Ibis, which has smooth feathers.",
+            "Ibis, which exhibits a glossy sheen on its wings."
+        ],
+        "Color": [
+            "Ibis, which has predominantly white plumage with some black feathers on wings and tail.",
+            "Ibis, which has pinkish color on the legs and bill complementing its white body.",
+            "Ibis, which has a striking contrast between its white body and dark-colored beak."
+        ],
+        "Size": [
+            "Ibis, which is medium-sized compared to other birds.",
+            "Ibis, which has a large wingspan relative to its body."
+        ]
+    },
+    "inline skate": {
+        "Dominant Feature": [
+            "Inline skate, which has prominent wheels.",
+            "Inline skate, which has prominent straps."
+        ],
+        "Shape": [
+            "Inline skate, which is long and slender.",
+            "Inline skate, which has a contoured boot shape."
+        ],
+        "Texture": [
+            "Inline skate, which has a smooth plastic or composite surface.",
+            "Inline skate, which may have rubbery wheels with a textured grip."
+        ],
+        "Color": [
+            "Inline skate, which comes in vibrant neon colors such as pink, green, and yellow.",
+            "Inline skate, which can be found in classic monochrome colors like black and white."
+        ],
+        "Size": [
+            "Inline skate, which is sized to fit a human foot, ranging from small children's sizes to large adult sizes.",
+            "Inline skate, which varies in size depending on the intended user's age and shoe size."
+        ]
+    },
+    "joshua tree": {
+        "Dominant Feature": [
+            "Joshua tree, which has distinctive spiky leaves at the ends of its branches."
+        ],
+        "Shape": [
+            "Joshua tree, which has a distinctive profile with branches that tend to grow upwards.",
+            "Joshua tree, which appears with a twisted and spiky silhouette."
+        ],
+        "Texture": [
+            "Joshua tree, which has a rough and fibrous bark texture.",
+            "Joshua tree, which has spiky and stiff leaves."
+        ],
+        "Color": [
+            "Joshua tree, which has a pale, greenish-gray color on its branches and leaves.",
+            "Joshua tree, which showcases a muted, desert-appropriate color palette with hints of gray and green."
+        ],
+        "Size": [
+            "Joshua tree, which ranges from a few feet to about 40 feet tall.",
+            "Joshua tree, which has a diameter at the base typically less than three feet."
+        ]
+    },
+    "kangaroo": {
+        "Dominant Feature": [
+            "Kangaroo, which has muscular hind legs.",
+            "Kangaroo, which has a long tail."
+        ],
+        "Shape": [
+            "Kangaroo, which has long and muscular hind legs.",
+            "Kangaroo, which has a thick, powerful tail."
+        ],
+        "Texture": [
+            "Kangaroo, which has a short and coarse fur.",
+            "Kangaroo, which may have a smoother fur on its belly."
+        ],
+        "Color": [
+            "Kangaroo, which has a fur coat that ranges from light beige to deep brown.",
+            "Kangaroo, which can exhibit a reddish hue in its fur coloration.",
+            "Kangaroo, which may display a grey or silver undertone in its fur color.",
+            "Kangaroo, which can have a fur color that transitions from dark at the top to lighter shades towards the belly.",
+            "Kangaroo, which can have a variation in fur color from individual to individual."
+        ],
+        "Size": [
+            "Kangaroo, which is large and can reach over 6 feet tall.",
+            "Kangaroo, which varies in size among species from small to very large."
+        ]
+    },
+    "ketch": {
+        "Dominant Feature": [
+            "Ketch, which has two masts.",
+            "Ketch, which has a steering wheel at the back."
+        ],
+        "Shape": [
+            "Ketch, which features a sleek, elongated hull.",
+            "Ketch, which has a tall mast and a shorter mizzenmast."
+        ],
+        "Texture": [
+            "Ketch, which has a smooth fiberglass or wooden hull surface.",
+            "Ketch, which has textured sails made of canvas or synthetic materials."
+        ],
+        "Color": [
+            "Ketch, which has a white hull and brown wooden details.",
+            "Ketch, which features a combination of blue and white colors on its sails.",
+            "Ketch, which exhibits a dark navy color scheme.",
+            "Ketch, which is characterized by a vibrant red hull.",
+            "Ketch, which showcases a classic black and white color palette."
+        ],
+        "Size": [
+            "Ketch, which is medium to large in size, suitable for ocean sailing.",
+            "Ketch, which varies in length but generally designed for accommodating several people."
+        ]
+    },
+    "lamp": {
+        "Dominant Feature": [
+            "Lamp, which has a lampshade.",
+            "Lamp, which has a decorative base."
+        ],
+        "Shape": [
+            "Lamp, which has a conical shade.",
+            "Lamp, which has a cylindrical base.",
+            "Lamp, which has an adjustable neck.",
+            "Lamp, which has a spherical body.",
+            "Lamp, which is designed with multiple arms.",
+            "Lamp, which has a rectangular prism shape."
+        ],
+        "Texture": [
+            "Lamp, which has a smooth metallic finish.",
+            "Lamp, which has a brushed texture.",
+            "Lamp, which has a glossy ceramic surface.",
+            "Lamp, which has a textured fabric shade.",
+            "Lamp, which has a matte glass bulb."
+        ],
+        "Color": [
+            "A lamp, which may come in various colors such as brass, gold, silver, or black.",
+            "A lamp, which can feature vibrant colors like red, blue, or green for a modern look."
+        ],
+        "Size": [
+            "Lamp, which is tabletop sized.",
+            "Lamp, which is floor-standing and tall.",
+            "Lamp, which is small enough to fit on a desk.",
+            "Lamp, which is large and dominates room space."
+        ]
+    },
+    "laptop": {
+        "Dominant Feature": [
+            "Laptop, which has a prominent keyboard.",
+            "Laptop, which has a large touchpad."
+        ],
+        "Shape": [
+            "Laptop, which is a rectangular slab when closed.",
+            "Laptop, which has a thin profile."
+        ],
+        "Texture": [
+            "Laptop, which has a smooth metal surface.",
+            "Laptop, which has a matte plastic finish."
+        ],
+        "Color": [
+            "Laptop, which is typically black or silver in color, portraying a sleek and modern appearance.",
+            "Laptop, which can also be found in white or metallic shades, offering a clean and minimalist look."
+        ],
+        "Size": [
+            "Laptop, which is compact enough to fit into a backpack.",
+            "Laptop, which is larger and designed for desktop use."
+        ]
+    },
+    "llama": {
+        "Dominant Feature": [
+            "Llama, which has long and droopy ears.",
+            "Llama, which has large gentle eyes."
+        ],
+        "Shape": [
+            "Llama, which has a long neck.",
+            "Llama, which has a large body with four legs."
+        ],
+        "Texture": [
+            "Llama, which has a woolly and dense coat.",
+            "Llama, which has a soft and fluffy coat."
+        ],
+        "Color": [
+            "Llama, which has a predominantly cream-colored coat with variations from white to beige.",
+            "Llama, which has brown hues ranging from light tan to dark chocolate.",
+            "Llama, which has a combination of woolly white or black fleece.",
+            "Llama, which has a range of colors including shades of gray and black.",
+            "Llama, which has a two-tone coat with a light underbelly and a darker back."
+        ],
+        "Size": [
+            "Llama, which is large, standing at an average of 1.7 to 1.8 meters tall at the top of the head.",
+            "Llama, which is roughly the size of a small camel."
+        ]
+    },
+    "lobster": {
+        "Dominant Feature": [
+            "Lobster, which has long antennae.",
+            "Lobster, which has large claws."
+        ],
+        "Shape": [
+            "Lobster, which has a long body with a tail fan.",
+            "Lobster, which possesses large claws on the first pair of legs."
+        ],
+        "Texture": [
+            "Lobster, which has a hard and rough exoskeleton.",
+            "Lobster, which exhibits a smoother texture on its claws and underbelly."
+        ],
+        "Color": [
+            "Lobster, which has a vivid red coloration, often with darker tones on its claws.",
+            "Lobster, which may also appear in shades such as orange or yellowish hues.",
+            "Lobster, with occasional mottled patterns in its coloration, blending shades of red and brown.",
+            "Lobster, which exhibits a bright red shell with white spots on occasion.",
+            "Lobster, occasionally found with a mottled reddish-brown coloration."
+        ],
+        "Size": [
+            "Lobster, which varies in size but can grow to be quite large.",
+            "Lobster, which is typically smaller when depicted as a juvenile."
+        ]
+    },
+    "lotus": {
+        "Dominant Feature": [
+            "Lotus, which has large, wide-opened petals.",
+            "Lotus, which has a prominent central stigma."
+        ],
+        "Shape": [
+            "Lotus, which has a round, central pod surrounded by large, overlapping petals.",
+            "Lotus, which shows a layered petal arrangement."
+        ],
+        "Texture": [
+            "Lotus, which has smooth and waxy petals.",
+            "Lotus, which features a seed pod that is bumpy and contains indentations."
+        ],
+        "Color": [
+            "Lotus, which manifests in various shades like pink, white, or yellow.",
+            "Lotus, which exhibits vibrant and soft pastel tones like pink or white.",
+            "Lotus, which showcases a rich and deep pink color.",
+            "Lotus, which flaunts a serene and pristine white color.",
+            "Lotus, which features a bright and cheerful yellow hue."
+        ],
+        "Size": [
+            "Lotus, which is large in size when in full bloom.",
+            "Lotus, which has broad floating leaves that can be quite expansive."
+        ]
+    },
+    "mandolin": {
+        "Dominant Feature": [
+            "Mandolin, which has a sound hole in the body.",
+            "Mandolin, which has a scroll on the headstock."
+        ],
+        "Shape": [
+            "Mandolin, which has a pear-shaped body with a curved waist.",
+            "Mandolin, which includes a neck that tapers to a headstock with tuning pegs."
+        ],
+        "Texture": [
+            "Mandolin, which has a smooth, polished wood surface.",
+            "Mandolin, which may have a textured pickguard."
+        ],
+        "Color": [
+            "Mandolin, which has a rich golden-brown hue.",
+            "Mandolin, which has a deep reddish-brown color tone.",
+            "Mandolin, which has a variegated brown color palette with darker accents.",
+            "Mandolin, which has a vibrant cherry wood finish.",
+            "Mandolin, which has a natural light brown shade."
+        ],
+        "Size": [
+            "Mandolin, which is small enough to be held in the arms and played with the hands.",
+            "Mandolin, which has a neck length proportionate to the body for comfortable playability."
+        ]
+    },
+    "mayfly": {
+        "Dominant Feature": [
+            "Mayfly, which has large compound eyes.",
+            "Mayfly, which has long and thin antennae."
+        ],
+        "Shape": [
+            "Mayfly, which has an elongated body with slender wings.",
+            "Mayfly, which features two or three long tails extending from the rear."
+        ],
+        "Texture": [
+            "Mayfly, which has delicate, veiny wings.",
+            "Mayfly, which exhibits a smooth, segmented body."
+        ],
+        "Color": [
+            "Mayfly, which has a pale, translucent body coloration.",
+            "Mayfly, which has a light, almost iridescent coloration.",
+            "Mayfly, which has a muted, earthy tone to its coloration."
+        ],
+        "Size": [
+            "Mayfly, which is small, ranging from 5 to 25 millimeters in length.",
+            "Mayfly, which has wings that may extend wider than its body length."
+        ]
+    },
+    "menorah": {
+        "Dominant Feature": [
+            "Menorah, which has prominent candle holders."
+        ],
+        "Shape": [
+            "Menorah, which has a central stem with extending branches.",
+            "Menorah, which has a base supporting candle holders."
+        ],
+        "Texture": [
+            "Menorah, which is metallic and shiny.",
+            "Menorah, which may have intricate engravings or patterns."
+        ],
+        "Color": [
+            "Menorah, typically metallic in color such as gold, silver, or bronze.",
+            "Menorah, may also be painted in vibrant hues for decorative purposes."
+        ],
+        "Size": [
+            "Menorah, which is small enough to be placed on a table.",
+            "Menorah, which can be large as a public display piece."
+        ]
+    },
+    "metronome": {
+        "Dominant Feature": [
+            "Metronome, which has a swinging pendulum."
+        ],
+        "Shape": [
+            "Metronome, which has a triangular or pyramid-like shape.",
+            "Metronome, which has a long, vertical rod atop for the pendulum."
+        ],
+        "Texture": [
+            "Metronome, which has a smooth, glossy surface.",
+            "Metronome, which might have a matte finish depending on the material."
+        ],
+        "Color": [
+            "Metronome, which is commonly black in color, providing a classic and elegant appearance.",
+            "Metronome, which may also appear in brown hues, adding a warmer touch to its design."
+        ],
+        "Size": [
+            "Metronome, which is small enough to fit on a tabletop.",
+            "Metronome, which is approximately the size of a large book."
+        ]
+    },
+    "minaret": {
+        "Dominant Feature": [
+            "Minaret, which has intricate carvings and decorations."
+        ],
+        "Shape": [
+            "Minaret, which is slender and tall with a cylindrical or slightly tapered structure.",
+            "Minaret, which typically has a pointed or onion-shaped dome at its peak."
+        ],
+        "Texture": [
+            "Minaret, which has a smooth stone or plastered exterior surface.",
+            "Minaret, which may have textured brickwork or intricate tile mosaics."
+        ],
+        "Color": [
+            "Minaret, which is often white or light-colored, contrasting with the sky.",
+            "Minaret, which may have intricate colored decorations and patterns.",
+            "Minaret, which can have a golden or metallic hue in certain cultural contexts.",
+            "Minaret, which might feature a combination of colors such as turquoise, blue, and white."
+        ],
+        "Size": [
+            "Minaret, which is significantly taller than surrounding structures.",
+            "Minaret, which varies in height but is commonly between 30 to 100 meters tall."
+        ]
+    },
+    "nautilus": {
+        "Dominant Feature": [
+            "Nautilus, which has a prominent spiral in its shell.",
+            "Nautilus, which has a polished and intricate shell."
+        ],
+        "Shape": [
+            "Nautilus, which has a rounded spiral shape",
+            "Nautilus, which shows chambered sections when cut."
+        ],
+        "Texture": [
+            "Nautilus, which has a smooth and shiny shell exterior.",
+            "Nautilus, which possesses a grooved texture on the shell surface."
+        ],
+        "Color": [
+            "Nautilus, which has a pearly white shell with iridescent hues in natural light.",
+            "Nautilus, which has a shell exhibiting shades of brown and white.",
+            "Nautilus, which has a shell featuring a combination of brown and orange tones.",
+            "Nautilus, which has a shell showcasing a striking blend of black and white colors.",
+            "Nautilus, which has a shell with a gradient of pink and white hues."
+        ],
+        "Size": [
+            "Nautilus, which varies in shell diameter from small to medium.",
+            "Nautilus, which maintains a proportionate size to its spiral chambers."
+        ]
+    },
+    "octopus": {
+        "Dominant Feature": [
+            "Octopus, which has large bulbous eyes.",
+            "Octopus, which has distinctive suckers on its arms."
+        ],
+        "Shape": [
+            "Octopus, which has a bulbous head and elongated arms.",
+            "Octopus, which appears with a soft, malleable body structure."
+        ],
+        "Texture": [
+            "Octopus, which has smooth, sometimes slippery skin.",
+            "Octopus, which may show a bumpy texture due to its skin papillae."
+        ],
+        "Color": [
+            "Octopus, which has a mottled coloration combining shades of brown, beige, and sometimes hints of red.",
+            "Octopus, which exhibits camouflage abilities blending with the oceanic environment in tones of blue, green, and gray."
+        ],
+        "Size": [
+            "Octopus, which may vary from small, palm-sized individuals to large ones spanning several feet.",
+            "Octopus, which demonstrates considerable size variation among species."
+        ]
+    },
+    "okapi": {
+        "Dominant Feature": [
+            "Okapi, which has distinct white stripes on its body."
+        ],
+        "Shape": [
+            "Okapi, which has a body shape similar to that of a horse.",
+            "Okapi, which has a long neck like a giraffe."
+        ],
+        "Texture": [
+            "Okapi, which has a velvety and smooth fur texture.",
+            "Okapi, which has a thicker fur texture on its mane."
+        ],
+        "Color": [
+            "Okapi, which has a rich, reddish-brown coat with distinct white horizontal stripes on the legs.",
+            "Okapi, which has a glossy, dark brown body with white stripes and markings.",
+            "Okapi, which has a unique coloration blending shades of brown with a gray undertone.",
+            "Okapi, which has a striking contrast between the dark body color and the white stripes.",
+            "Okapi, which has a deep, mahogany base color with crisp white markings."
+        ],
+        "Size": [
+            "Okapi, which is about 1.5 meters tall at the shoulder.",
+            "Okapi, which has a body length of approximately 2.5 meters from head to tail."
+        ]
+    },
+    "pagoda": {
+        "Dominant Feature": [
+            "Pagoda, which has multiple tiers and eaves.",
+            "Pagoda, which has elaborate carvings and statues."
+        ],
+        "Shape": [
+            "Pagoda, which has a multi-tiered tower structure.",
+            "Pagoda, which features a steepled roof."
+        ],
+        "Texture": [
+            "Pagoda, which may show smooth tiled roofing.",
+            "Pagoda, which can have textured wooden walls."
+        ],
+        "Color": [
+            "Pagoda, which is often colored in vibrant red hues symbolizing good fortune and joy.",
+            "Pagoda, which can also be painted in gold colors representing wealth and prosperity."
+        ],
+        "Size": [
+            "Pagoda, which varies in height but is typically towering.",
+            "Pagoda, which ranges in size from small shrine-like structures to large temple complexes."
+        ]
+    },
+    "panda": {
+        "Dominant Feature": [
+            "Panda, which has distinctive black eye patches.",
+            "Panda, which has prominent black ears."
+        ],
+        "Shape": [
+            "Panda, which has a round body shape.",
+            "Panda, which has a large head with rounded ears."
+        ],
+        "Texture": [
+            "Panda, which has thick, woolly fur.",
+            "Panda, which exhibits smooth black patches on its fur."
+        ],
+        "Color": [
+            "Panda, which has distinct black and white fur coloring.",
+            "Panda, which exhibits a high contrast between its black patches and white areas.",
+            "Panda, which showcases a monochromatic color scheme of black and white fur.",
+            "Panda, which has a predominantly white body with black fur patches."
+        ],
+        "Size": [
+            "Panda, which is large in size compared to the average human.",
+            "Panda, which can be up to 1.5 meters in length when adult."
+        ]
+    },
+    "pigeon": {
+        "Dominant Feature": [
+            "Pigeon, which has a distinctive beak shape.",
+            "Pigeon, which has prominent eye markings."
+        ],
+        "Shape": [
+            "Pigeon, which has a plump body and small head.",
+            "Pigeon, which possesses a short neck and a beak with a curved culmen."
+        ],
+        "Texture": [
+            "Pigeon, which has a soft and smooth feather texture.",
+            "Pigeon, which may have sleek feathers on the neck with a metallic sheen."
+        ],
+        "Color": [
+            "Pigeon, which has a predominantly gray plumage with iridescent patches on the neck and wings.",
+            "Pigeon, which displays a variety of color mutations such as white, black, and spotted plumage."
+        ],
+        "Size": [
+            "Pigeon, which is medium-sized when compared to common birds.",
+            "Pigeon, which varies in size but generally fits comfortably in one's hand."
+        ]
+    },
+    "pizza": {
+        "Dominant Feature": [
+            "Pizza, which has a generous amount of cheese.",
+            "Pizza, which has a variety of colorful toppings."
+        ],
+        "Shape": [
+            "Pizza, which is typically round.",
+            "Pizza, which can be sliced into triangular pieces."
+        ],
+        "Texture": [
+            "Pizza, which has a bubbly and slightly charred crust.",
+            "Pizza, which has a gooey and melted cheese texture."
+        ],
+        "Color": [
+            "Pizza, which is typically golden brown with shades of red and yellow from tomato sauce and cheese.",
+            "Pizza, which may have a slightly charred appearance on the crust, adding darker tones to the overall colors.",
+            "Pizza, which features contrasting colors from ingredients like green basil leaves and red tomato slices.",
+            "Pizza, which showcases a variety of colors based on toppings such as olives, mushrooms, and peppers.",
+            "Pizza, which often has a vibrant and appetizing color profile including rich browns, bright reds, and fresh greens."
+        ],
+        "Size": [
+            "Pizza, which varies in size from personal to large.",
+            "Pizza, which has thickness that ranges from thin crust to deep dish."
+        ]
+    },
+    "platypus": {
+        "Dominant Feature": [
+            "Platypus, which has a duck-like bill.",
+            "Platypus, which has webbed feet."
+        ],
+        "Shape": [
+            "Platypus, which has a streamlined body.",
+            "Platypus, which has a distinct flat bill similar to a duck."
+        ],
+        "Texture": [
+            "Platypus, which has a dense waterproof fur.",
+            "Platypus, which has smooth skin on its bill and webbed feet."
+        ],
+        "Color": [
+            "Platypus, which has a dark brown fur coloration.",
+            "Platypus, which has a mottled brown and tan coloration.",
+            "Platypus, which has a unique blend of brown and gray hues in its fur.",
+            "Platypus, which has a sleek, shiny appearance due to its water-resistant fur."
+        ],
+        "Size": [
+            "Platypus, which is a small to medium-sized animal.",
+            "Platypus, which has a body length ranging from 30 to 40 cm."
+        ]
+    },
+    "pyramid": {
+        "Dominant Feature": [
+            "Pyramid, which has a pyramid shape.",
+            "Pyramid, which has a triangular face on each side."
+        ],
+        "Shape": [
+            "Pyramid, which has a square base with four triangular sides converging to a point.",
+            "Pyramid, which displays a distinct geometric form recognized by its sharp edges."
+        ],
+        "Texture": [
+            "Pyramid, which shows a smooth surface worn by time.",
+            "Pyramid, which has a rough and weathered texture with visible blocks or bricks."
+        ],
+        "Color": [
+            "Pyramid, which is often depicted in shades of sandy beige or light brown.",
+            "Pyramid, which may also appear in grey or stone-like colors."
+        ],
+        "Size": [
+            "Pyramid, which is large and monumental in scale.",
+            "Pyramid, which varies in size depending on the representation within the image."
+        ]
+    },
+    "revolver": {
+        "Dominant Feature": [
+            "Revolver, which has a barrel.",
+            "Revolver, which has a trigger."
+        ],
+        "Shape": [
+            "Revolver, which has a cylindrical chamber.",
+            "Revolver, which features a long, narrow barrel."
+        ],
+        "Texture": [
+            "Revolver, which has a smooth metal surface.",
+            "Revolver, which may have a textured grip."
+        ],
+        "Color": [
+            "Revolver, which commonly has a metallic silver color with black or brown accents.",
+            "Revolver, which may appear in a black finish with polished silver details."
+        ],
+        "Size": [
+            "Revolver, which is small enough to be held in one hand.",
+            "Revolver, which varies in length depending on the model but generally within a handheld size range."
+        ]
+    },
+    "rhino": {
+        "Dominant Feature": [
+            "Rhino, which has a large horn."
+        ],
+        "Shape": [
+            "Rhino, which has a bulky and robust body structure.",
+            "Rhino, which features a large head with a distinct horn."
+        ],
+        "Texture": [
+            "Rhino, which has a thick, rough skin texture.",
+            "Rhino, which has sparse hair covering certain parts of its body."
+        ],
+        "Color": [
+            "Rhino, which has a grayish skin color, blending well with natural habitats.",
+            "Rhino, whose skin appears dark gray, offering camouflage in certain environments."
+        ],
+        "Size": [
+            "Rhino, which is large in size compared to other animals.",
+            "Rhino, which has a considerable mass, indicating its heavy weight."
+        ]
+    },
+    "rooster": {
+        "Dominant Feature": [
+            "Rooster, which has a prominent and elaborate tail feathers.",
+            "Rooster, which has sharp and pointed spurs."
+        ],
+        "Shape": [
+            "Rooster, which has an upright posture with a prominent tail.",
+            "Rooster, which displays a body shape with a broad chest and a curved back."
+        ],
+        "Texture": [
+            "Rooster, which has smooth and glossy feathers.",
+            "Rooster, which may have fine, fluffy feathers around the neck and head known as a hackle."
+        ],
+        "Color": [
+            "A rooster, which typically has vibrant hues of red, orange, and green in its plumage.",
+            "A rooster, which can have iridescent shades of blue and purple in its feathers.",
+            "A rooster, which may display a combination of white, black, and gold coloration.",
+            "A rooster, which often features striking contrasts of red comb and wattles against dark feathers.",
+            "A rooster, which may exhibit a mix of colors such as brown, white, and green in its overall appearance."
+        ],
+        "Size": [
+            "Rooster, which is typically larger than hens within the same breed.",
+            "Rooster, which varies in size from small bantams to large fowl."
+        ]
+    },
+    "saxophone": {
+        "Dominant Feature": [
+            "Saxophone, which has keys and buttons.",
+            "Saxophone, which has a mouthpiece."
+        ],
+        "Shape": [
+            "Saxophone, which has a curved bell shape at one end.",
+            "Saxophone, which features a narrow, elongated tube that flares into a bell."
+        ],
+        "Texture": [
+            "Saxophone, which has a smooth metallic surface.",
+            "Saxophone, which may show textured keypads."
+        ],
+        "Color": [
+            "Saxophone, which is commonly brass or golden in color, reflecting light with a metallic sheen.",
+            "Saxophone, which can also appear in silver or black finishes for a modern aesthetic."
+        ],
+        "Size": [
+            "Saxophone, which is medium-sized and held in the hands while played.",
+            "Saxophone, which varies in size from the smaller soprano to the larger baritone models."
+        ]
+    },
+    "schooner": {
+        "Dominant Feature": [
+            "Schooner, which has multiple masts.",
+            "Schooner, which has decorative carvings on the hull."
+        ],
+        "Shape": [
+            "Schooner, which has a long, narrow hull.",
+            "Schooner, which has tall masts with triangular sails."
+        ],
+        "Texture": [
+            "Schooner, which has smooth wooden surfaces.",
+            "Schooner, which has canvas-textured sails."
+        ],
+        "Color": [
+            "Schooner, which typically appears in natural wooden hues such as brown, mahogany, or teak.",
+            "Schooner, which sometimes features white or cream-colored accents on the hull and sails.",
+            "Schooner, which may display contrasting colors like black on the hull and white on the sails."
+        ],
+        "Size": [
+            "Schooner, which is large compared to small watercraft.",
+            "Schooner, which has multiple decks."
+        ]
+    },
+    "scissors": {
+        "Dominant Feature": [
+            "Scissors, which have finger loops.",
+            "Scissors, which have a screw for adjusting tension."
+        ],
+        "Shape": [
+            "Scissors, which consist of two crossable blades.",
+            "Scissors, which have pointed tips.",
+            "Scissors, which exhibit long blades with finger loops.",
+            "Scissors, which have short blades with large loops."
+        ],
+        "Texture": [
+            "Scissors, which have a smooth metal finish.",
+            "Scissors, which may have serrated blades."
+        ],
+        "Color": [
+            "Scissors, which can be metallic silver in color.",
+            "Scissors, which can be black with a matte finish.",
+            "Scissors, which can be brightly colored for easy identification in a work setting."
+        ],
+        "Size": [
+            "Scissors, which are small and portable.",
+            "Scissors, which are large with long cutting blades."
+        ]
+    },
+    "scorpion": {
+        "Dominant Feature": [
+            "Scorpion, which has pincers.",
+            "Scorpion, which has a stinger.",
+            "Scorpion, which has hooked claws."
+        ],
+        "Shape": [
+            "Scorpion, which has a segmented body with a curved tail.",
+            "Scorpion, which possesses two pincer-like pedipalps in front."
+        ],
+        "Texture": [
+            "Scorpion, which has a rough exoskeleton.",
+            "Scorpion, which appears glossy or shiny under light."
+        ],
+        "Color": [
+            "Scorpion, which has a dark black or brown coloration for camouflage in arid environments.",
+            "Scorpion, which displays shades of tan and yellow for desert adaptation.",
+            "Scorpion, which may feature a glossy appearance with hues of black and dark brown.",
+            "Scorpion, which can exhibit a mottled pattern of black and brown for blending in sandy terrains.",
+            "Scorpion, which showcases a contrasting pattern of black and yellow for warning signals."
+        ],
+        "Size": [
+            "Scorpion, which varies in size, but generally small to medium within the dataset.",
+            "Scorpion, which can range from a few centimeters to several inches in length."
+        ]
+    },
+    "sea horse": {
+        "Dominant Feature": [
+            "Sea horse, which has a distinct snout.",
+            "Sea horse, which has a slender, elongated body."
+        ],
+        "Shape": [
+            "Sea horse, which has a curved, horse-like head.",
+            "Sea horse, which possesses a distinct, curled prehensile tail."
+        ],
+        "Texture": [
+            "Sea horse, which has a bony exoskeleton giving it a rigid surface.",
+            "Sea horse, which may have smooth or knobby skin."
+        ],
+        "Color": [
+            "A sea horse, which has a range of colors such as vibrant oranges, yellows, and greens for camouflage in coral reefs.",
+            "A sea horse, which has a natural coloration to blend in with its environment, showcasing hues of browns and greens.",
+            "A sea horse, which exhibits vibrant hues of reds and purples, making it a standout feature in aquatic environments."
+        ],
+        "Size": [
+            "Sea horse, which is small ranging from 0.6 inches to 14 inches.",
+            "Sea horse, which varies in size depending on the species."
+        ]
+    },
+    "snoopy": {
+        "Dominant Feature": [
+            "Snoopy, which has expressive eyes.",
+            "Snoopy, which has a black nose.",
+            "Snoopy, which has floppy ears.",
+            "Snoopy, who carries a red doghouse."
+        ],
+        "Shape": [
+            "Snoopy, which has a distinctive long, pointed nose.",
+            "Snoopy, which has a rounded head.",
+            "Snoopy, which is depicted with a slender body."
+        ],
+        "Texture": [
+            "Snoopy, which appears smooth.",
+            "Snoopy, which looks glossy in some representations."
+        ],
+        "Color": [
+            "Snoopy, which is predominantly white with black accents, resembling a beagle.",
+            "Snoopy, which features a monochromatic color scheme of black and white, creating a distinctive appearance."
+        ],
+        "Size": [
+            "Snoopy, which is relatively small in comparison to human figures in images.",
+            "Snoopy, which varies in size depending on the context but maintains consistent proportions."
+        ]
+    },
+    "soccer ball": {
+        "Dominant Feature": [
+            "Soccer ball, which has prominent pentagon shapes.",
+            "Soccer ball, which has prominent hexagon shapes."
+        ],
+        "Shape": [
+            "Soccer ball, which is spherical.",
+            "Soccer ball, which is geometrically made of pentagons and hexagons."
+        ],
+        "Texture": [
+            "Soccer ball, which has a textured surface for grip.",
+            "Soccer ball, which is made of leather or synthetic leather."
+        ],
+        "Color": [
+            "Soccer ball, which has black and white contrasting geometric panels.",
+            "Soccer ball, which has a classic color combination of black and white.",
+            "Soccer ball, which has a glossy black pentagons and white hexagons pattern.",
+            "Soccer ball, which has a monochromatic color scheme of black and white panels.",
+            "Soccer ball, which has a sharp contrast between the black pentagons and white hexagons."
+        ],
+        "Size": [
+            "Soccer ball, which is standard size 5 for adults.",
+            "Soccer ball, which may be smaller size 4 for youth players."
+        ]
+    },
+    "stapler": {
+        "Dominant Feature": [
+            "Stapler, which has a prominent handle.",
+            "Stapler, which has a prominent stapling mechanism."
+        ],
+        "Shape": [
+            "Stapler, which is rectangular with a curved top.",
+            "Stapler, which is elongated with a hinge at one end."
+        ],
+        "Texture": [
+            "Stapler, which has a smooth metal surface.",
+            "Stapler, which has a matte plastic finish."
+        ],
+        "Color": [
+            "Stapler, which is typically a metallic silver color with a glossy finish.",
+            "Stapler, which comes in a variety of colors such as black, red, and blue.",
+            "Stapler, which may feature dual-tone colors like silver and black.",
+            "Stapler, which can have a matte black finish.",
+            "Stapler, which could have a vibrant color like neon green."
+        ],
+        "Size": [
+            "Stapler, which fits in the palm of a hand.",
+            "Stapler, which is large enough to staple multiple pages on a desk."
+        ]
+    },
+    "starfish": {
+        "Dominant Feature": [
+            "Starfish, which has distinct tube feet on its underside.",
+            "Starfish, which has prominent eyespots at the end of each arm."
+        ],
+        "Shape": [
+            "Starfish, which has a pentagon-like central body.",
+            "Starfish, which has arms radiating from the center."
+        ],
+        "Texture": [
+            "Starfish, which has a rough texture due to its spiny skin.",
+            "Starfish, which may have a bumpy surface with small protruding ossicles."
+        ],
+        "Color": [
+            "Starfish, which has a vibrant orange hue with some variations in shades.",
+            "Starfish, which can display hues ranging from red to orange to yellow.",
+            "Starfish, which might have a banded color pattern with hues of orange and red.",
+            "Starfish, which can exhibit bright and vivid colors such as orange and purple.",
+            "Starfish, which may have a mottled coloration with shades of orange and brown."
+        ],
+        "Size": [
+            "Starfish, which can be small enough to fit in the palm of a hand.",
+            "Starfish, which can span over a foot in diameter."
+        ]
+    },
+    "stegosaurus": {
+        "Dominant Feature": [
+            "Stegosaurus, which has large plates on its back.",
+            "Stegosaurus, which has spiked tail."
+        ],
+        "Shape": [
+            "Stegosaurus, which has a distinctive arched back with plate-like structures.",
+            "Stegosaurus, which has a small head and a spiked tail."
+        ],
+        "Texture": [
+            "Stegosaurus, which is portrayed with pebbly skin texture.",
+            "Stegosaurus, which might have a rough surface on its back plates."
+        ],
+        "Color": [
+            "Stegosaurus, which is predominantly green in color with hints of brown on its scales.",
+            "Stegosaurus, which has a mottled combination of green and brown hues.",
+            "Stegosaurus, with a greyish-green coloration blended with darker shades on its scales."
+        ],
+        "Size": [
+            "Stegosaurus, which is large in proportion to human figures.",
+            "Stegosaurus, which has a bulky body with stout legs."
+        ]
+    },
+    "stop sign": {
+        "Dominant Feature": [
+            "Stop sign, which has a prominent white text saying 'STOP' in the center."
+        ],
+        "Shape": [
+            "Stop sign, which is octagonal in shape.",
+            "Stop sign, which has eight equal-length sides."
+        ],
+        "Texture": [
+            "Stop sign, which has a smooth and reflective surface.",
+            "Stop sign, which may appear weathered with minor surface imperfections."
+        ],
+        "Color": [
+            "Stop sign, which is predominantly red with white text.",
+            "Stop sign, which has a bright red color that enhances visibility."
+        ],
+        "Size": [
+            "Stop sign, which is standardized in size for traffic regulation.",
+            "Stop sign, which appears smaller when viewed from a distance."
+        ]
+    },
+    "strawberry": {
+        "Dominant Feature": [
+            "Strawberry, which has a green stem on top.",
+            "Strawberry, which has tiny green leaves on its surface."
+        ],
+        "Shape": [
+            "Strawberry, which is conical.",
+            "Strawberry, which is heart-shaped."
+        ],
+        "Texture": [
+            "Strawberry, which has a bumpy surface.",
+            "Strawberry, which has small seeds embedded in its skin."
+        ],
+        "Color": [
+            "Strawberry, which has a vibrant red color with glossy sheen.",
+            "Strawberry, which has a deep red hue with no hints of green.",
+            "Strawberry, which has a lustrous, ripe red color.",
+            "Strawberry, which has a uniform red coloration all over.",
+            "Strawberry, which has a deep crimson color with no discolorations."
+        ],
+        "Size": [
+            "Strawberry, which is small and can be held between two fingers.",
+            "Strawberry, which varies in size but generally fits in the palm of a hand."
+        ]
+    },
+    "sunflower": {
+        "Dominant Feature": [
+            "Sunflower, which has a prominent yellow center.",
+            "Sunflower, which has large and broad petals."
+        ],
+        "Shape": [
+            "Sunflower, which has a circular center with radiating petals.",
+            "Sunflower, which has ovate-shaped leaves."
+        ],
+        "Texture": [
+            "Sunflower, which has a rough-textured center.",
+            "Sunflower, which has smooth and soft petals."
+        ],
+        "Color": [
+            "Sunflower, which has bright yellow petals surrounding a dark brown center.",
+            "Sunflower, which has a vibrant yellow color with a contrasting dark center.",
+            "Sunflower, which has a warm, golden hue with dark brown accents."
+        ],
+        "Size": [
+            "Sunflower, which has a large head typically exceeding 10 centimeters in diameter.",
+            "Sunflower, which has long stems that can grow several feet tall."
+        ]
+    },
+    "tick": {
+        "Dominant Feature": [
+            "Tick, which has prominent mouthparts.",
+            "Tick, which has a small head."
+        ],
+        "Shape": [
+            "Tick, which has an oval and flattened body shape.",
+            "Tick, which has a tear-drop shape when engorged."
+        ],
+        "Texture": [
+            "Tick, which has a hard, smooth exoskeleton.",
+            "Tick, which appears engorged and smooth after feeding."
+        ],
+        "Color": [
+            "Tick, which is often dark brown or black in color.",
+            "Tick, which may appear reddish-brown or gray in color."
+        ],
+        "Size": [
+            "Tick, which is small, typically the size of an apple seed.",
+            "Tick, which can swell up to the size of a pea after feeding."
+        ]
+    },
+    "trilobite": {
+        "Dominant Feature": [
+            "Trilobite, which has compound eyes.",
+            "Trilobite, which has spiky legs."
+        ],
+        "Shape": [
+            "Trilobite, which has an elongated oval shape.",
+            "Trilobite, which shows a segmented body structure."
+        ],
+        "Texture": [
+            "Trilobite, which exhibits a hard, calcified exoskeleton.",
+            "Trilobite, which has a pitted or bumpy surface texture."
+        ],
+        "Color": [
+            "Trilobite, which has a dark, earthy hue blending with the rock.",
+            "Trilobite, which comes in shades of brown and grey mimicking the substrate color."
+        ],
+        "Size": [
+            "Trilobite, which varies in size but often fits within the palm of a hand.",
+            "Trilobite, which could be as long as a few centimeters."
+        ]
+    },
+    "umbrella": {
+        "Dominant Feature": [
+            "Umbrella, which has a curved handle.",
+            "Umbrella, which has a straight handle.",
+            "Umbrella, which has a hooked handle."
+        ],
+        "Shape": [
+            "Umbrella, which is dome-shaped.",
+            "Umbrella, which is flat with a slight curve."
+        ],
+        "Texture": [
+            "Umbrella, which has a smooth and watertight surface.",
+            "Umbrella, which has a textured grip handle."
+        ],
+        "Color": [
+            "Umbrella, which is commonly seen in bright colors like red, yellow, or blue.",
+            "Umbrella, which can also come in neutral hues like black, grey, or white."
+        ],
+        "Size": [
+            "Umbrella, which is compact and foldable.",
+            "Umbrella, which is large and golf-sized."
+        ]
+    },
+    "watch": {
+        "Dominant Feature": [
+            "Watch, which has prominent hour markers.",
+            "Watch, which has prominent minute markers.",
+            "Watch, which has prominent hour and minute hands.",
+            "Watch, which has a prominent second hand.",
+            "Watch, which has a prominent crown."
+        ],
+        "Shape": [
+            "Watch, which is round in shape for a classic look.",
+            "Watch, which has a square dial for a modern aesthetic.",
+            "Watch, which features an oval face for a sleek design.",
+            "Watch, which may come in a rectangular form."
+        ],
+        "Texture": [
+            "Watch, which has a smooth, glossy finish on the dial.",
+            "Watch, which features a textured leather strap.",
+            "Watch, which includes knurled crowns for grip.",
+            "Watch, which has a matte finish on a metallic surface."
+        ],
+        "Color": [
+            "A watch in the Caltech101 dataset may have a metallic silver color.",
+            "A watch in the Caltech101 dataset may have a gold color.",
+            "A watch in the Caltech101 dataset may have a black color.",
+            "A watch in the Caltech101 dataset may have a white color.",
+            "A watch in the Caltech101 dataset may have a two-tone color scheme, combining gold and silver tones."
+        ],
+        "Size": [
+            "Watch, which is small and delicate, suitable for slender wrists.",
+            "Watch, which is large and robust, making a bold statement.",
+            "Watch, which is medium-sized, fitting averagely sized wrists."
+        ]
+    },
+    "water lilly": {
+        "Dominant Feature": [
+            "Water lily, which has floating leaves.",
+            "Water lily, which has large petals."
+        ],
+        "Shape": [
+            "Water lilly, which has a radial array of petals.",
+            "Water lilly, which presents a star-like pattern when viewed from above."
+        ],
+        "Texture": [
+            "Water lilly, which has petals that are smooth and waxy.",
+            "Water lilly, which includes flat, broad leaves with a smooth to slightly ribbed texture."
+        ],
+        "Color": [
+            "Water lily, which has delicate petals in shades of white or pink.",
+            "Water lily, which exhibits vibrant pink hues on its petals.",
+            "Water lily, which showcases a pristine white coloration with a subtle hint of yellow towards the center.",
+            "Water lily, which displays petals with a gradient of pink and white tones.",
+            "Water lily, which can also appear in shades of lavender."
+        ],
+        "Size": [
+            "Water lilly, which typically spans from four to six inches in diameter.",
+            "Water lilly, which has leaves that can grow up to twelve inches across."
+        ]
+    },
+    "wheelchair": {
+        "Dominant Feature": [
+            "Wheelchair, which has large wheels.",
+            "Wheelchair, which has adjustable armrests."
+        ],
+        "Shape": [
+            "Wheelchair, which is composed of a seat with a backrest, two large wheels on the sides, and smaller wheels at the front.",
+            "Wheelchair, which has a distinct metallic frame that supports the seat and wheels."
+        ],
+        "Texture": [
+            "Wheelchair, which has smooth metallic surfaces on its frame.",
+            "Wheelchair, which may have textured grips on the wheels for manual propulsion."
+        ],
+        "Color": [
+            "wheelchair, which is often seen in shades of grey for a neutral appearance.",
+            "wheelchair, which can also be found in black or metallic hues for a sleek look.",
+            "wheelchair, which may come in vibrant colors like red or blue for visibility and style."
+        ],
+        "Size": [
+            "Wheelchair, which is sized to fit through standard doorways and accommodate an adult seated.",
+            "Wheelchair, which can vary in size with children's models being smaller."
+        ]
+    },
+    "wild cat": {
+        "Dominant Feature": [
+            "Wild cat, which has piercing eyes.",
+            "Wild cat, which has long whiskers."
+        ],
+        "Shape": [
+            "Wild cat, which has a compact and muscular body.",
+            "Wild cat, which has a slender and agile form."
+        ],
+        "Texture": [
+            "Wild cat, which has short and smooth fur.",
+            "Wild cat, which has long and shaggy fur."
+        ],
+        "Color": [
+            "Wild cat, which has a coat color that ranges from sandy beige to tawny brown.",
+            "Wild cat, which showcases coat colors ranging from gray to reddish-brown.",
+            "Wild cat, which displays coat colors including spotted or striped patterns.",
+            "Wild cat, which exhibits coat colors with variations from light cream to deep orange.",
+            "Wild cat, which features coat colors with a mix of black and brown tones."
+        ],
+        "Size": [
+            "Wild cat, which is similar in size to a domestic cat.",
+            "Wild cat, which is larger than a domestic cat and has a more robust build."
+        ]
+    },
+    "windsor chair": {
+        "Dominant Feature": [
+            "Windsor chair, which has spindle backrests.",
+            "Windsor chair, which has a carved backrest."
+        ],
+        "Shape": [
+            "Windsor chair, which features a rounded top with a hooped back.",
+            "Windsor chair, which has a set of spindles connecting the back to the seat."
+        ],
+        "Texture": [
+            "Windsor chair, which has a smooth, varnished wood finish.",
+            "Windsor chair, which might show wood grain details on the surface."
+        ],
+        "Color": [
+            "Windsor chair, which features a classic black color for a traditional look.",
+            "Windsor chair, which showcases a warm, natural wood finish.",
+            "Windsor chair, which may exhibit lighter shades such as beige or off-white for a contemporary style."
+        ],
+        "Size": [
+            "Windsor chair, which is designed to comfortably accommodate an adult for sitting.",
+            "Windsor chair, which typically has a standard seat height relative to dining tables."
+        ]
+    },
+    "wrench": {
+        "Dominant Feature": [
+            "Wrench, which has a distinct handle.",
+            "Wrench, which has a prominent jaw."
+        ],
+        "Shape": [
+            "Wrench, which has a long handle with a grasping end.",
+            "Wrench, which ends in an open or closed socket."
+        ],
+        "Texture": [
+            "Wrench, which is metallic and smooth.",
+            "Wrench, which may have a patterned grip for better handling."
+        ],
+        "Color": [
+            "Wrench, which is typically metallic silver or chrome in color.",
+            "Wrench, which can also come in black for a more industrial look."
+        ],
+        "Size": [
+            "Wrench, which varies in size and can be hand-held.",
+            "Wrench, which ranges from small for delicate work to large for heavy-duty tasks."
+        ]
+    },
+    "yin yang": {
+        "Dominant Feature": [
+            "Yin yang symbol, which has two contrasting halves."
+        ],
+        "Shape": [
+            "Yin yang, which is circular in overall shape.",
+            "Yin yang, which has teardrop shapes nested within the circle."
+        ],
+        "Texture": [
+            "Yin yang, which is typically smooth with no texture.",
+            "Yin yang, which may appear as a flat, two-dimensional symbol."
+        ],
+        "Color": [
+            "Yin yang symbol, which is typically depicted in black and white colors.",
+            "Yin yang symbol, which may also feature variations in gradient shades of grey.",
+            "Yin yang symbol, which can be seen in contrasting black and white hues."
+        ],
+        "Size": [
+            "Yin yang, which varies in size but maintains its proportions.",
+            "Yin yang, which sits centered within its background."
+        ]
+    }
+}
