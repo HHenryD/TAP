@@ -9,7 +9,7 @@ Official implementation of our ICLR 2025 paper:
 [![paper](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/pdf/2410.11201.pdf)
 
 <p align="center">
-  <img src="assets/overview.png" alt="Comparison between TAP and existing methods for CLIP text prompts formation." width="500"/>
+  <img src="assets/overview.png" alt="Comparison between TAP and existing methods for CLIP text prompts formation." width="800"/>
 </p>
 
 ## Installation
