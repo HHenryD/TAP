@@ -178,22 +178,14 @@ class ResidualAttentionBlock(nn.Module):
         self.ln_2 = LayerNorm(d_model)
         self.attn_mask = attn_mask
 
-    def attention(self, x: torch.Tensor, return_attention=False):
+    def attention(self, x: torch.Tensor):
         self.attn_mask = self.attn_mask.to(dtype=x.dtype, device=x.device) if self.attn_mask is not None else None
-        return self.attn(x, x, x, need_weights=return_attention, attn_mask=self.attn_mask)[0]
-        # out, attn_weights = self.attn(x, x, x, need_weights=return_attention, average_attn_weights=False, attn_mask=self.attn_mask)
-        # return out, attn_weights
+        return self.attn(x, x, x, need_weights=False, attn_mask=self.attn_mask)[0]
 
-    def forward(self, x: torch.Tensor, return_attention=False):
+    def forward(self, x: torch.Tensor):
         x = x + self.attention(self.ln_1(x))
         x = x + self.mlp(self.ln_2(x))
         return x
-        # out, attn_weights = self.attention(self.ln_1(x), return_attention=return_attention)
-        # x = x + out
-        # x = x + self.mlp(self.ln_2(x))
-        # if return_attention:
-        #     return x, attn_weights
-        # return x
 
 
 class Transformer(nn.Module):
