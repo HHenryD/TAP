@@ -18,6 +18,7 @@ DATASET_SETTINGS=(
 )
 vision_num_epochs=50
 text_num_epochs=10
+num_epochs=60
 
 bs=32
 OPTIM_NAME=adamw
@@ -36,6 +37,8 @@ for SEED in 1 2 3; do
                     --dataset-config-file configs/datasets/${DATASET}.yaml \
                     --config-file configs/trainers/${TRAINER}/TAP.yaml \
                     --output-dir ${TRAIN_OUT_DIR} \
+                    OPTIM.VISION_MAX_EPOCH ${vision_num_epochs} \
+                    OPTIM.TEXT_MAX_EPOCH ${text_num_epochs} \
                     OPTIM.NAME ${OPTIM_NAME} \
                     OPTIM.VISION_LR ${vision_lr} \
                     OPTIM.TEXT_LR ${text_lr} \
@@ -44,6 +47,7 @@ for SEED in 1 2 3; do
                     DATALOADER.TRAIN_X.BATCH_SIZE ${bs} \
                     MODEL.TAP.U3 ${u3} \
                     MODEL.TAP.MAX_LEN_QUANTILE ${quantile}
+        fi
         
         TEST_OUT_DIR=output/base2new/test_new/${DATASET}/shots_${SHOTS}/${TRAINER}/seed${SEED}
         python train.py \

@@ -217,9 +217,9 @@ class AttentionPooling(nn.Module):
         x = rearrange(x, 'b n_c n d -> (b n_c) n d')
         attn_mask = attn_mask.repeat(B, 1, 1)
         attn_mask = rearrange(attn_mask, 'b n_c n -> (b n_c) n')
-        x = self.attn(self.norm(x), attn_mask)[0]
+        x = self.attn(self.norm(x), attn_mask)
         x = rearrange(x, '(b n_c) n d -> b n_c n d', b=B)
-        return x.squeeze(2), None
+        return x.squeeze(2)
 
 def make_description_batch(descriptor_text_prompt: dict, max_len_quantile=1.0):
     des_len = np.array([v.shape[0] for v in descriptor_text_prompt.values()])
@@ -483,7 +483,6 @@ class CustomCLIP_TAP(nn.Module):
         self.visual_encoder = VisualEncoder(cfg, clip_model,  self.text_prompt_learner.num_prompts)
         self.logit_scale = clip_model.logit_scale
         self.dtype = clip_model.dtype
-        self.return_attn = self.text_encoder.return_attn
         self.u1 = cfg.MODEL.TAP.U1
         self.u3 = cfg.MODEL.TAP.U3
         self.u2 = cfg.MODEL.TAP.U2
@@ -526,7 +525,7 @@ class CustomCLIP_TAP(nn.Module):
             old_indices = None
             zs_text_features = self.cls_text_features
 
-        cls_text_features, prompt_text_features, sampled_text_features, sampled_frozen_text_features, sampled_labels, attn_weights = self.text_encoder(prompt_img_features, cls_img_features.unsqueeze(1), alternating_epoch, sampled_classnames, old_indices)
+        cls_text_features, prompt_text_features, sampled_text_features, sampled_frozen_text_features, sampled_labels = self.text_encoder(prompt_img_features, cls_img_features.unsqueeze(1), alternating_epoch, sampled_classnames, old_indices)
         # prompt_img_features: [batch_size, num_descriptors, feature_dim]
         # prompt_text_features: [batch_size, num_classes, num_descriptors, feature_dim]
         assert prompt_img_features.shape[1] == prompt_text_features.shape[2]
@@ -562,9 +561,7 @@ class CustomCLIP_TAP(nn.Module):
         else:
             tt_logit = None
             tt_logit_inverse = None
-
-        if self.return_attn:
-            return all_logits, attn_weights
+        
         if self.text_prompt_learner.training or self.vision_prompt_learner.training:
             return all_logits, zs_logits, zs_img_features, cls_img_features, tt_logit, tt_logit_inverse, new_label, sampled_labels
         else:
@@ -653,7 +650,7 @@ class TAP(TrainerX):
                     param.requires_grad_(False)
                 else:
                     param.requires_grad_(True)
-                    print(f"Turn on gradients for {name}")
+                    # print(f"Turn on gradients for {name}")
                     param.requires_grad_(True)
         elif phase == "train_text":
             print("Turning off gradients in both the image and the text encoder, as well as the vision prompts")
@@ -662,7 +659,7 @@ class TAP(TrainerX):
                     param.requires_grad_(False)
                 else:
                     param.requires_grad_(True)
-                    print(f"Turn on gradients for {name}")
+                    # print(f"Turn on gradients for {name}")
                     param.requires_grad_(True)
         else:
             raise NotImplementedError(f"phase {phase} not implemented")

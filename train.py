@@ -108,7 +108,7 @@ def extend_cfg(cfg):
 
     cfg.OPTIM.VISION_MAX_EPOCH = 50
     cfg.OPTIM.VISION_LR = 0.004
-    cfg.OPTIM.TEXT_MAX_EPOCH = 5
+    cfg.OPTIM.TEXT_MAX_EPOCH = 10
     cfg.OPTIM.TEXT_LR = 0.004
 
 def setup_cfg(args):

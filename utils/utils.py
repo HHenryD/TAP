@@ -140,3 +140,8 @@ def load_clip_to_cpu(cfg):
     model = clip.build_model(state_dict or model.state_dict())
 
     return model
+
+def entropy(logits):
+    p = F.softmax(logits, dim=-1)
+    log_p = torch.log(p)
+    return -torch.sum(p * log_p, dim=-1)
