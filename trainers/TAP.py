@@ -27,7 +27,37 @@ from clip.model import LayerNorm
 from clip.simple_tokenizer import SimpleTokenizer as _Tokenizer
 from utils.utils import load_json, wordify, load_clip_to_cpu, entropy, CUSTOM_TEMPLATES, IMAGENET_TEMPLATES, IMAGENET_TEMPLATES_SELECT, make_template_custom
 
-DEVICE = torch.device("mps")
+def get_device():
+    """TAP_DEVICE (cuda / mps / cpu) overrides; otherwise prefer cuda, then mps, then cpu."""
+    name = os.environ.get("TAP_DEVICE")
+    if name is None:
+        if torch.cuda.is_available():
+            name = "cuda"
+        elif torch.backends.mps.is_available():
+            name = "mps"
+        else:
+            name = "cpu"
+    return torch.device(name)
+
+
+DEVICE = get_device()
+
+
+def release_cached_memory():
+    gc.collect()
+    if DEVICE.type == "cuda":
+        torch.cuda.empty_cache()
+    elif DEVICE.type == "mps":
+        torch.mps.empty_cache()
+
+
+def allocated_memory_gib():
+    if DEVICE.type == "cuda":
+        return torch.cuda.memory_allocated() / 2**30
+    if DEVICE.type == "mps":
+        return torch.mps.current_allocated_memory() / 2**30
+    return 0.0
+
 
 import time
 import numpy as np
@@ -720,9 +750,8 @@ class TAP(TrainerX):
                 self.setup_phase()
 
     def run_epoch(self):
-        gc.collect()
-        torch.mps.empty_cache()
-        print(f"[mem] epoch {self.epoch + 1} start: MPS allocated {torch.mps.current_allocated_memory() / 2**30:.2f} GiB")
+        release_cached_memory()
+        print(f"[mem] epoch {self.epoch + 1} start: {DEVICE.type} allocated {allocated_memory_gib():.2f} GiB")
         losses = MetricMeter()
         batch_time = AverageMeter()
         data_time = AverageMeter()
