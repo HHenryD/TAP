@@ -1,4 +1,5 @@
 import copy
+import gc
 import os.path as osp
 import os
 
@@ -9,6 +10,7 @@ from collections import OrderedDict
 
 import torch
 import torch.nn as nn
+from torch.utils.checkpoint import checkpoint
 from torch.nn import functional as F
 from torch.nn import Dropout
 from torch.cuda.amp import GradScaler, autocast
@@ -24,6 +26,8 @@ from clip import clip
 from clip.model import LayerNorm
 from clip.simple_tokenizer import SimpleTokenizer as _Tokenizer
 from utils.utils import load_json, wordify, load_clip_to_cpu, entropy, CUSTOM_TEMPLATES, IMAGENET_TEMPLATES, IMAGENET_TEMPLATES_SELECT, make_template_custom
+
+DEVICE = torch.device("mps")
 
 import time
 import numpy as np
@@ -271,7 +275,7 @@ class TextPromptLearner(nn.Module):
 
     def forward(self, token_prefix, token_suffix, init=False):
         if init:
-            ctx = self.ctx.clone().detach().cuda()
+            ctx = self.ctx.clone().detach().to(DEVICE)
         else:
             ctx = self.ctx
         B = token_prefix.shape[0]
@@ -303,7 +307,7 @@ class TextEncoder(nn.Module):
                 text_embeddings: [batch_size, num_classes, num_descriptors, prompt_dim]
         '''
         super().__init__()
-        clip_model.cuda()
+        clip_model.to(DEVICE)
         self.text_prompt_learner = text_prompt_learner
         text_prompts = text_prompt_learner.text_prompts
         # {'descriptor1': {class1: [description1, description2, ...], 'class2': [...]}, 'descriptor2': ...}
@@ -335,7 +339,12 @@ class TextEncoder(nn.Module):
             return token_embed
         x = token_embed + self.positional_embedding.type(self.dtype)
         x = x.permute(1, 0, 2)  # NLD -> LND
-        x = self.transformer(x)
+        if torch.is_grad_enabled():
+            # recompute activations in backward to keep the text-phase graph within memory
+            for blk in self.transformer.resblocks:
+                x = checkpoint(blk, x, use_reentrant=False)
+        else:
+            x = self.transformer(x)
         x = x.permute(1, 0, 2)  # LND -> NLD
         x = self.ln_final(x).type(self.dtype)
         # take features from the eot embedding (eot_token is the highest number in each sequence)
@@ -371,7 +380,7 @@ class TextEncoder(nn.Module):
                 batched_descriptor_text_prompt, batched_attn_mask = make_description_batch(description_prompts, self.max_len_quantile)
                     # [num_classes, max_len, prompt_dim]
                 rearranged_text_prompts = rearrange(batched_descriptor_text_prompt, 'n_c n d -> (n_c n) d')
-                text_features, token_embeds = self.encode_text(rearranged_text_prompts.cuda())
+                text_features, token_embeds = self.encode_text(rearranged_text_prompts.to(DEVICE))
                 text_features = rearrange(text_features, '(n_c n) d -> n_c n d', n_c=len(self.classnames))
                 token_embeds = rearrange(token_embeds, '(n_c n) v d -> n_c n v d', n_c=len(self.classnames))
                 token_preffix = token_embeds[:,:,:1,:]
@@ -440,7 +449,7 @@ class TextEncoder(nn.Module):
                 text_features, _ = self.encode_text(rearranged_text_prompts, prompts)
                 text_features = rearrange(text_features, '(n_c n) d -> n_c n d', n_c=n_c)
                 # random sample for contrastive loss
-                sampled_text_feature, sampled_frozen_text_feature = self.sample_text_features(text_features, frozen_text_features, batched_attn_mask.cuda())
+                sampled_text_feature, sampled_frozen_text_feature = self.sample_text_features(text_features, frozen_text_features, batched_attn_mask.to(DEVICE))
                 sampled_text_features.append(sampled_text_feature)
                 sampled_frozen_text_features.append(sampled_frozen_text_feature)
             else: # take text features from saved
@@ -490,12 +499,12 @@ class CustomCLIP_TAP(nn.Module):
         self.attr_norm_weight = 1/(self.text_prompt_learner.num_prompts+1)
         if self.u1 > 0 or self.u2 > 0:
             self.zs_clip = load_clip_to_cpu(cfg)
-            self.zs_clip.float().cuda()
+            self.zs_clip.float().to(DEVICE)
             cls_temp = CUSTOM_TEMPLATES[cfg.DATASET.NAME]
             cls_prompts = [cls_temp.format(c.replace("_", " ")) for c in classnames]
             cls_prompts = torch.cat([clip.tokenize(p) for p in cls_prompts])
             with torch.no_grad():
-                cls_embeddings = self.zs_clip.encode_text(cls_prompts.cuda())
+                cls_embeddings = self.zs_clip.encode_text(cls_prompts.to(DEVICE))
                 cls_embeddings = cls_embeddings / cls_embeddings.norm(dim=-1, keepdim=True)
             self.cls_text_features = cls_embeddings
     
@@ -592,6 +601,7 @@ class TAP(TrainerX):
             # CLIP's default precision is fp16
             clip_model.float()
 
+        self.device = DEVICE
         print("Building custom CLIP for TAP")
         self.model = CustomCLIP_TAP(cfg, clip_model, classnames)
         self.model.to(self.device)
@@ -710,6 +720,9 @@ class TAP(TrainerX):
                 self.setup_phase()
 
     def run_epoch(self):
+        gc.collect()
+        torch.mps.empty_cache()
+        print(f"[mem] epoch {self.epoch + 1} start: MPS allocated {torch.mps.current_allocated_memory() / 2**30:.2f} GiB")
         losses = MetricMeter()
         batch_time = AverageMeter()
         data_time = AverageMeter()
